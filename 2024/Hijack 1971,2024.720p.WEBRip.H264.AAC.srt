@@ -1,18 +1,4 @@
-﻿5
-00:01:26,467 --> 00:01:27,967
-<i>Film ini merupakan karya fiksi
-berdasarkan peristiwa bersejarah.</i>
-
-6
-00:01:27,968 --> 00:01:29,768
-<i>Semua karakter, jabatan, organisasi, dll
-didramatisasi</i>
-
-7
-00:01:29,769 --> 00:01:30,869
-<i>untuk tujuan sinematik saja.</i>
-
-8
+﻿8
 00:01:38,493 --> 00:01:47,393
 ...1969
 
