@@ -1,0 +1,4622 @@
+﻿1
+00:00:35,909 --> 00:00:36,909
+"Semua karakter, organisasi, dan peristiwa"
+
+2
+00:00:36,909 --> 00:00:37,909
+"Dalam drama ini murni fiksi"
+
+3
+00:00:37,909 --> 00:00:39,385
+"Aktor cilik didampingi
+keluarga dan dijaga keamanannya"
+
+4
+00:00:39,409 --> 00:00:42,849
+Jalan untuk mencapai
+tujuan membutuhkan dua hal.
+
+5
+00:00:42,850 --> 00:00:45,350
+Semangat dan ketahanan.
+
+6
+00:00:46,719 --> 00:00:48,619
+Kita mungkin istirahat,
+
+7
+00:00:48,689 --> 00:00:50,090
+tapi tidak bisa berhenti.
+
+8
+00:00:51,390 --> 00:00:52,420
+Para tamu yang terhormat.
+
+9
+00:00:52,920 --> 00:00:54,689
+Tujuan dari jalan kita.
+
+10
+00:00:55,030 --> 00:00:58,200
+Aku akan memperkenalkan
+J-BIMS secara keseluruhan.
+
+11
+00:01:06,540 --> 00:01:08,438
+Siapa, kapan, di mana,
+
+12
+00:01:08,439 --> 00:01:10,409
+apa, bagaimana, kenapa.
+
+13
+00:01:10,939 --> 00:01:12,439
+Lima W dan satu H.
+
+14
+00:01:13,010 --> 00:01:16,579
+Tolong ingat lima W dan satu H.
+
+15
+00:01:17,049 --> 00:01:18,818
+Seseorang mengakses cloud.
+
+16
+00:01:18,819 --> 00:01:21,119
+Itu akan membantumu memahami
+
+17
+00:01:21,120 --> 00:01:23,689
+cara kerja J-BIMS yang sudah rampung.
+
+18
+00:01:24,560 --> 00:01:26,120
+Ini kata kuncinya.
+
+19
+00:01:28,829 --> 00:01:30,828
+Jika kamu mengunggah cetak biru desain,
+
+20
+00:01:30,829 --> 00:01:34,469
+program menunjukkan tampilan
+tiga dimensi dari gedung itu.
+
+21
+00:01:35,430 --> 00:01:38,239
+J-BIMS juga menghitung biaya pemeliharaan
+
+22
+00:01:38,299 --> 00:01:39,869
+dan memiliki fungsi VR,
+
+23
+00:01:39,870 --> 00:01:41,439
+menyediakan tingkat unik...
+
+24
+00:01:43,609 --> 00:01:44,809
+- Apa yang terjadi?
+- Apa ini?
+
+25
+00:01:51,049 --> 00:01:52,219
+Apa yang kamu lakukan?
+
+26
+00:02:09,229 --> 00:02:10,539
+Aku punya pertanyaan.
+
+27
+00:02:12,539 --> 00:02:13,639
+Dia lagi?
+
+28
+00:02:26,780 --> 00:02:28,050
+Apa yang sedang
+
+29
+00:02:33,090 --> 00:02:34,259
+kamu lakukan?
+
+30
+00:02:52,080 --> 00:02:57,120
+"The Auditors"
+
+31
+00:02:57,719 --> 00:02:59,379
+Apa maksudmu?
+
+32
+00:02:59,520 --> 00:03:00,789
+Apa kamu benar-benar reporter?
+
+33
+00:03:04,189 --> 00:03:06,188
+Apa maksudmu?
+
+34
+00:03:06,189 --> 00:03:07,860
+Apa yang kamu lakukan?
+
+35
+00:03:08,590 --> 00:03:10,350
+Kamu tidak tahu betapa
+pentingnya acara ini?
+
+36
+00:03:11,629 --> 00:03:13,199
+Beri aku waktu untuk menjelaskan.
+
+37
+00:03:23,009 --> 00:03:24,039
+Situasi ini saat ini.
+
+38
+00:03:25,680 --> 00:03:28,320
+Kamu harus bertanggung jawab penuh
+dan memberiku penjelasan jelas.
+
+39
+00:03:32,419 --> 00:03:34,550
+Kamu tidak menulis satu baris artikel pun.
+
+40
+00:03:35,250 --> 00:03:36,250
+Itu...
+
+41
+00:03:36,889 --> 00:03:38,658
+Gaya kerjaku adalah
+menulis artikel nanti...
+
+42
+00:03:38,659 --> 00:03:40,059
+Kenapa kameranya
+
+43
+00:03:40,060 --> 00:03:43,430
+hanya diperbesar ke dalam frasa itu?
+
+44
+00:03:47,699 --> 00:03:48,699
+Tunggu.
+
+45
+00:03:49,430 --> 00:03:51,699
+Kamu mengkritik gaya liputanku sekarang?
+
+46
+00:03:51,800 --> 00:03:52,869
+Tentu saja tidak.
+
+47
+00:03:52,870 --> 00:03:56,370
+Apa ada gaya liputan yang bisa
+dikritik saat kamu bukan reporter?
+
+48
+00:03:56,939 --> 00:03:59,209
+- Apa maksudmu?
+- Kamu makelar yang datang
+
+49
+00:03:59,210 --> 00:04:02,379
+untuk membeli J-BIMS yang
+ingin dijual Lee Ji Hoon.
+
+50
+00:04:05,979 --> 00:04:07,590
+- Apa yang terjadi?
+- Entahlah.
+
+51
+00:04:10,250 --> 00:04:11,259
+Bagaimana mungkin?
+
+52
+00:04:12,360 --> 00:04:16,189
+Sampai sekarang, Pak Lee
+membocorkan versi demo J-BIMS
+
+53
+00:04:16,389 --> 00:04:19,560
+dan menghubungi pembeli di web gelap.
+
+54
+00:04:21,629 --> 00:04:24,299
+Namun, versi demonya belum selesai.
+
+55
+00:04:24,300 --> 00:04:26,869
+Dia membuat kesepakatan dengan
+menampilkan bagian yang kurang
+
+56
+00:04:26,870 --> 00:04:28,410
+dalam demonstrasi ini.
+
+57
+00:04:29,970 --> 00:04:31,278
+Omong kosong apa...
+
+58
+00:04:31,279 --> 00:04:33,378
+Bukankah kamu menyuruh Pak Park
+untuk melakukan sesuatu saat bersiap
+
+59
+00:04:33,379 --> 00:04:34,750
+untuk demonstrasi?
+
+60
+00:04:35,149 --> 00:04:38,250
+Pada 12 menit presentasiku,
+
+61
+00:04:38,720 --> 00:04:41,120
+halaman ini harus dipasang. Kamu mengerti?
+
+62
+00:04:41,550 --> 00:04:43,449
+Lima W dan satu H.
+
+63
+00:04:43,620 --> 00:04:44,990
+Itu halamannya.
+
+64
+00:04:51,000 --> 00:04:52,430
+Bukankah itu kata sandi cloud-nya?
+
+65
+00:04:55,529 --> 00:04:56,929
+"Manajer Junior Tim Pengembangan
+Teknologi Park Jae Wan"
+
+66
+00:04:56,930 --> 00:04:58,330
+"Kata sandi cloud baru adalah 5W1H"
+
+67
+00:04:59,569 --> 00:05:01,069
+- Itu...
+- Benarkah itu?
+
+68
+00:05:02,269 --> 00:05:03,269
+Ya.
+
+69
+00:05:04,480 --> 00:05:05,509
+Itu benar.
+
+70
+00:05:12,519 --> 00:05:14,249
+Makelar itu, menyamar sebagai reporter,
+
+71
+00:05:14,250 --> 00:05:16,920
+memakai kata sandi itu
+untuk menerima J-BIMS,
+
+72
+00:05:17,189 --> 00:05:19,560
+sesuai janji.
+
+73
+00:05:20,060 --> 00:05:21,160
+Kamu punya bukti?
+
+74
+00:05:21,990 --> 00:05:24,070
+Bagaimana kamu bisa memfitnah
+seseorang tanpa bukti?
+
+75
+00:05:25,329 --> 00:05:27,930
+Aku tidak mengerti maksudmu.
+
+76
+00:05:28,730 --> 00:05:30,740
+Ini. Lihatlah. Itu akan
+menyelesaikan semuanya.
+
+77
+00:05:43,110 --> 00:05:45,979
+Kenapa kamu tidak memeriksanya?
+Kamu asal bicara.
+
+78
+00:05:45,980 --> 00:05:49,019
+Karena dia tidak mengunduh
+J-BIMS di laptop ini.
+
+79
+00:05:50,560 --> 00:05:53,159
+Karena tahu kita mengawasi,
+
+80
+00:05:53,160 --> 00:05:56,360
+dia mengakses cloud, tapi tidak
+mengunduhnya agar kita bingung.
+
+81
+00:05:59,430 --> 00:06:00,430
+Presdir Hwang.
+
+82
+00:06:00,829 --> 00:06:03,470
+Sampai kapan kita harus
+mendengarkan omong kosong ini?
+
+83
+00:06:04,069 --> 00:06:05,638
+Aku bekerja keras untuk perusahaan ini,
+
+84
+00:06:05,639 --> 00:06:07,540
+tapi diperlakukan sebagai
+mata-mata industri.
+
+85
+00:06:11,839 --> 00:06:14,750
+Jika terus begini, aku tidak
+bisa melanjutkan demonstrasi.
+
+86
+00:06:18,519 --> 00:06:19,639
+Apa yang harus kita lakukan?
+
+87
+00:06:31,199 --> 00:06:32,259
+Pak Lee.
+
+88
+00:06:35,170 --> 00:06:36,269
+Jika kamu tidak bersalah,
+
+89
+00:06:37,870 --> 00:06:39,240
+selesaikan demonstrasinya.
+
+90
+00:06:41,410 --> 00:06:44,339
+Pak Lee hanya punya satu pilihan.
+
+91
+00:06:45,610 --> 00:06:47,480
+Mengaku bersalah atas kejahatanmu
+
+92
+00:06:47,980 --> 00:06:49,209
+dan dipenjara.
+
+93
+00:06:53,680 --> 00:06:54,720
+Bukankah sudah cukup?
+
+94
+00:06:56,490 --> 00:06:57,620
+Aku tidak bisa.
+
+95
+00:06:59,589 --> 00:07:01,759
+Pak Lee sudah tahu
+
+96
+00:07:01,860 --> 00:07:04,230
+Pak Park dan aku merencanakan sesuatu.
+
+97
+00:07:04,699 --> 00:07:07,060
+Pak Lee bertanya apa
+terjadi sesuatu denganmu.
+
+98
+00:07:07,600 --> 00:07:09,569
+Bagaimana jika dia merasakan sesuatu?
+
+99
+00:07:10,029 --> 00:07:12,499
+Jalan untuk mencapai tujuan -
+Dia membuat tanda untuk mengubah
+
+100
+00:07:12,500 --> 00:07:13,599
+- membutuhkan dua hal.
+- Rencana di tengah jalan.
+
+101
+00:07:13,600 --> 00:07:15,509
+Semangat dan ketahanan.
+
+102
+00:07:22,779 --> 00:07:24,778
+Meski membawa tumbler ini,
+
+103
+00:07:24,779 --> 00:07:26,720
+Pak Lee tidak pernah meminumnya.
+
+104
+00:07:30,149 --> 00:07:31,189
+Kenapa?
+
+105
+00:07:36,790 --> 00:07:37,959
+Karena
+
+106
+00:07:39,629 --> 00:07:41,930
+tumbler ini bukan tumbler biasa.
+
+107
+00:07:42,470 --> 00:07:43,500
+- Apa?
+- Astaga.
+
+108
+00:07:44,699 --> 00:07:45,769
+Apa itu?
+
+109
+00:07:47,740 --> 00:07:49,439
+Ada diska lepas di tumbler itu.
+
+110
+00:07:54,250 --> 00:07:56,448
+Setelah menyadari pertukaran
+melalui cloud itu berbahaya,
+
+111
+00:07:56,449 --> 00:07:58,818
+Pak Lee memindahkan fail itu ke
+alat penyimpanan berbentuk tumbler
+
+112
+00:07:58,819 --> 00:08:00,099
+yang sudah disiapkan sebelumnya.
+
+113
+00:08:04,660 --> 00:08:07,859
+Pak Park. Silakan bersiap
+untuk demonstrasinya.
+
+114
+00:08:07,860 --> 00:08:08,989
+Aku akan menyelesaikan semuanya di sini.
+
+115
+00:08:08,990 --> 00:08:11,229
+Baiklah. Kalau begitu, aku
+akan bersiap untuk demonstrasi.
+
+116
+00:08:11,230 --> 00:08:12,300
+Terima kasih.
+
+117
+00:08:20,040 --> 00:08:21,209
+"Menyalin Fail"
+
+118
+00:08:25,040 --> 00:08:26,709
+Dia mengusulkan metode transaksi berbeda
+
+119
+00:08:26,939 --> 00:08:28,579
+dengan sinyal yang dijanjikan sebelumnya.
+
+120
+00:08:29,709 --> 00:08:32,620
+Jadi, makelar itu tidak mengunduhnya.
+
+121
+00:08:33,279 --> 00:08:36,519
+Tolong ingat lima W dan satu H.
+
+122
+00:08:36,919 --> 00:08:38,259
+Ini kata kuncinya.
+
+123
+00:08:44,200 --> 00:08:45,259
+Aku yakin
+
+124
+00:08:45,899 --> 00:08:47,929
+J-BIMS ada di dalam sini.
+
+125
+00:08:52,200 --> 00:08:53,240
+Atau aku salah?
+
+126
+00:09:00,580 --> 00:09:01,750
+Tangkap bedebah itu!
+
+127
+00:09:07,019 --> 00:09:08,059
+"Pratinjau Sekilas J-BIMS"
+
+128
+00:10:31,440 --> 00:10:33,500
+Buka pintunya. Semua
+sudah berakhir sekarang.
+
+129
+00:10:37,070 --> 00:10:38,539
+"Menghapus"
+
+130
+00:10:43,850 --> 00:10:45,750
+"Menghapus selesai"
+
+131
+00:11:04,100 --> 00:11:06,340
+Pak Lee. Tenanglah.
+
+132
+00:11:07,639 --> 00:11:10,639
+Pak Lee. Ini hanya akan
+memperburuk keadaanmu.
+
+133
+00:11:20,080 --> 00:11:21,149
+Semuanya.
+
+134
+00:11:22,950 --> 00:11:25,789
+Tumbler ini satu-satunya
+J-BIMS di dunia sekarang.
+
+135
+00:11:27,789 --> 00:11:29,090
+Apa maksudmu?
+
+136
+00:11:29,490 --> 00:11:30,999
+Saat aku masuk ke ruanganku,
+
+137
+00:11:31,000 --> 00:11:32,929
+aku menghapus semua program di peladen.
+
+138
+00:11:33,360 --> 00:11:34,929
+Jangan bercanda!
+
+139
+00:11:38,000 --> 00:11:40,600
+- Pak Park. Tolong periksa.
+- Baik.
+
+140
+00:11:50,409 --> 00:11:53,179
+Hilang. Semua J-BIMS sudah dihapus!
+
+141
+00:12:06,700 --> 00:12:08,340
+Bagaimana kalau kita membuat kesepakatan?
+
+142
+00:12:10,000 --> 00:12:11,039
+Cukup.
+
+143
+00:12:11,600 --> 00:12:12,740
+Akhiri sampai di sini,
+
+144
+00:12:13,669 --> 00:12:15,138
+dan aku akan mempertimbangkan semuanya.
+
+145
+00:12:15,139 --> 00:12:16,710
+Maukah kamu memberiku 50 juta dolar?
+
+146
+00:12:18,480 --> 00:12:21,879
+Menciptakan ini lagi akan
+membutuhkan banyak uang dan waktu.
+
+147
+00:12:22,250 --> 00:12:25,679
+Satu-satunya yang bisa memproduksi
+teknologi inti adalah aku.
+
+148
+00:12:25,850 --> 00:12:27,690
+Tapi kamu tidak menciptakannya sendirian.
+
+149
+00:12:29,289 --> 00:12:31,119
+- Yoon Woo?
+- Seluruh
+
+150
+00:12:31,120 --> 00:12:33,135
+Tim Pengembangan Teknologi
+mengerjakannya siang dan malam.
+
+151
+00:12:33,159 --> 00:12:34,389
+Seluruh tim?
+
+152
+00:12:35,289 --> 00:12:37,960
+Apa yang bisa dilakukan orang
+tidak kompeten seperti kamu?
+
+153
+00:12:38,700 --> 00:12:41,299
+Jika bukan karena aku,
+J-BIMS pasti sudah gagal.
+
+154
+00:12:47,440 --> 00:12:48,470
+Pak Lee.
+
+155
+00:12:49,740 --> 00:12:52,009
+Kamu pikir bisa kabur dari sini?
+
+156
+00:12:53,639 --> 00:12:54,679
+Tentu.
+
+157
+00:12:55,750 --> 00:12:57,150
+Aku tidak bisa memutar balik waktu.
+
+158
+00:12:59,179 --> 00:13:01,289
+Kamu berjanji akan meringankannya, bukan?
+
+159
+00:13:01,919 --> 00:13:02,990
+Ya, aku berjanji.
+
+160
+00:13:04,490 --> 00:13:05,519
+Jadi,
+
+161
+00:13:07,389 --> 00:13:08,429
+serahkan sekarang.
+
+162
+00:13:25,409 --> 00:13:26,739
+Sebenarnya,
+
+163
+00:13:26,740 --> 00:13:29,110
+yang asli ada di kepalaku,
+dan ini hanya salinan.
+
+164
+00:13:29,509 --> 00:13:31,620
+Jika kuserahkan ini, kamu
+tidak akan putus asa lagi.
+
+165
+00:13:32,450 --> 00:13:35,049
+Tidak mungkin ada kesepakatan
+jika ada salinannya.
+
+166
+00:13:48,669 --> 00:13:51,070
+Dasar psikopat! Kamu sadar berapa biayanya?
+
+167
+00:13:51,570 --> 00:13:52,600
+Bawa dia!
+
+168
+00:13:58,509 --> 00:13:59,509
+Presdir Hwang.
+
+169
+00:13:59,639 --> 00:14:02,480
+Satu-satunya J-BIMS ada
+di kepalaku sekarang.
+
+170
+00:14:02,649 --> 00:14:04,519
+Lepaskan aku, maka akan
+kubuatkan yang baru.
+
+171
+00:14:05,049 --> 00:14:06,080
+Hubungi aku!
+
+172
+00:14:11,190 --> 00:14:12,190
+Astaga.
+
+173
+00:14:12,320 --> 00:14:14,529
+Kamu banyak membantuku, Pak Park.
+Sayang sekali, bukan?
+
+174
+00:14:14,730 --> 00:14:16,159
+Aku tidak pernah membantumu.
+
+175
+00:14:17,090 --> 00:14:18,399
+- Kamu memanfaatkanku.
+- Ayolah.
+
+176
+00:14:19,029 --> 00:14:21,029
+Kamu mau pura-pura bodoh sekarang?
+
+177
+00:14:21,330 --> 00:14:22,870
+Kamu kaki tanganku!
+
+178
+00:14:27,240 --> 00:14:29,509
+"Ruangan Manajer"
+
+179
+00:14:33,340 --> 00:14:35,060
+Aku sungguh tidak tahu apa-apa tentang itu.
+
+180
+00:14:35,279 --> 00:14:36,308
+Maafkan aku.
+
+181
+00:14:36,309 --> 00:14:37,950
+Kamu tidak perlu minta maaf kepadaku.
+
+182
+00:14:38,480 --> 00:14:39,480
+Ikut aku.
+
+183
+00:15:07,110 --> 00:15:08,149
+Se Woong.
+
+184
+00:15:08,679 --> 00:15:11,950
+Kenapa memercayai orang seperti itu
+dengan proyek yang amat penting?
+
+185
+00:15:12,750 --> 00:15:14,019
+Para pemegang saham mengatakan
+
+186
+00:15:14,149 --> 00:15:16,820
+penilaianmu tidak memuaskan.
+
+187
+00:15:17,990 --> 00:15:20,320
+Kamu harus menebus kesalahan
+ini, apa pun yang terjadi.
+
+188
+00:15:27,700 --> 00:15:28,730
+Jangan terlalu kecewa.
+
+189
+00:15:29,570 --> 00:15:31,169
+Kita bisa membuatnya lagi.
+
+190
+00:15:31,940 --> 00:15:34,610
+Lagi pula, perusahaan
+baik-baik saja tanpa itu.
+
+191
+00:15:42,879 --> 00:15:44,649
+"Presdir Hwang Se Woong"
+
+192
+00:16:13,009 --> 00:16:14,350
+Aku sungguh tidak tahu
+
+193
+00:16:14,710 --> 00:16:17,149
+Pak Lee Ji Hoon mencoba membocorkan J-BIMS.
+
+194
+00:16:18,419 --> 00:16:21,389
+Namun, memang benar aku
+membantunya dalam proses itu,
+
+195
+00:16:22,720 --> 00:16:24,590
+sesuai perintahnya.
+
+196
+00:16:25,590 --> 00:16:28,559
+Aku ingin minta maaf kepada semua
+orang di Tim Pengembangan Teknologi.
+
+197
+00:16:29,659 --> 00:16:30,659
+Maafkan aku.
+
+198
+00:16:35,730 --> 00:16:38,500
+Dan tentang Pak Oh Yoon Woo juga.
+
+199
+00:16:50,809 --> 00:16:51,879
+Maafkan aku, Yoon Woo.
+
+200
+00:16:53,519 --> 00:16:54,649
+Pak Oh kebetulan
+
+201
+00:16:54,990 --> 00:16:57,470
+menyaksikan proses saat Lee Ji
+Hoon membocorkan teknologi itu.
+
+202
+00:16:57,889 --> 00:17:01,019
+Itu sebabnya Lee Ji Hoon
+memerintahkanku untuk merundungnya
+
+203
+00:17:01,360 --> 00:17:04,289
+dan mengusirnya dari tim,
+apa pun yang terjadi.
+
+204
+00:17:06,099 --> 00:17:08,329
+Saat Yoon Woo menyaksikan kebocoran itu,
+
+205
+00:17:08,470 --> 00:17:09,829
+dia tidak tahu itu apa.
+
+206
+00:17:10,369 --> 00:17:12,798
+Dia suka menjadi anggota
+Tim Pengembangan Teknologi,
+
+207
+00:17:12,799 --> 00:17:14,099
+dan tiba-tiba,
+
+208
+00:17:14,569 --> 00:17:17,039
+dia dikeluarkan dari tim
+tanpa tahu alasannya.
+
+209
+00:17:17,779 --> 00:17:20,440
+Itu sebabnya aku terus mengatakan
+hal-hal kejam kepada Yoon Woo.
+
+210
+00:17:20,710 --> 00:17:22,480
+Bahkan saat dia membuat kesalahan kecil
+
+211
+00:17:22,910 --> 00:17:24,309
+yang bisa dilakukan siapa pun,
+
+212
+00:17:25,180 --> 00:17:27,896
+reaksiku berlebihan dan memarahinya
+seolah-olah itu kesalahan besar.
+
+213
+00:17:27,920 --> 00:17:29,750
+Aku bisa meyakinkan kalian bahwa Yoon Woo
+
+214
+00:17:30,549 --> 00:17:32,519
+pegawai kompeten yang
+menyelesaikan pekerjaannya.
+
+215
+00:17:33,890 --> 00:17:37,390
+Aku mematuhi perintah
+manajerku yang jelas salah.
+
+216
+00:17:37,799 --> 00:17:39,930
+Aku menghina dan melecehkan Yoon Woo,
+
+217
+00:17:42,400 --> 00:17:43,480
+padahal dia tidak bersalah.
+
+218
+00:17:44,170 --> 00:17:47,970
+Aku sungguh minta maaf atas perbuatanku.
+
+219
+00:17:53,140 --> 00:17:56,380
+Pak Oh, kamu bisa pindah
+ke tim lain jika mau.
+
+220
+00:17:56,410 --> 00:17:57,410
+Tidak.
+
+221
+00:17:59,349 --> 00:18:01,519
+Aku ingin tetap di Tim
+Pengembangan Teknologi.
+
+222
+00:18:14,359 --> 00:18:15,470
+Maafkan aku, Yoon Woo.
+
+223
+00:18:33,680 --> 00:18:36,250
+"Presdir Hwang Se Woong"
+
+224
+00:18:39,920 --> 00:18:41,259
+Kenapa kamu tidak memberitahuku?
+
+225
+00:18:42,029 --> 00:18:44,469
+Aku sudah memperingatkanmu bahwa
+teknologi itu mungkin bocor.
+
+226
+00:18:45,259 --> 00:18:47,339
+Tidak, bahwa ini akan terjadi
+pada hari demonstrasi.
+
+227
+00:18:47,559 --> 00:18:50,099
+Ada kemungkinan besar, tapi kami
+tidak yakin itu akan terjadi.
+
+228
+00:18:50,700 --> 00:18:53,469
+Kami harus menangkap basah Lee
+agar dia tidak bisa menyangkalnya.
+
+229
+00:18:53,470 --> 00:18:54,869
+Kami tidak ingin ada variabel.
+
+230
+00:18:55,910 --> 00:18:57,109
+Aku presdirnya,
+
+231
+00:18:58,079 --> 00:18:59,640
+dan aku diperlakukan seperti variabel?
+
+232
+00:19:05,049 --> 00:19:07,250
+Jadi, bagaimana situasinya
+bisa diselesaikan?
+
+233
+00:19:07,480 --> 00:19:09,548
+Untuk Pak Park Jae Wan, dia
+memang membantunya sebagian
+
+234
+00:19:09,549 --> 00:19:12,119
+dalam prosesnya meski itu tidak disengaja.
+
+235
+00:19:12,190 --> 00:19:14,189
+Kami minta polisi mewawancarainya
+dan mengambil tindakan disipliner
+
+236
+00:19:14,190 --> 00:19:15,350
+berdasarkan keputusan polisi.
+
+237
+00:19:16,029 --> 00:19:18,558
+Mengenai Oh Yoon Woo, dia kembali
+ke Tim Pengembangan Teknologi.
+
+238
+00:19:18,559 --> 00:19:19,700
+Bukan itu maksudku.
+
+239
+00:19:20,660 --> 00:19:21,769
+Bagaimana dengan J-BIMS?
+
+240
+00:19:21,970 --> 00:19:24,328
+Aku berkonsultasi dengan Pak Park
+dan Tim Pengembangan Teknologi.
+
+241
+00:19:24,329 --> 00:19:26,616
+Mereka semua mengatakan Lee Ji
+Hoon memainkan peran penting,
+
+242
+00:19:26,640 --> 00:19:28,769
+tapi dia bukan tidak tergantikan.
+
+243
+00:19:28,940 --> 00:19:31,045
+Lalu bagaimana kamu akan
+menjelaskan kepercayaan dirinya?
+
+244
+00:19:31,069 --> 00:19:32,980
+Aku menyebut itu kesombongan.
+
+245
+00:19:33,640 --> 00:19:35,008
+Orang serakah
+
+246
+00:19:35,009 --> 00:19:37,509
+sering berpikir mereka tidak tergantikan
+
+247
+00:19:37,609 --> 00:19:39,849
+dan menggunakannya sebagai
+alasan untuk membuat masalah.
+
+248
+00:19:43,450 --> 00:19:44,450
+Kamu boleh pergi.
+
+249
+00:20:03,140 --> 00:20:04,440
+- Astaga.
+- Yang benar saja.
+
+250
+00:20:05,480 --> 00:20:07,209
+Aku sudah bertahun-tahun di sini,
+
+251
+00:20:07,210 --> 00:20:08,525
+tapi tidak pernah mengira
+akan melihat hal seperti ini.
+
+252
+00:20:08,549 --> 00:20:11,279
+Benar. Kenapa hal seperti ini
+terus terjadi belakangan ini?
+
+253
+00:20:12,349 --> 00:20:14,219
+Aku benar-benar gelisah seharian.
+
+254
+00:20:14,220 --> 00:20:16,920
+Jangan memancingku. Tunggu
+sampai kamu mendengar jumlahnya.
+
+255
+00:20:17,220 --> 00:20:18,966
+Kalian sudah mendengar
+tentang Lee Ji Hoon, bukan?
+
+256
+00:20:18,990 --> 00:20:21,271
+Kurasa dia benar-benar dijanjikan
+menerima 50 juta dolar.
+
+257
+00:20:21,930 --> 00:20:22,930
+Lima puluh juta dolar.
+
+258
+00:20:22,931 --> 00:20:25,692
+Bukankah bisa dimengerti kenapa dia
+melakukan itu demi 50 juta dolar?
+
+259
+00:20:26,000 --> 00:20:29,000
+Meski begitu, menurutku
+melakukan kejahatan itu salah.
+
+260
+00:20:29,769 --> 00:20:32,339
+Aku hanya mengatakannya.
+Itu lelucon, mengerti?
+
+261
+00:20:35,839 --> 00:20:37,140
+Usaha yang bagus, Semuanya.
+
+262
+00:20:38,680 --> 00:20:39,960
+Terima kasih atas kerja kerasmu.
+
+263
+00:20:40,309 --> 00:20:41,309
+Apa?
+
+264
+00:20:44,579 --> 00:20:47,950
+Tidak, kamu bekerja paling keras
+di antara kami semua, Pak Shin.
+
+265
+00:20:48,250 --> 00:20:50,018
+Kalian beres-beres dan pulanglah.
+
+266
+00:20:50,019 --> 00:20:51,119
+Aku pamit.
+
+267
+00:20:52,089 --> 00:20:53,220
+- Baiklah.
+- Sampai jumpa.
+
+268
+00:20:56,759 --> 00:20:58,230
+Astaga, Gu Han Soo.
+
+269
+00:20:59,130 --> 00:21:00,528
+Kalian boleh pergi. Pergilah.
+
+270
+00:21:00,529 --> 00:21:01,799
+- Baiklah.
+- Ayo.
+
+271
+00:21:03,500 --> 00:21:05,339
+"Konstruksi JU"
+
+272
+00:21:05,369 --> 00:21:07,000
+Mengenai Pak Lee Ji Hoon.
+
+273
+00:21:07,940 --> 00:21:09,420
+Bagaimana bisa seseorang seperti itu?
+
+274
+00:21:10,269 --> 00:21:13,009
+Aku melihat dia tersenyum saat ditangkap.
+
+275
+00:21:13,039 --> 00:21:14,559
+Dia tidak merasa bersalah sedikit pun.
+
+276
+00:21:15,950 --> 00:21:18,579
+Dia bersikap seolah-olah melakukan
+sesuatu yang menyenangkan.
+
+277
+00:21:20,549 --> 00:21:22,990
+Dia akan berubah pikiran setelah
+hari pertamanya di penjara.
+
+278
+00:21:24,019 --> 00:21:25,379
+Itu jelas tidak akan menyenangkan.
+
+279
+00:21:26,460 --> 00:21:27,460
+Kamu benar.
+
+280
+00:21:28,529 --> 00:21:30,190
+Dan tadi,
+
+281
+00:21:30,329 --> 00:21:33,730
+aku tersentuh saat mendengar
+ucapan Pak Shin saat dia keluar.
+
+282
+00:21:34,670 --> 00:21:35,699
+Apa yang dia katakan?
+
+283
+00:21:35,700 --> 00:21:38,670
+Aku bersikeras bahwa
+teknologi itu mungkin bocor,
+
+284
+00:21:38,740 --> 00:21:40,000
+dan dia memercayaiku.
+
+285
+00:21:41,200 --> 00:21:44,339
+Kurasa begitu. Meski dia
+punya alasan sendiri.
+
+286
+00:21:44,710 --> 00:21:46,839
+Ingat? Dia bertanya apakah
+kita memercayai orang
+
+287
+00:21:47,039 --> 00:21:48,879
+dan mengatakan dia tidak
+memercayai siapa pun.
+
+288
+00:21:49,079 --> 00:21:50,650
+Tapi dia memercayaiku.
+
+289
+00:21:51,279 --> 00:21:53,750
+Bukankah kita sudah membangun
+kepercayaan sebagai tim?
+
+290
+00:21:57,119 --> 00:21:59,439
+Ada banyak yang ingin kukatakan,
+tapi aku akan tetap diam.
+
+291
+00:22:00,089 --> 00:22:03,289
+Tidak disangkal kamu berperan
+penting dalam menyelesaikan ini.
+
+292
+00:22:05,160 --> 00:22:06,299
+Selamat.
+
+293
+00:22:07,900 --> 00:22:08,930
+Terima kasih.
+
+294
+00:22:09,970 --> 00:22:11,799
+Bagaimana kalau kita makan malam bersama?
+
+295
+00:22:13,740 --> 00:22:14,740
+Makan malam?
+
+296
+00:22:14,769 --> 00:22:17,089
+Ya, Yoon Woo mengatakan dia
+akan bergabung denganku nanti.
+
+297
+00:22:17,269 --> 00:22:19,109
+Mari makan malam bersama,
+sebagai rekan kerja.
+
+298
+00:22:20,779 --> 00:22:21,809
+Bagaimana menurutmu?
+
+299
+00:22:23,210 --> 00:22:25,119
+Tentu, ayo.
+
+300
+00:22:25,920 --> 00:22:27,180
+Kita akan makan apa?
+
+301
+00:22:28,089 --> 00:22:29,089
+Kamu suka ayam goreng?
+
+302
+00:22:30,390 --> 00:22:31,719
+"Ya! Ayam"
+
+303
+00:22:31,720 --> 00:22:33,460
+Aku mengatakan yang sebenarnya.
+
+304
+00:22:33,589 --> 00:22:35,529
+Harganya tepat 15 dolar.
+
+305
+00:22:35,660 --> 00:22:38,460
+Pak Gu Seok Gu, pulanglah.
+
+306
+00:22:38,660 --> 00:22:40,528
+Wanita tua yang menjual herba
+
+307
+00:22:40,529 --> 00:22:43,028
+mengatakan dia bisa pulang
+jika menjual dua keranjang...
+
+308
+00:22:43,029 --> 00:22:44,940
+Kamu selalu melakukan ini!
+
+309
+00:22:46,069 --> 00:22:48,029
+Jika kamu melakukannya
+lagi, aku akan membunuhmu.
+
+310
+00:22:49,140 --> 00:22:51,308
+Astaga. Bu An.
+
+311
+00:22:51,309 --> 00:22:53,808
+Caramu melipat kotak tampak sangat seksi.
+
+312
+00:22:53,809 --> 00:22:56,278
+Berhenti, atau aku akan melipatmu.
+
+313
+00:22:56,279 --> 00:22:58,719
+Astaga, kamu tangguh.
+
+314
+00:22:58,720 --> 00:23:00,749
+- Berhenti.
+- Ayolah. Aku tahu kamu menyukainya!
+
+315
+00:23:00,750 --> 00:23:03,088
+- Hei! Jangan.
+- Astaga.
+
+316
+00:23:03,089 --> 00:23:04,569
+Aku tidak akan menoleransi kekerasan.
+
+317
+00:23:06,119 --> 00:23:07,460
+Aku pulang.
+
+318
+00:23:08,829 --> 00:23:09,930
+Halo.
+
+319
+00:23:12,759 --> 00:23:14,460
+Perkenalkan ibu dan ayahku.
+
+320
+00:23:15,029 --> 00:23:16,769
+Ya, mereka sedang bertengkar.
+
+321
+00:23:20,099 --> 00:23:21,269
+Halo.
+
+322
+00:23:23,309 --> 00:23:24,538
+Jadi, - Jadi,
+
+323
+00:23:24,539 --> 00:23:25,779
+siapa dia?
+- siapa dia?
+
+324
+00:23:30,250 --> 00:23:31,309
+Bukankah ini kali pertama?
+
+325
+00:23:32,480 --> 00:23:33,680
+Dia membawa seorang gadis.
+
+326
+00:23:34,720 --> 00:23:35,849
+Ada apa?
+
+327
+00:23:36,720 --> 00:23:39,019
+Dia rekan kerja, itu saja.
+
+328
+00:23:39,420 --> 00:23:40,660
+Kita juga rekan kerja.
+
+329
+00:23:42,859 --> 00:23:44,190
+Kami bisa mendengar kalian.
+
+330
+00:23:45,400 --> 00:23:46,729
+Jangan berpikir macam-macam.
+
+331
+00:23:46,730 --> 00:23:48,929
+Yoon Woo akan bergabung nanti.
+Masakkan kami banyak makanan.
+
+332
+00:23:48,930 --> 00:23:50,410
+- Tentu saja.
+- Yoon Woo juga datang?
+
+333
+00:23:52,500 --> 00:23:53,500
+Ini.
+
+334
+00:23:55,140 --> 00:23:57,740
+Kamu pasti bertemu Han Soo tiap
+hari jika kalian bekerja bersama.
+
+335
+00:23:57,769 --> 00:24:00,009
+- Ya.
+- Kalau begitu, kamu pasti tahu
+
+336
+00:24:00,240 --> 00:24:01,980
+betapa manisnya dia.
+
+337
+00:24:03,250 --> 00:24:05,119
+Dia baik dan berkepribadian baik.
+
+338
+00:24:05,480 --> 00:24:07,318
+Dia banyak membantuku.
+
+339
+00:24:07,319 --> 00:24:08,849
+- Benarkah?
+- Ya.
+
+340
+00:24:09,119 --> 00:24:11,389
+Jika kalian saling membantu,
+itu mengarah ke bantuan
+
+341
+00:24:11,390 --> 00:24:12,990
+dan mengakibatkan
+
+342
+00:24:13,059 --> 00:24:15,130
+- timbulnya perasaan, bukan?
+- Astaga.
+
+343
+00:24:15,160 --> 00:24:16,489
+- Ibu.
+- Apa?
+
+344
+00:24:16,490 --> 00:24:17,788
+Keluarkan Ayah dari sini.
+
+345
+00:24:17,789 --> 00:24:18,798
+Sayang.
+
+346
+00:24:18,799 --> 00:24:20,798
+- Mari selesaikan obrolan kita.
+- Baiklah.
+
+347
+00:24:20,799 --> 00:24:22,328
+- Selamat menikmati.
+- Baiklah.
+
+348
+00:24:22,329 --> 00:24:23,470
+Terima kasih.
+
+349
+00:24:23,569 --> 00:24:25,670
+Aku akan menggorengnya lagi nanti.
+
+350
+00:24:27,539 --> 00:24:28,838
+Cicipilah ayamnya.
+
+351
+00:24:28,839 --> 00:24:30,440
+Ayam kami sangat enak.
+
+352
+00:24:30,609 --> 00:24:31,680
+Baiklah.
+
+353
+00:24:31,779 --> 00:24:34,009
+- Kita harus menunggu Yoon Woo.
+- Kedengarannya bagus.
+
+354
+00:24:37,349 --> 00:24:38,519
+Halo.
+
+355
+00:24:38,950 --> 00:24:40,079
+Kamu sudah datang.
+
+356
+00:24:40,250 --> 00:24:41,349
+Momen yang tepat.
+
+357
+00:24:41,549 --> 00:24:42,690
+Aku senang kamu di sini.
+
+358
+00:24:42,789 --> 00:24:43,950
+Apa ada masalah?
+
+359
+00:24:44,319 --> 00:24:45,460
+Tidak.
+
+360
+00:24:45,789 --> 00:24:46,990
+Kemari dan duduklah.
+
+361
+00:24:53,400 --> 00:24:56,269
+Segala macam hal menguntungkanmu.
+
+362
+00:24:57,170 --> 00:25:00,199
+Proyek yang ditangani
+
+363
+00:25:00,200 --> 00:25:02,268
+Presdir sendiri hancur.
+
+364
+00:25:02,269 --> 00:25:03,568
+Kita tidak akan punya masalah
+
+365
+00:25:03,569 --> 00:25:06,140
+menyingkirkan Shin Cha Il sekarang.
+
+366
+00:25:06,980 --> 00:25:09,509
+Kapan kamu akan mengekspos dia?
+
+367
+00:25:10,150 --> 00:25:11,579
+Apa masalahnya?
+
+368
+00:25:11,619 --> 00:25:12,819
+Shin Cha Il?
+
+369
+00:25:12,880 --> 00:25:14,679
+Dia aneh, bukan?
+
+370
+00:25:14,680 --> 00:25:15,819
+Lee Ji Hoon.
+
+371
+00:25:16,390 --> 00:25:17,589
+Lee Ji Hoon?
+
+372
+00:25:17,720 --> 00:25:20,319
+Dia bukan siapa-siapa. Abaikan saja dia.
+
+373
+00:25:20,390 --> 00:25:24,029
+Begitu Presdir Hwang digulingkan,
+
+374
+00:25:24,589 --> 00:25:27,930
+kamu harus mengambil alih, bukan?
+
+375
+00:25:28,099 --> 00:25:30,929
+Aku bisa melihat cahaya terang
+
+376
+00:25:30,930 --> 00:25:33,069
+bersinar di sekitarmu.
+
+377
+00:25:33,339 --> 00:25:35,039
+Terlihat bagus.
+
+378
+00:25:38,839 --> 00:25:40,109
+- Minumlah.
+- Baiklah.
+
+379
+00:25:46,079 --> 00:25:47,220
+Ini malam yang indah.
+
+380
+00:25:55,259 --> 00:25:58,190
+Yoon Woo. Bukankah ayam
+goreng menghilangkan stres?
+
+381
+00:25:58,299 --> 00:25:59,660
+Benar. Ini lezat.
+
+382
+00:25:59,700 --> 00:26:00,799
+Benarkah?
+
+383
+00:26:01,430 --> 00:26:02,829
+- Bagaimana denganmu?
+- Ya.
+
+384
+00:26:02,970 --> 00:26:04,099
+Ini enak.
+
+385
+00:26:04,170 --> 00:26:05,299
+Merek ini.
+
+386
+00:26:05,500 --> 00:26:08,809
+Ini pedas, tapi manis.
+Menurutku itu luar biasa.
+
+387
+00:26:09,740 --> 00:26:10,839
+Dengan saus...
+
+388
+00:26:14,880 --> 00:26:15,950
+Makanlah sepuasmu.
+
+389
+00:26:17,109 --> 00:26:18,180
+Han Soo.
+
+390
+00:26:19,779 --> 00:26:21,420
+Aku sudah menyusahkanmu.
+
+391
+00:26:22,150 --> 00:26:23,289
+Kamu juga, Seo Jin.
+
+392
+00:26:25,119 --> 00:26:26,289
+Maafkan aku.
+
+393
+00:26:27,289 --> 00:26:28,430
+Serta terima kasih.
+
+394
+00:26:31,559 --> 00:26:32,730
+Yoon Woo.
+
+395
+00:26:33,660 --> 00:26:35,298
+Seburuk apa pun situasinya,
+
+396
+00:26:35,299 --> 00:26:38,339
+jangan pernah berpikir negatif
+atau melakukan hal berbahaya lagi.
+
+397
+00:26:39,140 --> 00:26:41,500
+Jika ada hal lain, datanglah kepadaku...
+
+398
+00:26:42,240 --> 00:26:43,410
+Maksudku...
+
+399
+00:26:43,609 --> 00:26:45,910
+Berjanjilah untuk menemui kami, ya?
+
+400
+00:26:46,440 --> 00:26:47,509
+Baiklah.
+
+401
+00:26:52,450 --> 00:26:56,720
+Punya seseorang yang bisa diandalkan
+saat kamu sedih atau kesal
+
+402
+00:26:57,119 --> 00:26:59,059
+menjadikanmu pria yang beruntung.
+
+403
+00:27:01,259 --> 00:27:03,130
+Terima kasih, Seo Jin.
+
+404
+00:27:05,000 --> 00:27:06,500
+Kamu mengatakan hal seperti itu?
+
+405
+00:27:08,869 --> 00:27:10,109
+Bagaimana kalau kita bersulang?
+
+406
+00:27:10,200 --> 00:27:11,329
+Kedengarannya bagus.
+
+407
+00:27:11,799 --> 00:27:13,039
+Kita bersulang untuk apa?
+
+408
+00:27:13,170 --> 00:27:14,900
+Cinta untuk rekan-rekan kita?
+
+409
+00:27:14,940 --> 00:27:16,039
+Apa?
+
+410
+00:27:16,470 --> 00:27:17,640
+Kamu serius?
+
+411
+00:27:18,140 --> 00:27:19,308
+Ada yang lain?
+
+412
+00:27:19,309 --> 00:27:20,380
+Kamu tidak suka itu?
+
+413
+00:27:22,009 --> 00:27:23,150
+Tidak pernah menyerah?
+
+414
+00:27:23,180 --> 00:27:24,909
+- Yang penting...
+- Adalah keinginan
+
+415
+00:27:24,910 --> 00:27:26,348
+untuk tidak pernah menyerah.
+Kamu tidak mengatakannya.
+
+416
+00:27:26,349 --> 00:27:27,518
+- Aku mengatakannya.
+- Tidak.
+
+417
+00:27:27,519 --> 00:27:28,866
+- Aku melihatnya.
+- Aku mengatakannya.
+
+418
+00:27:28,890 --> 00:27:31,330
+Kurasa kamu tidak mengatakannya,
+tapi aku akan membiarkannya.
+
+419
+00:27:39,859 --> 00:27:41,599
+"Buat unggahan, Aku mengutuk Konstruksi JX"
+
+420
+00:27:44,630 --> 00:27:46,069
+"Unggah"
+
+421
+00:27:47,569 --> 00:27:49,808
+"Bocorkan Rahasia, Aku
+mengutuk Konstruksi JX"
+
+422
+00:27:49,809 --> 00:27:52,129
+"Siapa pun yang punya koneksi
+bisa masuk ke Konstruksi JX"
+
+423
+00:27:54,240 --> 00:27:57,450
+"Konstruksi JU"
+
+424
+00:28:08,990 --> 00:28:10,328
+- Halo.
+- Halo.
+
+425
+00:28:10,329 --> 00:28:11,490
+- Halo.
+- Halo.
+
+426
+00:28:11,589 --> 00:28:13,200
+Halo. Semoga harimu menyenangkan.
+
+427
+00:28:13,900 --> 00:28:15,200
+- Halo.
+- Halo.
+
+428
+00:28:19,269 --> 00:28:20,470
+Halo, Pak Moon.
+
+429
+00:28:20,700 --> 00:28:22,009
+Hai, selamat pagi.
+
+430
+00:28:32,420 --> 00:28:34,380
+"Tim Audit"
+
+431
+00:28:37,049 --> 00:28:39,220
+Aku pesan enam es amerikano.
+
+432
+00:28:39,720 --> 00:28:41,160
+- Tolong tunggu.
+- Baik.
+
+433
+00:28:45,930 --> 00:28:47,059
+Halo.
+
+434
+00:28:47,599 --> 00:28:48,700
+- Halo.
+- Halo.
+
+435
+00:28:53,400 --> 00:28:55,670
+Pak Shin, ini kopi dingin yang enak.
+
+436
+00:28:58,579 --> 00:28:59,680
+Terima kasih.
+
+437
+00:29:00,740 --> 00:29:01,809
+Menyakitkan.
+
+438
+00:29:04,509 --> 00:29:06,579
+Kamu ingin mengauditku
+karena membelikanmu kopi?
+
+439
+00:29:09,549 --> 00:29:10,619
+Itu lelucon.
+
+440
+00:29:11,819 --> 00:29:12,819
+Nikmati kopinya.
+
+441
+00:29:14,319 --> 00:29:15,329
+Aku turut merasa malu.
+
+442
+00:29:15,529 --> 00:29:16,589
+Minumlah kopi.
+
+443
+00:29:16,890 --> 00:29:19,429
+Han Soo, aku tidak bisa
+minum minuman dingin.
+
+444
+00:29:19,430 --> 00:29:20,500
+Aku menderita radang gusi.
+
+445
+00:29:20,730 --> 00:29:21,758
+Kalau begitu, aku akan mengambilnya...
+
+446
+00:29:21,759 --> 00:29:23,575
+Kamu tidak bisa mengambil yang
+sudah kamu berikan kepadaku.
+
+447
+00:29:23,599 --> 00:29:24,900
+- Terima kasih.
+- Tentu.
+
+448
+00:29:25,900 --> 00:29:27,699
+Bu Ok, minumlah kopi.
+
+449
+00:29:27,700 --> 00:29:28,809
+- Terima kasih.
+- Tentu.
+
+450
+00:29:29,170 --> 00:29:30,669
+Pak Moon, kamu juga mendapat satu.
+
+451
+00:29:30,670 --> 00:29:31,709
+Terima kasih.
+
+452
+00:29:31,710 --> 00:29:32,779
+Seo Jin.
+
+453
+00:29:33,910 --> 00:29:35,349
+- Terima kasih banyak.
+- Tentu.
+
+454
+00:29:40,480 --> 00:29:43,819
+"Tim Audit"
+
+455
+00:29:58,900 --> 00:29:59,900
+Pak Shin.
+
+456
+00:30:00,240 --> 00:30:01,869
+Lihat ini.
+
+457
+00:30:04,710 --> 00:30:07,009
+"Aku mengutuk Konstruksi JX"
+
+458
+00:30:10,150 --> 00:30:11,348
+Apa menurutmu
+
+459
+00:30:11,349 --> 00:30:13,250
+ada alasan untuk memercayai unggahan ini?
+
+460
+00:30:13,420 --> 00:30:15,389
+Itu diunggah secara anonim,
+
+461
+00:30:15,390 --> 00:30:17,619
+jadi, aku meragukan itu
+harus dianggap serius.
+
+462
+00:30:18,019 --> 00:30:21,289
+Tapi itu menyebar cepat di
+berbagai forum dan situs,
+
+463
+00:30:21,559 --> 00:30:22,930
+dan itu cukup mendetail.
+
+464
+00:30:23,559 --> 00:30:26,529
+Cukup mudah menyimpulkan unggahan
+itu tentang perusahaan kita.
+
+465
+00:30:27,259 --> 00:30:29,470
+Bagaimana jika melakukan penyelidikan awal?
+
+466
+00:30:30,500 --> 00:30:32,869
+Periksa detailnya dan laporkan kembali.
+
+467
+00:30:32,970 --> 00:30:34,039
+Baik, Pak.
+
+468
+00:30:39,539 --> 00:30:40,609
+Ada apa?
+
+469
+00:30:40,980 --> 00:30:42,220
+Kamu tidak melihat unggahannya?
+
+470
+00:30:47,849 --> 00:30:48,929
+Perekrutan yang tidak adil?
+
+471
+00:30:49,789 --> 00:30:51,549
+Perekrutan yang tidak adil? Oleh siapa?
+
+472
+00:30:52,589 --> 00:30:53,689
+Mari kita lihat.
+
+473
+00:30:53,690 --> 00:30:54,819
+Apa tulisannya?
+
+474
+00:30:58,490 --> 00:31:01,460
+"Siapa pun yang punya koneksi
+bisa masuk ke Konstruksi JX."
+
+475
+00:31:01,529 --> 00:31:03,929
+"Seorang anak yang kukenal tidak
+pernah memenangkan kompetisi desain,
+
+476
+00:31:03,930 --> 00:31:06,569
+nilainya buruk saat kuliah,
+dan hanya bermalas-malasan,
+
+477
+00:31:06,599 --> 00:31:08,469
+tapi karena ayahnya
+mengenal seseorang di JX,
+
+478
+00:31:08,470 --> 00:31:10,186
+dia dipekerjakan dan
+bekerja di sana sekarang."
+
+479
+00:31:10,210 --> 00:31:12,739
+"Orang tuanya memiliki toko,
+jadi, kupikir dia biasa saja."
+
+480
+00:31:12,740 --> 00:31:14,039
+"Ternyata dia punya koneksi."
+
+481
+00:31:14,140 --> 00:31:15,949
+"Beberapa orang belajar keras
+
+482
+00:31:15,950 --> 00:31:17,409
+dan masih tidak bisa
+sampai ke tahap wawancara."
+
+483
+00:31:17,410 --> 00:31:19,018
+"Itu sangat tidak adil dan menjengkelkan."
+
+484
+00:31:19,019 --> 00:31:20,619
+"Aku ingin keadilan."
+
+485
+00:31:20,650 --> 00:31:21,989
+"Konstruksi JX."
+
+486
+00:31:21,990 --> 00:31:23,449
+Siapa pun tahu itu kita.
+
+487
+00:31:23,450 --> 00:31:25,288
+Berdasarkan foto dan percakapan
+
+488
+00:31:25,289 --> 00:31:27,088
+yang mereka unggah dengan unggahan itu,
+
+489
+00:31:27,089 --> 00:31:28,288
+sepertinya
+
+490
+00:31:28,289 --> 00:31:31,089
+orang ini berprestasi di kampus dan
+tidak sampai ke tahap wawancara.
+
+491
+00:31:31,490 --> 00:31:34,599
+Jika ini benar, mereka bisa
+merasa diperlakukan tidak adil.
+
+492
+00:31:34,759 --> 00:31:36,528
+Kita tidak bisa memercayai unggahan anonim.
+
+493
+00:31:36,529 --> 00:31:38,729
+Delapan puluh persen unggahan
+seperti itu adalah rumor.
+
+494
+00:31:38,869 --> 00:31:40,539
+Aku juga ditanyai pertanyaan itu.
+
+495
+00:31:41,339 --> 00:31:43,369
+- Pertanyaan apa?
+- Komentar ini.
+
+496
+00:31:43,740 --> 00:31:46,309
+"Bisa jelaskan kenapa
+nilaimu sangat rendah?"
+
+497
+00:31:46,380 --> 00:31:49,578
+Mereka mengatakan bahkan orang
+yang gagal menjawab masih lolos.
+
+498
+00:31:49,579 --> 00:31:50,980
+Aku juga ditanyai ini.
+
+499
+00:31:51,450 --> 00:31:52,720
+Benar, bukan?
+
+500
+00:31:52,920 --> 00:31:54,779
+Nilaiku terlalu bagus.
+
+501
+00:31:55,750 --> 00:31:57,490
+- Begitu rupanya.
+- Kamu tidak?
+
+502
+00:31:57,789 --> 00:31:59,518
+Aku suka meretas saat itu,
+
+503
+00:31:59,519 --> 00:32:01,219
+jadi, nilaiku buruk.
+
+504
+00:32:01,220 --> 00:32:02,540
+Hal yang buruk untuk dibanggakan.
+
+505
+00:32:02,660 --> 00:32:04,660
+Jadi, ini dari perekrutan dua tahun lalu?
+
+506
+00:32:05,359 --> 00:32:08,868
+Tapi pertanyaan ini sering
+muncul saat wawancara.
+
+507
+00:32:08,869 --> 00:32:10,268
+Lihat komentar ini.
+
+508
+00:32:10,269 --> 00:32:11,775
+Mereka pasti bekerja untuk Konstruksi JU.
+
+509
+00:32:11,799 --> 00:32:14,769
+"Ada satu orang ceroboh yang
+dipekerjakan dua tahun lalu."
+
+510
+00:32:15,410 --> 00:32:18,068
+"Ceroboh"? Siapa itu?
+
+511
+00:32:18,069 --> 00:32:19,939
+Apa ada kabar saat kali
+pertama kamu dipekerjakan?
+
+512
+00:32:19,940 --> 00:32:22,650
+Tentang rute perekrutan atau
+mungkin seseorang yang mencurigakan.
+
+513
+00:32:23,410 --> 00:32:25,150
+Bukan aku. Bagaimana denganmu?
+
+514
+00:32:27,950 --> 00:32:29,049
+Kurasa ada.
+
+515
+00:32:29,549 --> 00:32:31,220
+Siapa itu?
+
+516
+00:32:31,619 --> 00:32:32,690
+Kamu, Pak Gu.
+
+517
+00:32:36,730 --> 00:32:39,858
+- Bukan aku.
+- Ada rumor yang beredar saat itu
+
+518
+00:32:39,859 --> 00:32:41,499
+bahwa Pak Gu mungkin punya
+koneksi di perusahaan.
+
+519
+00:32:41,500 --> 00:32:42,500
+Astaga.
+
+520
+00:32:42,501 --> 00:32:44,769
+Dia juga membuat kesalahan
+saat menjalani pelatihan.
+
+521
+00:32:44,930 --> 00:32:46,399
+Selain itu, kita memainkan
+permainan ingatan berkelompok,
+
+522
+00:32:46,400 --> 00:32:48,269
+dan timnya kalah karena dia.
+
+523
+00:32:49,069 --> 00:32:50,868
+Aku sakit perut setelah makan siang,
+
+524
+00:32:50,869 --> 00:32:52,339
+jadi, kondisiku tidak baik.
+
+525
+00:32:52,509 --> 00:32:54,149
+- Tentu.
+- Aku bersumpah itu tidak benar.
+
+526
+00:32:54,309 --> 00:32:56,210
+Benarkah? Kamu yakin tentang itu?
+
+527
+00:32:56,309 --> 00:32:59,348
+Bu Ok, aku dipekerjakan dengan adil.
+
+528
+00:32:59,349 --> 00:33:01,450
+Aku merasa jauh darimu.
+
+529
+00:33:01,849 --> 00:33:05,659
+Omong-omong, itu tersebar ke mana-mana.
+
+530
+00:33:05,660 --> 00:33:06,920
+Ini bisa menyebabkan masalah.
+
+531
+00:33:07,460 --> 00:33:08,858
+Beberapa reporter sudah berkomentar
+
+532
+00:33:08,859 --> 00:33:10,735
+dan meninggalkan nomor
+mereka dan meminta wawancara.
+
+533
+00:33:10,759 --> 00:33:12,758
+Jika sesuatu menjadi viral di internet,
+
+534
+00:33:12,759 --> 00:33:14,279
+itu sering berkembang menjadi artikel.
+
+535
+00:33:15,130 --> 00:33:16,130
+Kamu benar.
+
+536
+00:33:20,269 --> 00:33:21,640
+Ini Yoon Seo Jin dari Tim Audit.
+
+537
+00:33:24,410 --> 00:33:25,410
+Apa?
+
+538
+00:33:26,640 --> 00:33:27,910
+Perusahaan penyiaran?
+
+539
+00:33:40,420 --> 00:33:42,160
+Itu belum dirilis di media, bukan?
+
+540
+00:33:43,130 --> 00:33:46,129
+Beberapa tempat berbasis internet
+yang fokus pada gosip mulai merilis.
+
+541
+00:33:46,130 --> 00:33:48,970
+Penyiar dan koran mulai
+mengirim pertanyaan mereka.
+
+542
+00:33:49,400 --> 00:33:51,129
+Kita harus segera menyelidikinya dahulu
+
+543
+00:33:51,130 --> 00:33:52,769
+demi memastikan masalah ini.
+
+544
+00:33:52,970 --> 00:33:54,970
+Kenapa kita tidak merilis
+artikel argumen balasan?
+
+545
+00:33:55,569 --> 00:33:57,449
+Kita bisa mengatakan
+tuduhan itu tidak berdasar
+
+546
+00:33:57,769 --> 00:34:00,039
+- dan menyelidikinya diam-diam.
+- Tidak bisa.
+
+547
+00:34:00,440 --> 00:34:02,950
+Kita harus mengungkap bahwa kita
+menyelidiki secara internal.
+
+548
+00:34:04,579 --> 00:34:06,139
+Jika kita tidak menyangkal tuduhan itu,
+
+549
+00:34:06,849 --> 00:34:09,449
+mereka akan berasumsi perekrutan
+yang tidak adil sungguh terjadi.
+
+550
+00:34:10,519 --> 00:34:12,759
+Keadaan sudah tampak buruk karena J-BIMS.
+
+551
+00:34:12,760 --> 00:34:15,459
+Rumor seperti itu hanya
+akan membebani perusahaan.
+
+552
+00:34:15,460 --> 00:34:17,360
+Bagaimana jika ada
+perekrutan yang tidak adil?
+
+553
+00:34:18,030 --> 00:34:19,428
+Bagaimana jika kita
+mengeklaim itu tidak berdasar
+
+554
+00:34:19,429 --> 00:34:21,400
+hanya untuk menghindari
+keributan di depan kita,
+
+555
+00:34:21,659 --> 00:34:23,968
+tapi media menemukan bukti
+perekrutan tidak adil lebih dahulu?
+
+556
+00:34:23,969 --> 00:34:26,170
+Itu akan lebih merugikan perusahaan.
+
+557
+00:34:35,949 --> 00:34:37,050
+Aku pamit.
+
+558
+00:34:42,219 --> 00:34:44,750
+"Presdir Hwang Se Woong"
+
+559
+00:34:47,619 --> 00:34:49,730
+Jadi, dia akan melakukan
+apa yang dia inginkan?
+
+560
+00:34:55,599 --> 00:34:56,999
+Berdasarkan unggahan itu,
+
+561
+00:34:57,000 --> 00:34:59,570
+mereka pasti pelamar untuk
+perekrutan tahun 2022.
+
+562
+00:35:00,570 --> 00:35:03,368
+Kalau begitu, tolong amankan dokumen
+terkait untuk perekrutan tahun 2022.
+
+563
+00:35:03,369 --> 00:35:06,709
+Setelah itu, kita akan
+menjadwalkan wawancara
+
+564
+00:35:06,710 --> 00:35:08,510
+dengan mereka yang
+terlibat dalam perekrutan.
+
+565
+00:35:09,280 --> 00:35:11,760
+Pak Gu dan Bu Yoon, kalian berdua
+dikecualikan dari kasus ini.
+
+566
+00:35:12,219 --> 00:35:13,619
+- Apa?
+- Baiklah.
+
+567
+00:35:14,250 --> 00:35:15,250
+Aku akan fokus mengaudit
+
+568
+00:35:15,251 --> 00:35:17,219
+kuartal berikutnya dari
+Tim Akuntansi Keuangan.
+
+569
+00:35:17,519 --> 00:35:19,360
+Kuserahkan kepada kalian.
+
+570
+00:35:19,590 --> 00:35:20,590
+- Baik.
+- Baik.
+
+571
+00:35:24,789 --> 00:35:26,399
+Jangan berkecil hati. Itu wajar.
+
+572
+00:35:26,400 --> 00:35:29,429
+Tentu saja kamu dikecualikan
+karena kamu juga terlibat.
+
+573
+00:35:30,170 --> 00:35:33,099
+Aku tahu, tapi itu membuatku
+merasa seperti pelaku.
+
+574
+00:35:33,340 --> 00:35:34,780
+Aku merasa orang-orang mencurigaiku.
+
+575
+00:35:35,610 --> 00:35:38,439
+Han Soo, kamu merasa bersalah
+tentang sesuatu? Katakan sekarang.
+
+576
+00:35:38,440 --> 00:35:39,509
+Tidak.
+
+577
+00:35:39,510 --> 00:35:41,908
+Aku mengikuti tes dengan adil.
+
+578
+00:35:41,909 --> 00:35:44,579
+Kenapa kalian berdua
+tidak diselidiki dahulu?
+
+579
+00:35:44,909 --> 00:35:47,920
+Jika tidak ada masalah, kamu
+bisa minta kembali bekerja.
+
+580
+00:35:48,250 --> 00:35:49,250
+Baiklah.
+
+581
+00:35:49,251 --> 00:35:50,389
+Tidak apa-apa?
+
+582
+00:35:50,690 --> 00:35:52,690
+- Aku suka ide itu.
+- Aku akan menanyakannya.
+
+583
+00:35:53,159 --> 00:35:54,488
+Pak Moon, bisa hubungi bagian Personalia
+
+584
+00:35:54,489 --> 00:35:56,428
+- untuk menjadwalkan waktunya?
+- Baiklah.
+
+585
+00:35:56,429 --> 00:35:58,689
+Rekan kerjaku ada di tim itu,
+jadi, aku bisa segera memeriksanya.
+
+586
+00:35:58,690 --> 00:36:00,199
+- Baiklah.
+- Terima kasih.
+
+587
+00:36:00,329 --> 00:36:01,329
+Terima kasih.
+
+588
+00:36:04,699 --> 00:36:09,670
+"Konstruksi JU"
+
+589
+00:36:09,869 --> 00:36:11,340
+"Konstruksi JU"
+
+590
+00:36:12,039 --> 00:36:13,039
+Turun.
+
+591
+00:36:13,040 --> 00:36:14,309
+Pintu menutup.
+
+592
+00:36:16,380 --> 00:36:17,480
+Kudengar ada masalah lain.
+
+593
+00:36:18,179 --> 00:36:20,650
+Tidak ada hari yang tenang di kantor.
+
+594
+00:36:21,079 --> 00:36:24,190
+Jika terus begini, Presdir akan dipecat.
+
+595
+00:36:24,889 --> 00:36:25,889
+Bukankah begitu?
+
+596
+00:36:27,619 --> 00:36:29,989
+Itu juga akan menjadi
+hari saat kamu dipecat.
+
+597
+00:36:30,730 --> 00:36:31,760
+Kamu bisa menantikannya.
+
+598
+00:36:35,730 --> 00:36:36,730
+Aku menantikannya.
+
+599
+00:36:42,869 --> 00:36:44,768
+Lihatlah dia mengangkat dagunya yang kaku.
+
+600
+00:36:44,769 --> 00:36:45,808
+Ada apa dengannya?
+
+601
+00:36:45,809 --> 00:36:49,549
+Tapi kamu tahu, lebih menyenangkan
+memotong sesuatu yang kaku
+
+602
+00:36:49,550 --> 00:36:51,949
+daripada memotong sesuatu yang lembut.
+
+603
+00:36:54,750 --> 00:36:55,820
+Maaf.
+
+604
+00:37:03,789 --> 00:37:04,789
+Halo.
+
+605
+00:37:06,030 --> 00:37:07,099
+Silakan duduk.
+
+606
+00:37:12,340 --> 00:37:14,368
+Aku tahu ini permintaan mendesak,
+terima kasih sudah meluangkan waktu.
+
+607
+00:37:14,369 --> 00:37:16,539
+Sejujurnya, aku tidak senang.
+
+608
+00:37:16,969 --> 00:37:20,480
+Itu hanya unggahan di internet.
+Apa ini perlu?
+
+609
+00:37:21,679 --> 00:37:24,210
+Bahkan ada artikel yang terbit.
+Kami tidak mau bagianPersonalia
+
+610
+00:37:24,480 --> 00:37:27,150
+disalahkan selagi berpura-pura tidak tahu.
+
+611
+00:37:27,750 --> 00:37:30,149
+Kami pikir menyelidiki dengan
+cepat untuk mengklarifikasi situasi
+
+612
+00:37:30,150 --> 00:37:31,250
+adalah langkah terbaik.
+
+613
+00:37:34,690 --> 00:37:36,860
+Ini video wawancaranya.
+
+614
+00:37:37,059 --> 00:37:38,690
+Ini bagan evaluasi,
+
+615
+00:37:38,789 --> 00:37:41,059
+dan ini hasil tes bakat.
+
+616
+00:37:41,400 --> 00:37:43,730
+Terima kasih. Bagaimana dengan sisanya?
+
+617
+00:37:43,969 --> 00:37:45,939
+Ada banyak lamaran.
+
+618
+00:37:45,940 --> 00:37:47,900
+Pekerjaan kami terlalu
+banyak untuk mengurus itu.
+
+619
+00:37:48,000 --> 00:37:49,739
+Kamu bisa datang dan mengambilnya sendiri.
+
+620
+00:37:50,139 --> 00:37:51,170
+Tentu.
+
+621
+00:37:56,579 --> 00:37:58,110
+Dia agak sensitif hari ini.
+
+622
+00:37:59,320 --> 00:38:01,579
+- Di mana dokumennya?
+- Di ruang arsip basemen.
+
+623
+00:38:01,849 --> 00:38:03,189
+Aku akan segera pergi.
+
+624
+00:38:03,190 --> 00:38:04,689
+Baiklah. Aku akan kembali ke ruangan
+
+625
+00:38:04,690 --> 00:38:07,118
+untuk menonton video wawancara
+dan meninjau dokumen ini.
+
+626
+00:38:07,119 --> 00:38:08,119
+- Baiklah.
+- Baiklah.
+
+627
+00:38:08,760 --> 00:38:09,789
+Aku juga akan pergi.
+
+628
+00:38:10,260 --> 00:38:12,799
+Kamu akan pergi sendirian? Akan
+ada terlalu banyak dokumen.
+
+629
+00:38:12,800 --> 00:38:14,360
+Kenapa kamu tidak membantuku?
+
+630
+00:38:15,230 --> 00:38:17,768
+Manajerku melarangku membantu. Maafkan aku.
+
+631
+00:38:17,769 --> 00:38:19,445
+Kamu bisa mengambil kuncinya dari keamanan.
+
+632
+00:38:19,469 --> 00:38:20,840
+- Bu Jung.
+- Maaf.
+
+633
+00:38:23,239 --> 00:38:25,610
+Kenapa dia bertanya kepadaku
+jika tidak mau membantu?
+
+634
+00:38:38,050 --> 00:38:39,059
+Astaga.
+
+635
+00:38:40,619 --> 00:38:41,959
+Ada banyak dokumen
+
+636
+00:38:41,960 --> 00:38:43,058
+karena itu digunakan
+oleh seluruh perusahaan.
+
+637
+00:38:43,059 --> 00:38:45,460
+- Santai saja.
+- Terima kasih.
+
+638
+00:38:50,530 --> 00:38:51,829
+Mari kita coba.
+
+639
+00:39:00,139 --> 00:39:02,280
+Sepertinya keadaan di
+Tim Audit berisik lagi.
+
+640
+00:39:04,010 --> 00:39:05,550
+Halo, Pak Hwang.
+
+641
+00:39:06,780 --> 00:39:07,980
+Jangan memanggilku begitu.
+
+642
+00:39:08,619 --> 00:39:10,150
+Tidak ada orang di sini. Tenanglah.
+
+643
+00:39:11,550 --> 00:39:13,090
+Tetap saja, kita di kantor.
+
+644
+00:39:15,119 --> 00:39:16,389
+Kenapa Paman datang kemari?
+
+645
+00:39:17,659 --> 00:39:21,400
+Wakil Presdir juga terkadang
+ingin beristirahat sejenak.
+
+646
+00:39:26,369 --> 00:39:28,099
+Kapan Paman akan berhenti merokok?
+
+647
+00:39:30,239 --> 00:39:33,309
+Stres yang kamu dapatkan dari
+mencoba berhenti lebih beracun.
+
+648
+00:39:33,579 --> 00:39:36,610
+Tentu. Alasannya selalu sama.
+
+649
+00:39:37,710 --> 00:39:39,250
+Paman akan segera mengunjungi rumahmu.
+
+650
+00:39:39,579 --> 00:39:42,019
+Paman rindu galbijjim ibumu.
+
+651
+00:39:42,750 --> 00:39:45,320
+Tentu. Dia akan menyukainya.
+
+652
+00:39:45,719 --> 00:39:47,788
+Dia mungkin mengeluh
+itu terlalu merepotkan,
+
+653
+00:39:47,789 --> 00:39:48,859
+jadi, katakan kamu menginginkannya.
+
+654
+00:39:48,860 --> 00:39:49,860
+- Aku?
+- Ya.
+
+655
+00:39:50,230 --> 00:39:51,260
+"Yoon Seo Jin"
+
+656
+00:39:51,460 --> 00:39:55,030
+Pada akhirnya, aku ingin menjadi
+MP yang mengawasi proyek.
+
+657
+00:39:55,559 --> 00:39:57,469
+Manajer proyek.
+
+658
+00:39:58,429 --> 00:40:02,368
+Sebagai manajer proyek,
+aku akan memimpin proyek
+
+659
+00:40:02,369 --> 00:40:04,146
+untuk menuju kesuksesan
+dari awal hingga akhir.
+
+660
+00:40:04,170 --> 00:40:06,380
+Aku menginginkan pengalaman
+yang sangat berarti.
+
+661
+00:40:07,739 --> 00:40:09,579
+Kamu pintar. Kamu diterima.
+
+662
+00:40:11,449 --> 00:40:12,579
+Kenapa aku menonton ini?
+
+663
+00:40:12,849 --> 00:40:14,518
+Karena kamu bertanya,
+
+664
+00:40:14,519 --> 00:40:15,789
+"Bu Ok, kamu butuh bantuan?"
+
+665
+00:40:16,489 --> 00:40:19,820
+Aku hanya mengatakan
+itu karena sopan santun.
+
+666
+00:40:21,219 --> 00:40:22,289
+Sudah selesai?
+
+667
+00:40:22,530 --> 00:40:23,929
+Jangan bercanda.
+
+668
+00:40:24,489 --> 00:40:25,800
+Masih ada 100 lagi.
+
+669
+00:40:26,159 --> 00:40:27,860
+Semangat. Semoga berhasil.
+
+670
+00:40:28,429 --> 00:40:30,829
+Bu Ok, mari berkelahi.
+
+671
+00:40:31,500 --> 00:40:33,599
+- Kamu akan mendapatkannya.
+- Tunggu.
+
+672
+00:40:34,599 --> 00:40:37,539
+Aneh. Kenapa hilang?
+
+673
+00:40:37,739 --> 00:40:38,739
+Apa yang hilang?
+
+674
+00:40:45,650 --> 00:40:46,780
+Itu tidak benar!
+
+675
+00:40:48,849 --> 00:40:50,518
+Tentu saja aku mengikuti tes bakat.
+
+676
+00:40:50,519 --> 00:40:52,218
+Bagaimana aku bisa dipekerjakan
+tanpa mengikutinya?
+
+677
+00:40:52,219 --> 00:40:53,690
+Tapi tidak ada catatannya.
+
+678
+00:40:54,090 --> 00:40:55,260
+Tidak mungkin.
+
+679
+00:41:04,099 --> 00:41:06,739
+Mereka memasang kamera saat
+itu, jadi, pasti ada videonya.
+
+680
+00:41:13,139 --> 00:41:14,939
+Jika aku tidak mengikuti tes,
+
+681
+00:41:14,940 --> 00:41:16,948
+bagaimana aku bisa
+berdiri di sini sekarang?
+
+682
+00:41:16,949 --> 00:41:18,449
+Itu yang ingin kutanyakan kepadamu.
+
+683
+00:41:19,849 --> 00:41:21,719
+Kamu pikir aku meretas sistem untuk masuk?
+
+684
+00:41:23,420 --> 00:41:24,519
+Kamu melakukan itu?
+
+685
+00:41:30,590 --> 00:41:31,590
+Pak Shin...
+
+686
+00:41:33,429 --> 00:41:34,599
+Kamu sudah keterlaluan.
+
+687
+00:41:53,750 --> 00:41:56,489
+Tapi apa mungkin kita dipekerjakan
+dengan meretas sistem?
+
+688
+00:41:56,920 --> 00:41:58,549
+Dengan bakat itu, dia
+harus bekerja untuk BIN.
+
+689
+00:41:58,550 --> 00:41:59,718
+Pak Yeom, ayolah.
+
+690
+00:41:59,719 --> 00:42:00,760
+Begini,
+
+691
+00:42:00,920 --> 00:42:02,389
+aku hanya mengatakannya.
+
+692
+00:42:02,420 --> 00:42:03,629
+- Bu Ok.
+- Ya?
+
+693
+00:42:03,630 --> 00:42:05,530
+Pergilah ke agensi tes bakat
+
+694
+00:42:06,059 --> 00:42:08,429
+dan ulas data yang relevan lagi.
+
+695
+00:42:08,460 --> 00:42:10,599
+- Aku mengerti.
+- Tolong lakukan sekarang.
+
+696
+00:42:10,670 --> 00:42:11,699
+Baik.
+
+697
+00:42:17,170 --> 00:42:18,269
+Aneh sekali.
+
+698
+00:42:19,039 --> 00:42:22,110
+- Apa?
+- Pak Shin mengkhawatirkan Han Soo?
+
+699
+00:42:22,909 --> 00:42:24,749
+Tidak mungkin, dia tidak
+akan pernah khawatir.
+
+700
+00:42:26,119 --> 00:42:28,726
+Dia hanya membutuhkanmu untuk
+melakukan yang diperlukan. Itu saja.
+
+701
+00:42:28,750 --> 00:42:30,050
+Aku hampir tertipu.
+
+702
+00:42:31,150 --> 00:42:32,190
+Astaga.
+
+703
+00:42:32,960 --> 00:42:33,988
+Pak Gu.
+
+704
+00:42:33,989 --> 00:42:35,618
+"Konstruksi JU"
+
+705
+00:42:35,619 --> 00:42:37,130
+Tunggu, Pak Gu.
+
+706
+00:42:43,429 --> 00:42:45,530
+Kamu tahu seperti apa Pak Shin.
+
+707
+00:42:46,469 --> 00:42:48,699
+Ya. Aku sangat mengenalnya.
+
+708
+00:42:49,409 --> 00:42:50,769
+Itu yang makin membuatku kesal.
+
+709
+00:42:51,070 --> 00:42:53,738
+Begini, kukira Pak Shin
+
+710
+00:42:53,739 --> 00:42:55,639
+cukup memercayaiku.
+
+711
+00:42:56,409 --> 00:42:58,280
+Tapi aku salah.
+
+712
+00:42:58,880 --> 00:43:00,320
+Dia masih tidak memercayaiku.
+
+713
+00:43:00,550 --> 00:43:03,090
+Prinsip Pak Shin adalah
+mencurigai semuanya.
+
+714
+00:43:03,550 --> 00:43:05,119
+Tapi apa itu tidak apa-apa?
+
+715
+00:43:05,849 --> 00:43:07,659
+Hidup seperti itu akan membuatnya kesepian.
+
+716
+00:43:10,260 --> 00:43:13,199
+Bukankah dia membuat pilihan
+itu meski mengetahui itu?
+
+717
+00:43:24,170 --> 00:43:25,269
+Banyak sekali.
+
+718
+00:43:26,110 --> 00:43:28,309
+Aku menemukan lamaran
+pekerjaan Seo Jin dan Han Soo.
+
+719
+00:43:28,610 --> 00:43:29,726
+Aku akan segera memeriksanya.
+
+720
+00:43:29,750 --> 00:43:30,980
+Aku ingin membantu,
+
+721
+00:43:31,150 --> 00:43:34,179
+tapi aku harus pergi ke agensi tes bakat.
+
+722
+00:43:34,280 --> 00:43:35,448
+Kenapa?
+
+723
+00:43:35,449 --> 00:43:37,118
+Kita sudah mendapatkan
+hasil tes bakat, bukan?
+
+724
+00:43:37,119 --> 00:43:38,349
+Hasil tes Han Soo hilang.
+
+725
+00:43:38,550 --> 00:43:40,159
+Apa? Apa maksudmu hilang?
+
+726
+00:43:40,190 --> 00:43:42,518
+Ingat tes bakat dilakukan
+di internet sekaligus
+
+727
+00:43:42,519 --> 00:43:43,929
+pada hari dan waktu yang sama?
+
+728
+00:43:44,360 --> 00:43:46,260
+Kita punya hasil semua orang.
+
+729
+00:43:47,030 --> 00:43:48,158
+Tapi hasil Han Soo tidak ada.
+
+730
+00:43:48,159 --> 00:43:50,000
+Mungkin itu salah tempat.
+
+731
+00:43:50,070 --> 00:43:52,800
+Dokumennya ada di mana-mana di ruang arsip.
+
+732
+00:43:52,869 --> 00:43:54,198
+Menemukan yang tepat tidaklah mudah.
+
+733
+00:43:54,199 --> 00:43:55,400
+Itu mungkin saja.
+
+734
+00:43:55,469 --> 00:43:57,409
+Selagi aku pergi ke agensi tes bakat,
+
+735
+00:43:57,639 --> 00:43:59,710
+bisakah kamu mencari di ruang arsip lagi?
+
+736
+00:43:59,940 --> 00:44:02,848
+Baiklah. Kalau begitu, sebaiknya
+kuperiksa dokumen ini nanti.
+
+737
+00:44:02,849 --> 00:44:04,086
+Tidak ada yang bisa melakukannya.
+
+738
+00:44:04,110 --> 00:44:05,380
+Seseorang yang bisa
+
+739
+00:44:06,579 --> 00:44:07,880
+ada di sana.
+
+740
+00:44:08,019 --> 00:44:10,550
+Pak Yeom. Kami serahkan kepadamu.
+Semoga berhasil.
+
+741
+00:44:10,619 --> 00:44:12,859
+Tidak. Jangan katakan itu kepadaku.
+Aku tidak mau. Aku sibuk.
+
+742
+00:44:12,860 --> 00:44:14,740
+- Aku akan terlalu sibuk. Mengerti?
+- Pergilah.
+
+743
+00:44:14,860 --> 00:44:15,988
+Aku tidak mau!
+
+744
+00:44:15,989 --> 00:44:16,989
+Pak Yeom.
+
+745
+00:44:17,760 --> 00:44:19,135
+Aku akan melakukannya jika
+kamu meminta baik-baik.
+
+746
+00:44:19,159 --> 00:44:20,230
+Aku pergi.
+
+747
+00:44:20,960 --> 00:44:22,559
+Astaga, yang benar saja...
+
+748
+00:44:23,769 --> 00:44:24,869
+Aku dihujani pekerjaan.
+
+749
+00:44:26,570 --> 00:44:27,599
+Astaga.
+
+750
+00:44:28,039 --> 00:44:29,070
+Itu aneh.
+
+751
+00:44:29,440 --> 00:44:32,440
+Tidak ada catatan akses untuk
+Pak Gu pada tanggal ini.
+
+752
+00:44:33,340 --> 00:44:34,409
+Kamu yakin?
+
+753
+00:44:35,880 --> 00:44:36,880
+Ya.
+
+754
+00:44:42,280 --> 00:44:43,420
+Ini aku, Pak Shin.
+
+755
+00:44:43,849 --> 00:44:46,860
+Kami tidak bisa menemukan
+catatan Han Soo mengakses tes.
+
+756
+00:44:47,420 --> 00:44:48,959
+Baik. Usaha yang bagus.
+
+757
+00:44:48,960 --> 00:44:53,000
+"Manajer Tim Audit, Shin Cha Il"
+
+758
+00:45:30,130 --> 00:45:32,800
+Kamu masih payah dalam
+membuntuti orang, Pak Gu.
+
+759
+00:45:35,300 --> 00:45:36,840
+Aku tidak membuntutimu.
+
+760
+00:45:37,039 --> 00:45:38,170
+Lalu apa yang kamu lakukan?
+
+761
+00:45:41,409 --> 00:45:42,710
+Traktir aku minum.
+
+762
+00:45:51,719 --> 00:45:52,719
+Apa aku
+
+763
+00:45:54,090 --> 00:45:55,659
+begitu mencurigakan bagimu?
+
+764
+00:45:57,360 --> 00:46:00,159
+Aku yakin, sebagai rekan kerja,
+
+765
+00:46:01,199 --> 00:46:03,570
+bahwa kita telah saling percaya.
+
+766
+00:46:04,329 --> 00:46:05,329
+Namun...
+
+767
+00:46:06,840 --> 00:46:08,440
+Kurasa kamu tidak seperti itu.
+
+768
+00:46:09,739 --> 00:46:11,369
+Apa aku tidak bisa dipercaya?
+
+769
+00:46:15,440 --> 00:46:18,349
+Aku tidak percaya atau
+tidak memercayaimu, Pak Gu.
+
+770
+00:46:19,750 --> 00:46:21,619
+Aku hanya bersikap tidak memihak.
+
+771
+00:46:22,989 --> 00:46:24,090
+Aku tahu itu.
+
+772
+00:46:25,119 --> 00:46:26,190
+Sungguh.
+
+773
+00:46:26,760 --> 00:46:28,190
+Aku bersumpah tahu itu.
+
+774
+00:46:29,019 --> 00:46:30,329
+"Jangan khawatir."
+
+775
+00:46:30,590 --> 00:46:32,929
+"Aku percaya kepadamu." Tidak
+bisakah kamu mengatakan itu?
+
+776
+00:46:38,000 --> 00:46:39,130
+Jangan khawatir.
+
+777
+00:46:45,510 --> 00:46:48,110
+Jika proses perekrutannya adil,
+semua akan baik-baik saja.
+
+778
+00:46:50,150 --> 00:46:52,010
+Tapi itu sudah diduga.
+
+779
+00:46:52,380 --> 00:46:54,700
+Hanya itu kata-kata yang bisa
+kukatakan kepadamu sekarang.
+
+780
+00:47:09,829 --> 00:47:13,639
+Jangan memaksakan diri sendirian.
+
+781
+00:47:15,639 --> 00:47:17,610
+Aku juga ingin membantumu.
+
+782
+00:47:40,800 --> 00:47:42,429
+Aku sungguh minta maaf
+
+783
+00:47:42,929 --> 00:47:44,500
+karena sudah merepotkanmu.
+
+784
+00:47:45,429 --> 00:47:46,599
+Namun,
+
+785
+00:47:47,239 --> 00:47:49,969
+aku tidak bisa melakukan apa
+pun tentang perasaan kesal ini.
+
+786
+00:47:50,409 --> 00:47:52,769
+Meski aku memercayaimu,
+
+787
+00:47:53,210 --> 00:47:56,139
+kamu tidak memercayaiku.
+
+788
+00:47:57,280 --> 00:47:58,309
+Masuklah.
+
+789
+00:47:58,909 --> 00:48:00,219
+Baiklah.
+
+790
+00:48:02,050 --> 00:48:04,920
+Hati-hati di jalan, Pak Shin yang Kejam.
+
+791
+00:48:07,190 --> 00:48:08,360
+Selamat malam.
+
+792
+00:48:21,170 --> 00:48:22,340
+"2022-47, Gu Han Soo"
+
+793
+00:48:22,599 --> 00:48:24,569
+Aku sangat suka pepatah,
+
+794
+00:48:24,570 --> 00:48:26,909
+"Manusia adalah makhluk sosial."
+
+795
+00:48:27,639 --> 00:48:29,280
+Untuk membangun gedung bagus,
+
+796
+00:48:29,380 --> 00:48:31,980
+dibutuhkan hubungan manusia
+yang bisa dipercaya.
+
+797
+00:48:32,480 --> 00:48:33,819
+Dan tim dengan hubungan seperti itu
+
+798
+00:48:33,820 --> 00:48:36,289
+untuk membangun gedung
+bersama untuk orang lain
+
+799
+00:48:36,550 --> 00:48:38,750
+sungguh luar biasa dan berharga.
+
+800
+00:48:39,150 --> 00:48:41,431
+Karena ingin menyelesaikan
+tugas yang tidak ternilai itu,
+
+801
+00:48:41,860 --> 00:48:43,389
+aku melamar untuk pekerjaan ini.
+
+802
+00:49:04,349 --> 00:49:05,710
+Kepalaku sakit.
+
+803
+00:49:08,420 --> 00:49:11,590
+Aku sungguh minta maaf
+karena sudah merepotkanmu.
+
+804
+00:49:11,619 --> 00:49:13,789
+Meski aku memercayaimu,
+
+805
+00:49:14,360 --> 00:49:17,130
+kamu tidak memercayaiku.
+
+806
+00:49:17,889 --> 00:49:20,130
+- Masuklah.
+- Hati-hati di jalan,
+
+807
+00:49:20,260 --> 00:49:21,460
+Pak Shin yang Kejam.
+
+808
+00:49:23,230 --> 00:49:25,199
+Kamu sudah gila, Gu Han Soo.
+
+809
+00:49:26,400 --> 00:49:27,840
+Kenapa aku melakukan itu?
+
+810
+00:49:37,909 --> 00:49:39,750
+Sepertinya catatanmu hilang.
+
+811
+00:49:39,980 --> 00:49:41,780
+Jangan khawatir. Aku akan menemukannya.
+
+812
+00:49:43,090 --> 00:49:44,489
+"Pengawas Moon"
+
+813
+00:49:54,730 --> 00:49:56,698
+- Ini aku, Pak Moon.
+- Kamu sungguh tidak sabar
+
+814
+00:49:56,699 --> 00:49:58,800
+dan segera meneleponku.
+
+815
+00:49:58,929 --> 00:50:00,570
+Tapi sekarang sudah sangat larut.
+
+816
+00:50:01,400 --> 00:50:02,400
+Maafkan aku.
+
+817
+00:50:02,699 --> 00:50:03,968
+Ada yang bisa kubantu?
+
+818
+00:50:03,969 --> 00:50:06,539
+Kamu dikecualikan dari pekerjaan.
+
+819
+00:50:07,579 --> 00:50:09,210
+Sebenarnya, kamu bisa membantu satu hal.
+
+820
+00:50:09,440 --> 00:50:11,610
+Apa itu? Aku akan melakukan apa pun.
+
+821
+00:50:11,849 --> 00:50:14,420
+Katakan itu tidak benar
+karena aku memercayaimu.
+
+822
+00:50:14,849 --> 00:50:16,349
+Katakan itu tidak benar,
+
+823
+00:50:16,449 --> 00:50:18,129
+dan aku berjanji akan menemukan dokumenmu.
+
+824
+00:50:19,219 --> 00:50:21,920
+Pak Moon. Aku bersumpah itu tidak benar.
+
+825
+00:50:22,420 --> 00:50:24,900
+Aku mengikuti tes dan bergabung
+dengan perusahaan dengan adil.
+
+826
+00:50:25,559 --> 00:50:26,900
+Baik, Han Soo.
+
+827
+00:50:29,159 --> 00:50:30,170
+Terima kasih.
+
+828
+00:50:30,570 --> 00:50:32,829
+Traktir aku makanan mahal jika kamu serius.
+
+829
+00:50:33,670 --> 00:50:35,245
+Akan kututup. Banyak yang harus kulakukan.
+
+830
+00:50:35,269 --> 00:50:37,869
+Baiklah. Aku akan
+mentraktirmu makanan enak.
+
+831
+00:50:38,809 --> 00:50:40,679
+- Terima kasih.
+- Sama-sama.
+
+832
+00:51:00,429 --> 00:51:01,460
+Pak Moon.
+
+833
+00:51:02,199 --> 00:51:03,329
+Bagaimana hasilnya?
+
+834
+00:51:04,400 --> 00:51:06,800
+Bagaimana ini? Itu tampak buruk.
+
+835
+00:51:08,340 --> 00:51:09,669
+Kamu tidak menemukannya?
+
+836
+00:51:09,670 --> 00:51:12,340
+Aku mencari di ruang arsip
+besar dari atas ke bawah
+
+837
+00:51:12,639 --> 00:51:14,759
+sampai pukul 05.00 dan masih
+tidak menemukan apa pun.
+
+838
+00:51:16,480 --> 00:51:17,679
+Apa boleh buat.
+
+839
+00:51:18,409 --> 00:51:20,250
+Terima kasih banyak sudah berusaha.
+
+840
+00:51:20,349 --> 00:51:22,250
+Ini sulit. Apa yang harus kita lakukan?
+
+841
+00:51:22,849 --> 00:51:24,989
+Kebenaran akan terungkap.
+
+842
+00:51:25,250 --> 00:51:27,519
+Tidak apa-apa. Terima kasih.
+
+843
+00:51:29,659 --> 00:51:30,929
+Tunggu.
+
+844
+00:51:31,860 --> 00:51:33,860
+Itu sulit bagiku.
+
+845
+00:51:36,699 --> 00:51:37,829
+Pak Moon.
+
+846
+00:51:37,900 --> 00:51:39,800
+Kenapa kamu menggodaku seperti itu?
+
+847
+00:51:39,940 --> 00:51:41,239
+Terima kasih banyak.
+
+848
+00:51:41,940 --> 00:51:43,740
+- Kamu berutang makan kepadaku.
+- Tentu saja.
+
+849
+00:51:44,309 --> 00:51:46,639
+Aku muak dengan ruang arsip.
+
+850
+00:51:47,280 --> 00:51:49,139
+- Halo.
+- Apa yang terjadi?
+
+851
+00:51:49,210 --> 00:51:50,280
+Halo.
+
+852
+00:51:52,710 --> 00:51:53,780
+Ini.
+
+853
+00:51:53,880 --> 00:51:55,380
+Hasil tes bakat.
+
+854
+00:51:55,820 --> 00:51:56,948
+Kamu menemukannya di ruang arsip?
+
+855
+00:51:56,949 --> 00:51:59,519
+Aku mencari di tiap sudut
+sampai menemukannya.
+
+856
+00:52:00,059 --> 00:52:01,320
+- Itu bagus.
+- Ya.
+
+857
+00:52:02,059 --> 00:52:03,190
+Syukurlah.
+
+858
+00:52:03,289 --> 00:52:04,360
+Terima kasih.
+
+859
+00:52:04,730 --> 00:52:05,928
+Akan lebih dramatis
+
+860
+00:52:05,929 --> 00:52:08,300
+jika kamu meretas sistem untuk lolos.
+
+861
+00:52:08,360 --> 00:52:10,969
+Aku akan melempar ini ke wajah Pak Shin.
+
+862
+00:52:11,670 --> 00:52:12,800
+Aneh sekali.
+
+863
+00:52:13,239 --> 00:52:15,879
+Kenapa perusahaan pengujian bilang
+tidak ada catatan tentang kamu?
+
+864
+00:52:16,039 --> 00:52:17,340
+Apa maksudmu?
+
+865
+00:52:17,369 --> 00:52:18,469
+Begini...
+
+866
+00:52:18,840 --> 00:52:21,408
+Aku pergi ke perusahaan dan mereka
+tidak punya catatan Han Soo masuk.
+
+867
+00:52:21,409 --> 00:52:23,550
+Kita menemukan bukti
+fisik dari hasil tesnya.
+
+868
+00:52:23,780 --> 00:52:25,179
+Bukankah itu akhirnya?
+
+869
+00:52:25,550 --> 00:52:26,790
+Kurasa begitu, tapi tetap saja.
+
+870
+00:52:31,050 --> 00:52:32,118
+- Halo.
+- Halo.
+
+871
+00:52:32,119 --> 00:52:33,260
+Pak Shin.
+
+872
+00:52:33,559 --> 00:52:34,760
+Ini buktinya.
+
+873
+00:52:37,590 --> 00:52:38,658
+"Hasil Tes Karakter"
+
+874
+00:52:38,659 --> 00:52:39,939
+"Hasil Tes Kemampuan Vokasional"
+
+875
+00:52:41,659 --> 00:52:42,760
+Begitu rupanya.
+
+876
+00:52:42,960 --> 00:52:44,320
+Kamu bisa melanjutkan pekerjaanmu.
+
+877
+00:52:46,070 --> 00:52:47,099
+Baiklah.
+
+878
+00:52:52,309 --> 00:52:54,710
+Kenapa rasanya aku masih bersalah?
+
+879
+00:52:55,940 --> 00:52:58,050
+Kamu mengharapkan permintaan maaf?
+
+880
+00:52:58,280 --> 00:52:59,650
+Tidak terlalu,
+
+881
+00:52:59,849 --> 00:53:01,226
+tapi mungkin sedikit rasa bersalah?
+
+882
+00:53:01,250 --> 00:53:02,550
+Kamu meminta terlalu banyak.
+
+883
+00:53:03,119 --> 00:53:04,190
+Benar, bukan?
+
+884
+00:53:08,920 --> 00:53:10,360
+Itu benar-benar aneh.
+
+885
+00:53:10,760 --> 00:53:12,436
+Kita harus memeriksanya
+dengan bagian Personalia.
+
+886
+00:53:12,460 --> 00:53:13,530
+Baik, Pak.
+
+887
+00:53:22,639 --> 00:53:24,238
+Aku yakin Yoon Dae Kyung,
+
+888
+00:53:24,239 --> 00:53:26,809
+manajer dari empat tahun lalu,
+bertanggung jawab atas hal itu.
+
+889
+00:53:27,139 --> 00:53:30,849
+Kamu tidak diberi tahu saat
+mengambil alih, Bu Lee?
+
+890
+00:53:31,010 --> 00:53:32,079
+Tidak.
+
+891
+00:53:33,079 --> 00:53:36,049
+Kamu tahu ada masalah
+dengan sistem tes bakat?
+
+892
+00:53:36,050 --> 00:53:37,650
+Itu masalah kecil.
+
+893
+00:53:37,920 --> 00:53:41,118
+Kami memeriksanya. Tahun lalu,
+beberapa pelamar mendapat tautannya
+
+894
+00:53:41,119 --> 00:53:43,559
+agak terlambat, jadi, mereka
+mengikuti tes sehari setelahnya.
+
+895
+00:53:43,690 --> 00:53:46,800
+Hasilnya dibiarkan karena kami
+mengajukan catatan sesuai tanggal,
+
+896
+00:53:47,030 --> 00:53:48,158
+tapi semuanya berhasil ditemukan.
+
+897
+00:53:48,159 --> 00:53:49,860
+Tepatnya, orang-orangku yang menemukannya.
+
+898
+00:53:51,329 --> 00:53:52,570
+Ya, tapi
+
+899
+00:53:53,400 --> 00:53:55,345
+bukankah sudah selesai
+setelah kamu punya semuanya?
+
+900
+00:53:55,369 --> 00:53:56,909
+Tidak ada korupsi.
+
+901
+00:53:57,010 --> 00:53:59,639
+Manajemen berkas adalah tugas
+penting di bawah lingkup kita.
+
+902
+00:53:59,670 --> 00:54:01,179
+Ini tidak ringan atau sederhana.
+
+903
+00:54:01,909 --> 00:54:04,209
+Sejak kamu mempekerjakan perusahaan baru
+
+904
+00:54:04,210 --> 00:54:07,280
+empat tahun lalu untuk melakukan tes bakat,
+
+905
+00:54:07,349 --> 00:54:09,079
+selalu ada masalah dan kesalahan.
+
+906
+00:54:09,579 --> 00:54:11,289
+Kamu tidak pernah memeriksanya.
+
+907
+00:54:11,550 --> 00:54:14,659
+Kami akan mencari tahu apakah ada
+masalah dengan proses seleksi.
+
+908
+00:54:15,960 --> 00:54:17,189
+Aku mengingatkanmu bahwa
+
+909
+00:54:17,190 --> 00:54:19,928
+Personalia memilih mempekerjakan 2PO
+System sebelum aku menjadi manajer.
+
+910
+00:54:19,929 --> 00:54:23,229
+Kenapa berkas dari empat
+tahun lalu tidak diarsipkan?
+
+911
+00:54:23,230 --> 00:54:24,929
+Aku tidak tahu apa pun tentang itu.
+
+912
+00:54:25,130 --> 00:54:27,468
+Bu Jeon yang menangani arsip sudah keluar,
+
+913
+00:54:27,469 --> 00:54:29,069
+jadi, aku tidak bisa
+memastikannya sekarang.
+
+914
+00:54:29,070 --> 00:54:31,510
+Mungkin ada masalah dengan
+pemindahan tugas Personalia.
+
+915
+00:54:33,039 --> 00:54:35,609
+- Itu...
+- Temukan berkas
+
+916
+00:54:35,610 --> 00:54:37,779
+dari proses perekrutan
+antara tahun 2020 dan 2023,
+
+917
+00:54:37,780 --> 00:54:40,480
+dan dokumen mengenai bagaimana
+kamu bisa mempekerjakan Sistem 2PO
+
+918
+00:54:40,949 --> 00:54:42,629
+dan tugas yang kamu berikan kepada mereka.
+
+919
+00:54:43,449 --> 00:54:45,119
+Bukankah ini agak berlebihan?
+
+920
+00:54:45,820 --> 00:54:47,919
+Kamu mengatakan insiden perekrutan
+tidak adil itu dari dua tahun lalu.
+
+921
+00:54:47,920 --> 00:54:50,260
+Menuntut berkas dari empat tahun lalu...
+
+922
+00:54:50,929 --> 00:54:52,229
+Kamu melampaui wewenangmu.
+
+923
+00:54:52,230 --> 00:54:55,130
+Aku menyelidiki masalah
+dengan proses perekrutan kita.
+
+924
+00:54:56,130 --> 00:54:57,699
+Dimohon kerja samanya.
+
+925
+00:55:06,039 --> 00:55:08,579
+Bukankah kita berlebihan
+dengan mundur empat tahun?
+
+926
+00:55:09,210 --> 00:55:11,749
+Hanya empat tahun karena
+ini tentang 2PO System.
+
+927
+00:55:11,750 --> 00:55:14,018
+Kita bisa saja mundur sepuluh tahun.
+
+928
+00:55:14,019 --> 00:55:15,779
+Kita diberkati dengan
+terlalu banyak pekerjaan.
+
+929
+00:55:15,780 --> 00:55:17,989
+Ini hanya berkas setahun. Empat tahun...
+
+930
+00:55:18,250 --> 00:55:19,519
+Aku tidak akan pernah pulang.
+
+931
+00:55:23,360 --> 00:55:25,630
+- Ada yang bisa kami bantu?
+- Tidak.
+
+932
+00:55:25,730 --> 00:55:28,429
+Kamu diterima tahun ini. Sebaiknya
+kamu tidak menyentuh berkasnya.
+
+933
+00:55:29,059 --> 00:55:31,199
+Kalau begitu, kami akan pulang.
+
+934
+00:55:31,400 --> 00:55:32,828
+Tidak, kamu tidak boleh pergi.
+
+935
+00:55:32,829 --> 00:55:34,468
+Atasan kalian masih di sini.
+
+936
+00:55:34,469 --> 00:55:36,070
+Kalian boleh pergi. Usaha yang bagus.
+
+937
+00:55:37,210 --> 00:55:39,210
+- Baiklah. Teruskan kerja kerasmu.
+- Sampai jumpa.
+
+938
+00:55:39,440 --> 00:55:40,610
+Sampai jumpa besok.
+
+939
+00:55:42,380 --> 00:55:43,979
+Mari kita suruh mereka bekerja.
+
+940
+00:55:43,980 --> 00:55:45,055
+Mereka tidak melakukan kesalahan.
+
+941
+00:55:45,079 --> 00:55:46,626
+Bagaimana jika mereka bergabung
+dan itu menjadi masalah?
+
+942
+00:55:46,650 --> 00:55:48,920
+Semua pekerjaan yang kita
+lakukan akan sia-sia.
+
+943
+00:55:49,079 --> 00:55:50,848
+Aku akan menyewa perusahaan
+untuk menguji keasliannya.
+
+944
+00:55:50,849 --> 00:55:54,059
+Kita hanya perlu memeriksa
+apakah hasil yang dicetak cocok
+
+945
+00:55:54,190 --> 00:55:55,519
+dengan hasil dalam sistem, ya?
+
+946
+00:55:56,059 --> 00:55:57,429
+Teruskan.
+
+947
+00:55:59,530 --> 00:56:01,500
+Di mana sisa catatannya?
+
+948
+00:56:02,000 --> 00:56:03,968
+Di gudang di Incheon
+atau Provinsi Gyeonggi.
+
+949
+00:56:03,969 --> 00:56:05,230
+Mereka sedang dilacak.
+
+950
+00:56:05,400 --> 00:56:06,499
+Kenapa berkasnya tersebar?
+
+951
+00:56:06,500 --> 00:56:08,670
+Tugasnya tidak diserahkan dengan benar
+
+952
+00:56:09,239 --> 00:56:11,239
+saat manajer dan manajer
+junior sebelumnya pergi.
+
+953
+00:56:12,070 --> 00:56:14,209
+Perusahaan kita kacau, tim kita kacau,
+
+954
+00:56:14,210 --> 00:56:15,380
+dan pikiranku juga kacau.
+
+955
+00:56:17,949 --> 00:56:19,109
+Dia bahkan lebih kacau.
+
+956
+00:56:19,110 --> 00:56:20,679
+Permisi. Bangun.
+
+957
+00:56:20,780 --> 00:56:21,880
+Kamu tertidur?
+
+958
+00:56:24,389 --> 00:56:26,789
+Semua dokumen ini membuatku mengantuk.
+
+959
+00:56:26,960 --> 00:56:28,589
+Pergilah ke suatu tempat
+dan istirahatkan matamu.
+
+960
+00:56:28,590 --> 00:56:30,019
+Kamu terjaga semalaman.
+
+961
+00:56:30,360 --> 00:56:31,659
+Minumlah kopi.
+
+962
+00:56:31,690 --> 00:56:34,429
+- Aku akan mencari udara segar.
+- Ya.
+
+963
+00:56:36,460 --> 00:56:37,869
+Kurasa aku akan minum kopi...
+
+964
+00:56:38,000 --> 00:56:39,929
+Kamu mau pergi ke mana?
+
+965
+00:56:40,070 --> 00:56:41,239
+Kamu mau menginap semalaman?
+
+966
+00:56:42,000 --> 00:56:43,638
+Bu Ok, aku atasanmu.
+
+967
+00:56:43,639 --> 00:56:45,339
+- Aku tahu itu.
+- Benarkah?
+
+968
+00:56:45,340 --> 00:56:46,569
+- Ya.
+- Kurasa kamu tidak tahu.
+
+969
+00:56:46,570 --> 00:56:48,380
+Aku tahu itu. Ayo kembali bekerja.
+
+970
+00:56:51,710 --> 00:56:53,710
+Aku merasa tidak enak
+mereka mengerjakan semuanya.
+
+971
+00:56:55,750 --> 00:56:57,790
+Kita tidak bisa melakukan
+apa yang harus dilakukan.
+
+972
+00:56:58,550 --> 00:56:59,690
+Benar.
+
+973
+00:57:00,389 --> 00:57:02,760
+Kamu sungguh berpikir
+proses perekrutan itu korup?
+
+974
+00:57:03,190 --> 00:57:05,390
+Kurasa itu hanya kegagalan
+dalam mengelola dengan baik.
+
+975
+00:57:05,960 --> 00:57:07,400
+Kuharap tidak ada korupsi,
+
+976
+00:57:07,929 --> 00:57:09,089
+tapi kita harus memeriksanya.
+
+977
+00:57:09,400 --> 00:57:11,960
+Keadaan akan sulit bagi kita
+begitu menemukan sesuatu di berkas.
+
+978
+00:57:13,199 --> 00:57:15,769
+Itu sebabnya kamu harus
+beristirahat selagi bisa.
+
+979
+00:57:16,469 --> 00:57:17,610
+Benar.
+
+980
+00:57:22,139 --> 00:57:23,980
+Aku harus pergi. Sampai jumpa besok.
+
+981
+00:57:25,610 --> 00:57:26,780
+Sampai jumpa.
+
+982
+00:57:40,059 --> 00:57:41,199
+Kurasa kakakmu
+
+983
+00:57:41,659 --> 00:57:43,300
+akan segera sadar.
+
+984
+00:57:45,800 --> 00:57:46,869
+Apa?
+
+985
+00:57:52,539 --> 00:57:53,610
+Benarkah?
+
+986
+00:57:53,679 --> 00:57:56,440
+Itu hanya sebentar, tapi
+dia membuka matanya.
+
+987
+00:57:57,110 --> 00:57:58,610
+Bukankah itu bagus?
+
+988
+00:57:58,780 --> 00:57:59,880
+Benar.
+
+989
+00:58:00,449 --> 00:58:02,320
+Itu berita bagus.
+
+990
+00:58:06,190 --> 00:58:07,360
+Aku senang sekali.
+
+991
+00:58:13,829 --> 00:58:15,260
+Ini sangat buruk.
+
+992
+00:58:15,360 --> 00:58:18,030
+Audit perekrutan. Mereka
+mundur empat tahun.
+
+993
+00:58:18,929 --> 00:58:21,000
+Ya, saat itulah aku dipekerjakan.
+
+994
+00:58:22,440 --> 00:58:23,610
+Aku harus bagaimana?
+
+995
+00:58:24,969 --> 00:58:26,139
+Sial.
+
+996
+00:58:30,179 --> 00:58:31,280
+Paman?
+
+997
+00:58:31,780 --> 00:58:33,349
+Hei. Kamu sudah datang.
+
+998
+00:58:34,449 --> 00:58:36,250
+Kenapa Paman ada di sini?
+
+999
+00:58:39,820 --> 00:58:41,959
+Aku hanya merokok tiga kali sehari.
+
+1000
+00:58:41,960 --> 00:58:43,389
+Jangan beri tahu ibumu.
+
+1001
+00:58:43,690 --> 00:58:44,760
+Paman harus
+
+1002
+00:58:44,789 --> 00:58:47,599
+melakukan sesuatu dengan baunya
+jika ingin merahasiakannya.
+
+1003
+00:58:49,230 --> 00:58:51,069
+Jika ibumu mengatakan aku bau,
+
+1004
+00:58:51,070 --> 00:58:53,170
+kamu harus bilang tidak mencium apa pun.
+
+1005
+00:58:54,239 --> 00:58:55,340
+Ayo masuk.
+
+1006
+00:58:56,039 --> 00:58:57,269
+Apa kode aksesnya?
+
+1007
+00:58:57,340 --> 00:58:59,239
+Tidak ada kode akses.
+Aku menggunakan kartu.
+
+1008
+00:59:07,280 --> 00:59:10,750
+Ini dia galbijjim-nya.
+
+1009
+00:59:11,489 --> 00:59:12,489
+Astaga.
+
+1010
+00:59:12,690 --> 00:59:13,719
+Makanlah.
+
+1011
+00:59:13,760 --> 00:59:14,860
+Astaga.
+
+1012
+00:59:15,460 --> 00:59:16,590
+Kelihatannya enak.
+
+1013
+00:59:17,889 --> 00:59:18,989
+Bagaimana?
+
+1014
+00:59:19,860 --> 00:59:21,499
+Luar biasa.
+
+1015
+00:59:21,500 --> 00:59:23,499
+Aku sangat merindukan ini.
+
+1016
+00:59:23,500 --> 00:59:24,529
+Makanlah.
+
+1017
+00:59:24,530 --> 00:59:25,769
+Selamat menikmati, Paman.
+
+1018
+00:59:26,199 --> 00:59:27,468
+- Mari makan.
+- Benar juga.
+
+1019
+00:59:27,469 --> 00:59:29,238
+Kimchi daun bawangnya enak dan matang.
+
+1020
+00:59:29,239 --> 00:59:30,339
+Akan kuambilkan.
+
+1021
+00:59:30,340 --> 00:59:31,469
+Kimchi daun bawang.
+
+1022
+00:59:34,710 --> 00:59:36,780
+Kamu tidak mencium asap rokok?
+
+1023
+00:59:38,010 --> 00:59:39,179
+Asap rokok?
+
+1024
+00:59:39,650 --> 00:59:40,780
+Tidak.
+
+1025
+00:59:40,980 --> 00:59:42,018
+Dae Woong, apa kamu...
+
+1026
+00:59:42,019 --> 00:59:44,348
+Jangan konyol. Aku sudah lama berhenti.
+
+1027
+00:59:44,349 --> 00:59:45,349
+Benar, bukan?
+
+1028
+00:59:46,550 --> 00:59:48,489
+Aku hanya mencium galbijjim.
+
+1029
+00:59:48,789 --> 00:59:49,860
+- Benarkah?
+- Ya.
+
+1030
+00:59:51,530 --> 00:59:53,389
+- Aku ambil kimchi daun bawangnya.
+- Baiklah.
+
+1031
+00:59:57,769 --> 00:59:59,099
+Dia aneh.
+
+1032
+01:00:01,000 --> 01:00:02,598
+- Apa aku bau?
+- Sangat bau.
+
+1033
+01:00:02,599 --> 01:00:03,769
+Begitu rupanya.
+
+1034
+01:00:08,309 --> 01:00:09,709
+- Bukankah itu lezat?
+- Ya.
+
+1035
+01:00:09,710 --> 01:00:11,179
+Masakan ibumu yang terbaik.
+
+1036
+01:00:20,489 --> 01:00:23,169
+"Mengungkap kebenaran di balik
+perekrutan tidak adil Konstruksi JU"
+
+1037
+01:00:23,929 --> 01:00:26,609
+"Mengungkap kebenaran di balik
+perekrutan tidak adil Konstruksi JU"
+
+1038
+01:00:27,130 --> 01:00:29,130
+"Aku kebetulan melihatnya.
+Tanganku masih gemetar"
+
+1039
+01:00:30,230 --> 01:00:31,768
+"Untuk menyelidiki
+perekrutan yang tidak adil"
+
+1040
+01:00:31,769 --> 01:00:32,969
+"Selidiki hubungan mereka..."
+
+1041
+01:00:36,869 --> 01:00:38,039
+"Berkas terpilih, Buka"
+
+1042
+01:00:38,239 --> 01:00:40,210
+"Unggah"
+
+1043
+01:00:40,539 --> 01:00:46,349
+"Mengungkap kebenaran di balik
+perekrutan tidak adil Konstruksi JU"
+
+1044
+01:00:50,989 --> 01:00:53,669
+"Mengungkap kebenaran di balik
+perekrutan tidak adil Konstruksi JU"
+
+1045
+01:01:00,730 --> 01:01:01,890
+"Wakil Presdir Konstruksi JU"
+
+1046
+01:01:03,159 --> 01:01:04,868
+"Wanita itu adalah Bu Yoon dari Tim Audit"
+
+1047
+01:01:04,869 --> 01:01:05,869
+"Mengungkap kebenaran di balik
+perekrutan tidak adil Konstruksi JU"
+
+1048
+01:01:05,870 --> 01:01:07,669
+"- Bukankah dia pacarnya?
+- Menjijikkan"
+
+1049
+01:01:07,670 --> 01:01:08,670
+"Konstruksi JU mempekerjakan
+dengan tidak adil"
+
+1050
+01:01:08,671 --> 01:01:09,839
+"Begitukah caranya mendapatkan
+pekerjaan itu? Sulit dipercaya"
+
+1051
+01:01:09,840 --> 01:01:10,968
+"Dia menggunakan tubuhnya"
+
+1052
+01:01:10,969 --> 01:01:13,609
+"Kenapa aku belajar begitu keras
+untuk mendapatkan pekerjaan ini?"
+
+1053
+01:01:16,679 --> 01:01:19,550
+"The Auditors"
+
+1054
+01:01:19,949 --> 01:01:22,629
+"Terima kasih kepada Jung Dong
+Hwan, Shin Jae Ha, dan Lee Joong Ok"
+
+1055
+01:01:40,269 --> 01:01:42,169
+Bukan masalah jika wakil presdir
+
+1056
+01:01:42,170 --> 01:01:43,515
+dan pegawai wanita dekat secara pribadi?
+
+1057
+01:01:43,539 --> 01:01:44,909
+Segera selidiki ulang.
+
+1058
+01:01:45,139 --> 01:01:47,209
+Apa Wakil Presdir Hwang
+membantumu mendapatkan pekerjaan
+
+1059
+01:01:47,210 --> 01:01:48,939
+dengan cara apa pun?
+
+1060
+01:01:48,940 --> 01:01:50,110
+Di mana Yoon Seo Jin?
+
+1061
+01:01:50,239 --> 01:01:52,209
+- Kerja sama atau kami mencurigaimu.
+- Hei!
+
+1062
+01:01:52,210 --> 01:01:54,779
+Jika kamu terus begini, keadaan
+akan lebih sulit bagi Seo Jin.
+
+1063
+01:01:54,780 --> 01:01:56,820
+- Audit eksternal?
+- Presdir Hwang yang memutuskan.
+
+1064
+01:01:57,190 --> 01:01:59,190
+Aku penasaran tentang sesuatu.
+
+1065
+01:01:59,519 --> 01:02:02,219
+Kamu anjing pemburu atau serigala?
+
+1066
+01:02:02,289 --> 01:02:04,029
+Seo Jin ada di timmu.
+
+1067
+01:02:04,030 --> 01:02:05,230
+Kamu akan diam saja?
+
+1068
+01:02:05,329 --> 01:02:06,530
+- Lepaskan!
+- Pak.
+
+1069
+01:02:07,360 --> 01:02:09,460
+Kami akan terus menyelidiki masalah ini.
+
+1070
+01:02:10,099 --> 01:02:12,369
+Aku akan mencari tahu,
+apa pun yang terjadi.
+
