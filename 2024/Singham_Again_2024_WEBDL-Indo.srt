@@ -1,9 +1,4 @@
-﻿1
-00:00:00,000 --> 00:01:00,000
-Diterjemahkan Oleh:
-Fachreza Aprileo Vickry
-
-2
+﻿2
 00:04:55,420 --> 00:04:56,790
 Setiap orang dikenal
 melalui namanya,
