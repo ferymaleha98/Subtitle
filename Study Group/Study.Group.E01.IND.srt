@@ -1,0 +1,2276 @@
+﻿1
+00:00:17,307 --> 00:00:20,243
+Untuk menambahkan atau mengurangi ungkapan multinomial,
+
+2
+00:00:20,910 --> 00:00:23,279
+kalian harus tahu apa itu ungkapan multinomial.
+
+3
+00:00:24,814 --> 00:00:26,182
+Persamaan monomial
+
+4
+00:00:27,150 --> 00:00:29,452
+terdiri dari satu istilah.
+
+5
+00:00:30,887 --> 00:00:32,522
+Ungkapan multinomial
+
+6
+00:00:33,156 --> 00:00:37,560
+terdiri dari lebih dari satu istilah.
+
+7
+00:00:39,062 --> 00:00:41,631
+Istilah adalah perkalian
+
+8
+00:00:41,631 --> 00:00:43,500
+dari angka dan huruf...
+
+9
+00:00:49,105 --> 00:00:50,640
+Dasar anak-anak bodoh.
+
+10
+00:00:50,640 --> 00:00:53,309
+Apa gunanya mengajarkan hal yang tidak kalian pahami?
+
+11
+00:00:57,280 --> 00:00:58,581
+Contohnya,
+
+12
+00:00:59,282 --> 00:01:03,486
+persamaan ini mengatakan x kuadrat ditambah 2x-3.
+
+13
+00:01:04,420 --> 00:01:06,489
+Berapa banyak istilah yang kalian lihat?
+
+14
+00:01:06,489 --> 00:01:08,825
+"Persamaan monomial terdiri dari satu istilah"
+
+15
+00:01:08,825 --> 00:01:10,627
+"Ungkapan multinomial terdiri dari lebih dari satu istilah"
+
+16
+00:01:10,627 --> 00:01:12,762
+"Istilah adalah perkalian angka dan huruf"
+
+17
+00:01:12,762 --> 00:01:14,664
+"Dasar anak-anak bodoh"
+
+18
+00:01:14,664 --> 00:01:17,167
+"Apa gunanya mengajarkan"
+
+19
+00:01:17,167 --> 00:01:19,002
+"Hal yang tidak kalian pahami?"
+
+20
+00:01:20,336 --> 00:01:21,571
+Mungkin sulit dipercaya.
+
+21
+00:01:22,705 --> 00:01:23,706
+"Youn Ga Min, Kelas Satu STM Yusung"
+
+22
+00:01:23,706 --> 00:01:25,041
+Tapi aku murid yang payah.
+
+23
+00:01:34,551 --> 00:01:36,820
+Ibu. Aku ingin ikut kelas tambahan.
+
+24
+00:01:39,856 --> 00:01:42,225
+"Nilai dan Peringkat, 26 dari 28"
+
+25
+00:01:44,694 --> 00:01:45,695
+Ibu.
+
+26
+00:01:46,062 --> 00:01:47,263
+Carikan aku guru privat.
+
+27
+00:01:48,865 --> 00:01:49,933
+Kurasa
+
+28
+00:01:50,500 --> 00:01:52,001
+aku benar-benar bisa kali ini.
+
+29
+00:01:52,969 --> 00:01:54,270
+"Peringkat, 278 dari 280"
+
+30
+00:01:54,270 --> 00:01:55,305
+Ga Min.
+
+31
+00:01:57,507 --> 00:02:00,477
+Kamu yakin sudah menandai jawaban di lembar jawaban dengan benar?
+
+32
+00:02:02,745 --> 00:02:04,280
+Apa karena aku tidak pintar?
+
+33
+00:02:05,915 --> 00:02:07,083
+Tidak mungkin.
+
+34
+00:02:07,517 --> 00:02:09,018
+Apa aku kurang berusaha?
+
+35
+00:02:09,953 --> 00:02:10,954
+"Kosakata Harian"
+
+36
+00:02:18,228 --> 00:02:20,130
+"Peringkat, 279 dari 280"
+
+37
+00:02:26,002 --> 00:02:28,037
+Hidup lebih dari sekadar nilai akademis.
+
+38
+00:02:30,306 --> 00:02:33,243
+Tapi aku sangat ingin berprestasi di sekolah.
+
+39
+00:02:34,010 --> 00:02:35,712
+Aku menemukan solusi bagus.
+
+40
+00:02:35,879 --> 00:02:37,680
+Aku sangat ingin kuliah.
+
+41
+00:02:37,781 --> 00:02:40,150
+Jika kamu sangat ingin kuliah,
+
+42
+00:02:40,150 --> 00:02:41,584
+pergilah ke STM Yusung
+
+43
+00:02:41,684 --> 00:02:43,787
+dan manfaatkan program penerimaan khusus.
+
+44
+00:02:43,953 --> 00:02:45,088
+Pergilah ke STM Yusung
+
+45
+00:02:45,088 --> 00:02:48,424
+dan manfaatkan program penerimaan khusus.
+
+46
+00:02:51,928 --> 00:02:53,129
+Kamu sudah gila?
+
+47
+00:02:53,563 --> 00:02:55,765
+Lebih baik aku mati daripada bersekolah di sana.
+
+48
+00:02:56,266 --> 00:02:57,300
+Benar.
+
+49
+00:02:59,803 --> 00:03:02,038
+"Selamat datang di STM Yusung!"
+
+50
+00:03:03,640 --> 00:03:04,641
+Ya.
+
+51
+00:03:08,912 --> 00:03:12,449
+"STM Yusung"
+
+52
+00:03:40,643 --> 00:03:42,479
+Sekolahnya agak berbeda
+
+53
+00:03:43,313 --> 00:03:44,314
+dari dugaanku.
+
+54
+00:03:47,851 --> 00:03:50,186
+Kamu lihat apa, Berengsek?
+
+55
+00:03:50,186 --> 00:03:51,688
+Dasar berengsek.
+
+56
+00:03:51,688 --> 00:03:53,590
+- Lihat ke bawah.
+- Kamu mau melawanku?
+
+57
+00:03:53,590 --> 00:03:55,258
+Selama aku berpura-pura tidak terlihat
+
+58
+00:03:55,258 --> 00:03:56,459
+dan mendapatkan nilai bagus,
+
+59
+00:03:56,759 --> 00:03:57,760
+aku bisa kuliah...
+
+60
+00:03:57,760 --> 00:03:59,863
+"Peringkat, 219 dari 220"
+
+61
+00:04:00,230 --> 00:04:01,331
+Aku lengah.
+
+62
+00:04:01,798 --> 00:04:03,566
+Aku membiarkan penampilan mereka menipuku.
+
+63
+00:04:04,501 --> 00:04:07,070
+Mereka bersikap seolah-olah tidak peduli dengan nilai mereka,
+
+64
+00:04:07,270 --> 00:04:09,539
+tapi mereka pasti belajar keras di rumah.
+
+65
+00:04:12,275 --> 00:04:14,811
+Terlalu cepat untuk menyerah.
+
+66
+00:04:17,514 --> 00:04:19,382
+Aku masih punya satu metode lagi...
+
+67
+00:04:19,382 --> 00:04:20,450
+"Aku menciptakan kesempatan bahkan di Neraka"
+
+68
+00:04:20,483 --> 00:04:22,118
+Aku belum menggunakannya.
+
+69
+00:04:24,788 --> 00:04:25,789
+"Study Group"
+
+70
+00:04:27,390 --> 00:04:29,125
+"Jam Ketiga, Bahasa Inggris, Ganjil"
+
+71
+00:04:30,093 --> 00:04:32,462
+"Matematika"
+
+72
+00:04:33,029 --> 00:04:34,297
+"'Kelompok Belajar' YLAB"
+
+73
+00:04:34,297 --> 00:04:35,565
+"Cerita oleh Shin Hyung Uk, Digambar oleh Yu Seung Yeon"
+
+74
+00:04:36,866 --> 00:04:37,867
+"Belajar"
+
+75
+00:04:37,867 --> 00:04:38,868
+"Berkumpul jika kalian mau!"
+
+76
+00:04:38,868 --> 00:04:41,037
+"Hwang Min Hyun"
+
+77
+00:04:41,571 --> 00:04:43,106
+"Han Ji Eun"
+
+78
+00:04:43,406 --> 00:04:44,674
+"Cha Woo Min"
+
+79
+00:04:54,651 --> 00:04:55,718
+"Lee Jong Hyun"
+
+80
+00:04:56,019 --> 00:04:57,153
+"Shin Soo Hyun"
+
+81
+00:04:58,188 --> 00:05:00,590
+"Yun Sang Jeong, Gong Do Yu"
+
+82
+00:05:06,029 --> 00:05:10,633
+"Study Group"
+
+83
+00:05:10,834 --> 00:05:12,035
+Ayo.
+
+84
+00:05:12,602 --> 00:05:13,636
+Ayolah.
+
+85
+00:05:15,038 --> 00:05:16,072
+Tidak.
+
+86
+00:05:17,040 --> 00:05:18,041
+Tidak.
+
+87
+00:05:18,741 --> 00:05:19,809
+Bukan dia.
+
+88
+00:05:20,410 --> 00:05:21,411
+Bukan dia juga.
+
+89
+00:05:28,251 --> 00:05:30,553
+Aku menemukan pria dengan tatapan rajin.
+
+90
+00:05:50,473 --> 00:05:52,075
+Kamu mau belajar denganku?
+
+91
+00:05:54,310 --> 00:05:55,378
+Sudah kuduga.
+
+92
+00:05:55,812 --> 00:05:57,180
+Dia tertarik.
+
+93
+00:06:00,817 --> 00:06:01,851
+Aku...
+
+94
+00:06:02,185 --> 00:06:03,386
+Ya!
+
+95
+00:06:03,386 --> 00:06:05,455
+"Peringkat 173"
+
+96
+00:06:05,455 --> 00:06:06,790
+Peringkatmu 170, bukan?
+
+97
+00:06:07,724 --> 00:06:09,292
+Ayo bertarung!
+
+98
+00:06:12,829 --> 00:06:14,230
+- Bertarung!
+- Bertarung!
+
+99
+00:06:15,799 --> 00:06:17,634
+Peringkat 173 menghajar
+
+100
+00:06:17,767 --> 00:06:18,835
+Peringkat 170!
+
+101
+00:06:18,835 --> 00:06:21,538
+Ada perkelahian!
+
+102
+00:06:25,542 --> 00:06:26,576
+Pecundang.
+
+103
+00:06:28,745 --> 00:06:30,613
+- Bangun!
+- Bangun, Bodoh.
+
+104
+00:06:30,914 --> 00:06:31,948
+Peringkat 170.
+
+105
+00:06:32,816 --> 00:06:34,017
+Jika kamu tidak bertarung dengan benar,
+
+106
+00:06:34,017 --> 00:06:35,952
+kami akan melaporkanmu ke OSIS.
+
+107
+00:06:37,053 --> 00:06:39,355
+Ayo. Bertarunglah, dasar gila!
+
+108
+00:06:49,532 --> 00:06:50,633
+Sial.
+
+109
+00:06:51,234 --> 00:06:52,969
+- Ayo!
+- Begitu saja?
+
+110
+00:06:53,303 --> 00:06:54,904
+Dia sangat lemah.
+
+111
+00:06:56,806 --> 00:06:59,075
+Itu sangat membosankan.
+
+112
+00:06:59,642 --> 00:07:00,810
+Dia bermain.
+
+113
+00:07:01,111 --> 00:07:02,345
+Peringkat 173 menang.
+
+114
+00:07:02,412 --> 00:07:05,181
+- Sial.
+- Itu saja?
+
+115
+00:07:05,181 --> 00:07:06,216
+Mari kita resmikan.
+
+116
+00:07:06,349 --> 00:07:07,750
+Tidak. Belum.
+
+117
+00:07:07,917 --> 00:07:09,185
+Dia masih bisa bertarung.
+
+118
+00:07:09,185 --> 00:07:10,753
+Kenapa kamu berkelahi?
+
+119
+00:07:12,522 --> 00:07:14,157
+"Peringkat 171"
+
+120
+00:07:14,290 --> 00:07:16,025
+"Kim Hwi Kyu, Kim Se Hyun"
+
+121
+00:07:16,025 --> 00:07:17,293
+- Itu membosankan.
+- Sial.
+
+122
+00:07:17,293 --> 00:07:18,895
+- Mengecewakan sekali.
+- Sial.
+
+123
+00:07:19,028 --> 00:07:20,563
+Belnya sudah lama berbunyi.
+
+124
+00:07:20,563 --> 00:07:21,998
+Duduklah, Berandal.
+
+125
+00:07:22,365 --> 00:07:23,466
+Benar, Kawan-kawan.
+
+126
+00:07:23,967 --> 00:07:25,535
+- Kawan-kawan.
+- Membosankan sekali.
+
+127
+00:07:27,237 --> 00:07:28,304
+Kamu baik-baik saja?
+
+128
+00:07:33,243 --> 00:07:34,244
+Perhatian!
+
+129
+00:07:34,844 --> 00:07:36,379
+Guru kalian, Park Ho Jin,
+
+130
+00:07:36,513 --> 00:07:39,048
+mengambil cuti mendadak karena alasan pribadi.
+
+131
+00:07:39,616 --> 00:07:44,654
+Kalian akan punya wali kelas baru untuk mengambil alih.
+
+132
+00:07:46,256 --> 00:07:47,323
+Beri salam.
+
+133
+00:07:50,727 --> 00:07:53,596
+Ibu akan menjadi wali kelas kalian mulai sekarang.
+
+134
+00:07:53,730 --> 00:07:54,998
+Nama Ibu Lee Han Kyeong.
+
+135
+00:07:55,899 --> 00:07:56,933
+Senang bertemu kalian semua.
+
+136
+00:07:58,868 --> 00:08:01,004
+Tunggu. Bu Han Kyeong?
+
+137
+00:08:01,971 --> 00:08:03,373
+Apa aku bisa
+
+138
+00:08:03,873 --> 00:08:05,675
+mendapatkan nilai bagus suatu hari nanti?
+
+139
+00:08:05,742 --> 00:08:06,843
+Tentu saja.
+
+140
+00:08:07,744 --> 00:08:08,912
+Kamu berbakat.
+
+141
+00:08:10,713 --> 00:08:11,781
+Benarkah?
+
+142
+00:08:12,515 --> 00:08:13,783
+Ini bakatmu.
+
+143
+00:08:15,318 --> 00:08:16,519
+Semua ini
+
+144
+00:08:17,787 --> 00:08:18,922
+"Ujian Tengah Semester SMP Sewoon Tahun Kedua Semester Pertama"
+
+145
+00:08:18,922 --> 00:08:19,989
+mengalahkan hari ini.
+
+146
+00:08:20,657 --> 00:08:23,493
+Ibu akan mulai dengan mengabsen.
+
+147
+00:08:24,627 --> 00:08:25,762
+Shin Hyung Uk.
+
+148
+00:08:26,229 --> 00:08:27,664
+Dia keluar untuk merokok.
+
+149
+00:08:28,498 --> 00:08:29,532
+Benarkah?
+
+150
+00:08:30,633 --> 00:08:31,701
+Kalau begitu, dia absen.
+
+151
+00:08:32,936 --> 00:08:33,937
+Yu Seung Yeon.
+
+152
+00:08:37,407 --> 00:08:38,508
+Astaga.
+
+153
+00:08:44,347 --> 00:08:47,383
+Aku mencoba tidur di sini, jadi, kenapa berisik sekali?
+
+154
+00:08:48,585 --> 00:08:49,686
+Siapa itu?
+
+155
+00:08:50,453 --> 00:08:51,855
+Siapa yang buang angin?
+
+156
+00:09:10,440 --> 00:09:11,775
+Apa yang kamu lakukan?
+
+157
+00:09:14,377 --> 00:09:15,912
+Guru menyelamatkanmu, mengerti?
+
+158
+00:09:19,048 --> 00:09:20,583
+Hei, Berandal. Lee Hyeon U.
+
+159
+00:09:21,518 --> 00:09:22,986
+Kamu baru saja melempar kopiku
+
+160
+00:09:24,087 --> 00:09:25,221
+kepadanya, Sampah?
+
+161
+00:09:25,555 --> 00:09:27,457
+- "Sampah?" - Ya, sampah.
+
+162
+00:09:34,497 --> 00:09:35,932
+Biarkan aku masuk!
+
+163
+00:09:35,932 --> 00:09:37,100
+Kamu bertaruh untuk siapa?
+
+164
+00:09:37,100 --> 00:09:38,435
+Lee Hyeon U, tentu saja.
+
+165
+00:09:38,435 --> 00:09:41,104
+Tapi pembagiannya akan rendah, Dasar Pendek!
+
+166
+00:09:44,507 --> 00:09:45,508
+Hajar dia, Hyeon U!
+
+167
+00:09:49,179 --> 00:09:50,180
+Bagus!
+
+168
+00:09:53,550 --> 00:09:54,617
+Kembali ke kursi kalian.
+
+169
+00:09:56,319 --> 00:09:59,289
+- Apa itu tadi?
+- "Kembali ke kursi kalian?"
+
+170
+00:09:59,289 --> 00:10:01,758
+- Tidak mungkin.
+- Yang benar saja.
+
+171
+00:10:01,991 --> 00:10:04,294
+Hei. Kalian tidak mendengarnya?
+
+172
+00:10:06,963 --> 00:10:10,567
+"STM Yusung"
+
+173
+00:10:16,573 --> 00:10:18,741
+Astaga. Sial.
+
+174
+00:10:38,094 --> 00:10:39,929
+Hei, kamu. Kemarilah.
+
+175
+00:10:41,564 --> 00:10:44,601
+- Hei, Pendek. Cukup main-mainnya.
+- Apa?
+
+176
+00:10:44,601 --> 00:10:45,602
+Bu Lee.
+
+177
+00:10:49,439 --> 00:10:51,474
+Apa... Bukankah kamu...
+
+178
+00:10:52,408 --> 00:10:53,443
+Ga Min?
+
+179
+00:10:55,011 --> 00:10:57,213
+- Tidak! Di sini!
+- Di mana?
+
+180
+00:10:57,614 --> 00:10:59,716
+Kamu benar-benar sudah besar sejak kali terakhir Ibu melihatmu.
+
+181
+00:10:59,983 --> 00:11:01,084
+Ibu hampir tidak mengenalimu.
+
+182
+00:11:04,587 --> 00:11:08,458
+Kamu terkejut saat Ibu berhenti tanpa sepatah kata pun saat itu,
+
+183
+00:11:08,858 --> 00:11:09,959
+bukan?
+
+184
+00:11:12,729 --> 00:11:13,763
+Ya, sedikit.
+
+185
+00:11:14,430 --> 00:11:16,966
+Maaf. Ibu punya alasan.
+
+186
+00:11:17,634 --> 00:11:18,635
+Tidak apa-apa.
+
+187
+00:11:23,173 --> 00:11:25,275
+Omong-omong, Bu Lee...
+
+188
+00:11:25,508 --> 00:11:26,543
+Ya?
+
+189
+00:11:27,043 --> 00:11:28,778
+Ibu akan tetap di sekolah ini?
+
+190
+00:11:29,746 --> 00:11:30,980
+Ya. Kenapa?
+
+191
+00:11:31,714 --> 00:11:35,385
+Guru kami sebelum Ibu tidak bisa bertahan sebulan dan mundur.
+
+192
+00:11:35,985 --> 00:11:37,454
+Tapi ini hari pertama Ibu.
+
+193
+00:11:38,188 --> 00:11:40,056
+- Apa?
+- Ini memalukan.
+
+194
+00:11:40,056 --> 00:11:41,090
+Berhenti di hari pertama.
+
+195
+00:11:42,025 --> 00:11:43,560
+Tapi tetap saja...
+
+196
+00:11:45,929 --> 00:11:47,030
+Ibu bersyukur
+
+197
+00:11:47,430 --> 00:11:50,100
+kamu tumbuh menjadi anak baik yang mengkhawatirkan Ibu.
+
+198
+00:11:52,435 --> 00:11:56,039
+Omong-omong, bagaimana kamu belajar belakangan ini?
+
+199
+00:11:57,507 --> 00:11:59,342
+Aku sedang mengerjakan sesuatu.
+
+200
+00:12:01,444 --> 00:12:02,846
+Hei. Berikan.
+
+201
+00:12:31,841 --> 00:12:33,510
+"Perpustakaan"
+
+202
+00:12:39,883 --> 00:12:43,453
+Astaga. Aku tidak tahu sekolah kita punya tempat yang mengagumkan.
+
+203
+00:12:44,888 --> 00:12:47,624
+Andai aku punya teman belajar.
+
+204
+00:12:47,924 --> 00:12:49,893
+"Masyarakat Impulse"
+
+205
+00:12:53,096 --> 00:12:57,200
+Orang ini menjadi seperti itu karena mereka punya teman belajar.
+
+206
+00:12:57,734 --> 00:12:58,768
+Aku iri.
+
+207
+00:12:59,302 --> 00:13:01,504
+Tapi aku tidak punya teman belajar.
+
+208
+00:13:03,339 --> 00:13:04,374
+Apa?
+
+209
+00:13:06,976 --> 00:13:08,111
+Ini membantu menyegarkan otak.
+
+210
+00:13:23,460 --> 00:13:26,529
+Aku mengerti kemarin, tapi kenapa aku bingung hari ini?
+
+211
+00:13:30,633 --> 00:13:33,002
+Andai ada yang bisa membantuku dalam hal ini.
+
+212
+00:13:33,002 --> 00:13:34,037
+Bisakah kamu tidak...
+
+213
+00:13:36,439 --> 00:13:37,440
+Maafkan aku.
+
+214
+00:14:08,338 --> 00:14:10,240
+Hei. Baiklah. Bawa kemari.
+
+215
+00:14:10,406 --> 00:14:11,908
+Tapi kamu harus berhenti menggangguku, ya?
+
+216
+00:14:14,644 --> 00:14:18,314
+Dengan demikian, 0,999 sama dengan 1.
+
+217
+00:14:19,749 --> 00:14:20,784
+Mengerti?
+
+218
+00:14:20,784 --> 00:14:23,520
+Tapi selama apa pun 0,999,
+
+219
+00:14:23,520 --> 00:14:24,754
+itu berbeda dari satu. Bukan begitu?
+
+220
+00:14:27,357 --> 00:14:28,391
+Lihat ini.
+
+221
+00:14:29,292 --> 00:14:30,660
+Anggap saja kita punya kue.
+
+222
+00:14:32,929 --> 00:14:34,364
+Kita bagi menjadi tiga.
+
+223
+00:14:34,697 --> 00:14:36,432
+Seberapa besar sepotong?
+
+224
+00:14:37,434 --> 00:14:39,002
+- Sepertiga.
+- Tepat sekali.
+
+225
+00:14:39,536 --> 00:14:40,537
+Berapa angka desimalnya?
+
+226
+00:14:40,537 --> 00:14:41,604
+- Itu 0,3333.
+- Ya.
+
+227
+00:14:42,238 --> 00:14:43,907
+Apa yang terjadi jika kamu menyatukan potongannya kembali?
+
+228
+00:14:44,841 --> 00:14:46,609
+- Kuenya menjadi utuh, bukan?
+- Ya.
+
+229
+00:14:47,143 --> 00:14:50,713
+Tambahkan semua 0,333 dan hasilnya 0,9999.
+
+230
+00:14:51,281 --> 00:14:52,382
+Itu satu.
+
+231
+00:14:54,517 --> 00:14:57,754
+Ada apa? Apa yang tidak kamu paham kali ini?
+
+232
+00:14:57,887 --> 00:14:58,955
+Tapi
+
+233
+00:15:00,089 --> 00:15:02,325
+- bagaimana dengan sisa di sini?
+- Apa?
+
+234
+00:15:07,964 --> 00:15:09,032
+Astaga...
+
+235
+00:15:14,304 --> 00:15:16,439
+- Lalu kenapa?
+- Maaf?
+
+236
+00:15:17,974 --> 00:15:20,944
+Ini masih sekolah.
+
+237
+00:15:21,811 --> 00:15:24,614
+Menaruh kaleng drum untuk digunakan sebagai asbak
+
+238
+00:15:24,614 --> 00:15:26,082
+tampak salah.
+
+239
+00:15:27,851 --> 00:15:29,519
+Menurutmu itu cukup?
+
+240
+00:15:30,086 --> 00:15:32,722
+- Melakukan apa?
+- Akankah menyingkirkan kaleng drum
+
+241
+00:15:32,922 --> 00:15:35,492
+akan membuat para murid berhenti merokok?
+
+242
+00:15:36,893 --> 00:15:40,029
+Aku tidak bisa berhenti selama 40 tahun.
+
+243
+00:15:44,567 --> 00:15:47,270
+Meski begitu, Wakil Kepala Sekolah,
+
+244
+00:15:47,270 --> 00:15:48,772
+sekolah secara hukum...
+
+245
+00:15:51,808 --> 00:15:53,109
+Bu Lee.
+
+246
+00:15:54,177 --> 00:15:56,646
+Daripada menyingkirkan kaleng drum,
+
+247
+00:15:56,746 --> 00:15:58,748
+tidak menjadi perusak pemandangan bosmu
+
+248
+00:15:58,748 --> 00:16:01,417
+akan membantumu mendapatkan posisi tetap, bukan?
+
+249
+00:16:02,919 --> 00:16:04,053
+Maafkan aku.
+
+250
+00:16:04,053 --> 00:16:05,622
+Tidak perlu minta maaf.
+
+251
+00:16:09,192 --> 00:16:11,728
+Jika kamu ingin menyingkirkan kaleng-kaleng drum itu, silakan.
+
+252
+00:16:11,961 --> 00:16:15,698
+Aku akan mendukungmu dari belakang.
+
+253
+00:16:16,266 --> 00:16:17,300
+Semoga berhasil.
+
+254
+00:16:21,771 --> 00:16:22,772
+"Kalkulasi Polinomial"
+
+255
+00:16:24,040 --> 00:16:26,009
+Astaga, ini luar biasa.
+
+256
+00:16:27,444 --> 00:16:29,078
+Bagaimana kamu bisa mencatat setiap...
+
+257
+00:16:29,078 --> 00:16:30,647
+Mencatat adalah keahlianku...
+
+258
+00:16:30,647 --> 00:16:32,715
+Tapi ini Matematika.
+
+259
+00:16:33,583 --> 00:16:34,584
+Lalu?
+
+260
+00:16:35,251 --> 00:16:36,986
+Kamu tidak pernah tahu akan dites seperti apa.
+
+261
+00:16:41,558 --> 00:16:43,660
+Aku tidak ingin mengatakan ini.
+
+262
+00:16:44,928 --> 00:16:46,663
+- Apa itu?
+- Dari yang kulihat...
+
+263
+00:16:46,930 --> 00:16:47,997
+Ya?
+
+264
+00:16:48,598 --> 00:16:49,632
+Kamu bodoh.
+
+265
+00:16:55,672 --> 00:16:56,673
+Begitu rupanya.
+
+266
+00:17:01,077 --> 00:17:04,948
+Omong-omong, kenapa kamu ingin belajar?
+
+267
+00:17:06,049 --> 00:17:07,717
+Aku hanya ingin melakukannya.
+
+268
+00:17:08,218 --> 00:17:09,285
+Benar.
+
+269
+00:17:09,552 --> 00:17:11,421
+- Bukankah kamu juga sama?
+- Aku?
+
+270
+00:17:12,422 --> 00:17:14,824
+- Tidak denganku.
+- Pembohong.
+
+271
+00:17:14,958 --> 00:17:16,960
+Memangnya kamu siapa bisa bilang aku berbohong padahal tidak?
+
+272
+00:17:16,960 --> 00:17:19,162
+Lehermu bungkuk karena belajar berjam-jam.
+
+273
+00:17:19,162 --> 00:17:22,165
+Kapalan di jari kanan tengahmu karena banyak menulis.
+
+274
+00:17:22,165 --> 00:17:25,135
+Poni tidak pendek atau panjang, yang membuat membaca mudah.
+
+275
+00:17:25,335 --> 00:17:26,402
+Tapi yang terpenting,
+
+276
+00:17:28,772 --> 00:17:29,839
+matamu.
+
+277
+00:17:30,707 --> 00:17:31,808
+Kamu ingin belajar, bukan?
+
+278
+00:17:33,643 --> 00:17:35,678
+Mari membentuk kelompok belajar bersama.
+
+279
+00:17:36,312 --> 00:17:37,647
+- Apa?
+- Kelompok belajar.
+
+280
+00:17:41,551 --> 00:17:44,954
+Hei, kamu tidak hanya bodoh. Otakmu sepadat batu bata.
+
+281
+00:17:45,255 --> 00:17:46,356
+Kelompok belajar?
+
+282
+00:17:46,523 --> 00:17:47,791
+Kita di STM Yusung.
+
+283
+00:17:47,791 --> 00:17:49,225
+Kamu pikir Pi Han Wul akan membiarkan itu terjadi?
+
+284
+00:17:49,759 --> 00:17:50,927
+Pi Han Wul?
+
+285
+00:17:59,135 --> 00:18:00,370
+Orang yang membuat daftar peringkat ini.
+
+286
+00:18:00,703 --> 00:18:01,771
+Apa ini?
+
+287
+00:18:01,771 --> 00:18:02,939
+Kamu bahkan tidak tahu apa ini?
+
+288
+00:18:03,239 --> 00:18:04,574
+Tidak. Apa itu?
+
+289
+00:18:09,546 --> 00:18:11,548
+Geng Yeonbaek dikenal sebagai
+
+290
+00:18:11,548 --> 00:18:13,183
+geng terkejam di negara ini.
+
+291
+00:18:13,183 --> 00:18:15,151
+Dia putra pimpinan geng itu, Pi Yeon Baek.
+
+292
+00:18:15,385 --> 00:18:16,886
+Pi Han Wul adalah pria nomor satu di sekolah kita.
+
+293
+00:18:19,122 --> 00:18:20,957
+Dia yang membuat daftar peringkat ini.
+
+294
+00:18:20,957 --> 00:18:23,359
+Dia bertanggung jawab membuat anak-anak bertekad untuk naik.
+
+295
+00:18:23,359 --> 00:18:24,494
+Itu Pi Han Wul.
+
+296
+00:18:24,994 --> 00:18:27,096
+Apa hubungannya dengan belajar kita?
+
+297
+00:18:27,096 --> 00:18:28,264
+Jadi,
+
+298
+00:18:28,431 --> 00:18:30,633
+mustahil untuk belajar di sekolah ini.
+
+299
+00:18:32,102 --> 00:18:33,903
+"Ujian Penempatan Kelas Satu di STM Yusung"
+
+300
+00:18:38,641 --> 00:18:40,210
+"Peringkat, dua dari 220"
+
+301
+00:18:40,210 --> 00:18:42,412
+"Peringkat, dua dari 220"
+
+302
+00:18:45,582 --> 00:18:47,183
+Mari membentuk kelompok belajar.
+
+303
+00:18:47,617 --> 00:18:49,319
+Mari belajar bersama dan kuliah.
+
+304
+00:19:07,837 --> 00:19:09,005
+Apa?
+
+305
+00:19:12,041 --> 00:19:13,109
+Enyahlah.
+
+306
+00:19:14,277 --> 00:19:16,679
+- Se Hyun.
+- Aku sudah menyuruhmu pergi. Sial.
+
+307
+00:19:17,113 --> 00:19:18,481
+Aku tidak akan belajar.
+
+308
+00:19:19,048 --> 00:19:20,617
+Ini cukup. Kamu tidak tahu apa-apa.
+
+309
+00:19:20,617 --> 00:19:23,052
+- Se Hyun. Aku hanya...
+- Sial. Kamu tidak tahu apa-apa.
+
+310
+00:19:23,052 --> 00:19:24,921
+Jangan berani menyuruhku belajar.
+
+311
+00:19:28,691 --> 00:19:29,692
+Sial.
+
+312
+00:19:39,536 --> 00:19:42,138
+Pi Han Wul, Kelas 2-8.
+
+313
+00:20:00,390 --> 00:20:03,359
+Murid ini telah mencapai performa akademis yang luar biasa
+
+314
+00:20:03,359 --> 00:20:05,662
+dan menjadi panutan bagi murid lain dalam segala aspek.
+
+315
+00:20:05,662 --> 00:20:07,730
+Karena itu, anugerah ini diberikan sebagai pengakuan.
+
+316
+00:20:07,730 --> 00:20:10,800
+"Upacara Penghargaan untuk Cendekiawan Akademis"
+
+317
+00:20:11,501 --> 00:20:14,737
+- Pi Han Wul!
+- Pi Han Wul!
+
+318
+00:20:14,904 --> 00:20:17,974
+- Pi Han Wul!
+- Pi Han Wul!
+
+319
+00:20:29,752 --> 00:20:31,955
+Ayolah. Sudah kubilang hentikan.
+
+320
+00:20:36,259 --> 00:20:38,795
+Tidak. Aku tidak bicara denganmu.
+
+321
+00:20:43,533 --> 00:20:45,435
+Lihatlah hama di peringkat ke-171 ini.
+
+322
+00:20:45,568 --> 00:20:46,970
+Kamu membentakku?
+
+323
+00:20:47,203 --> 00:20:49,005
+Tidak. Maafkan aku.
+
+324
+00:20:52,375 --> 00:20:55,378
+- Minta maaf akan menyelesaikannya?
+- Aku tidak bermaksud membentak.
+
+325
+00:20:55,378 --> 00:20:56,746
+Jika kamu menyesal, tebuslah.
+
+326
+00:20:57,614 --> 00:20:59,149
+Bawakan 200 dolar besok.
+
+327
+00:21:00,316 --> 00:21:02,418
+Tunggu. Uang adalah...
+
+328
+00:21:05,054 --> 00:21:08,057
+Sial. Kamu terus mengatakan betapa menyesalnya kamu.
+
+329
+00:21:08,324 --> 00:21:09,759
+Kamu terus melakukan hal yang akan kamu sesali.
+
+330
+00:21:11,394 --> 00:21:13,630
+Hei, ambilkan tongkat bisbol. Pria ini belum jera.
+
+331
+00:21:14,097 --> 00:21:15,098
+Tongkat bisbol?
+
+332
+00:21:31,014 --> 00:21:32,882
+Ayolah. Pukul dia lebih keras.
+
+333
+00:21:36,619 --> 00:21:37,687
+Hei, apakah sakit?
+
+334
+00:21:37,954 --> 00:21:39,088
+- Hei.
+- Hei.
+
+335
+00:21:41,724 --> 00:21:43,159
+Kurasa pria ini menangis.
+
+336
+00:21:45,195 --> 00:21:46,930
+Permisi. Pak.
+
+337
+00:22:02,745 --> 00:22:03,813
+Aku akan masuk.
+
+338
+00:22:04,547 --> 00:22:07,984
+Se Hyun adalah calon anggota kelompok belajar kami.
+
+339
+00:22:08,384 --> 00:22:09,452
+Bangun.
+
+340
+00:22:11,020 --> 00:22:13,056
+Astaga, pria ini berusaha sok pintar.
+
+341
+00:23:09,846 --> 00:23:10,914
+Kamu baik-baik saja?
+
+342
+00:23:13,917 --> 00:23:15,552
+Kenapa kamu terus melakukan ini kepadaku?
+
+343
+00:23:16,419 --> 00:23:18,621
+- Apa?
+- Sudah kubilang jangan ganggu aku.
+
+344
+00:23:19,155 --> 00:23:20,423
+Kenapa kamu selalu ikut campur?
+
+345
+00:23:21,224 --> 00:23:22,725
+Aku hanya mencoba membantumu.
+
+346
+00:23:22,725 --> 00:23:25,195
+Begitu kamu membantuku dan merasa bangga pada dirimu, itu saja.
+
+347
+00:23:30,300 --> 00:23:32,469
+- Apa yang kamu...
+- Kamu tidak mengerti?
+
+348
+00:23:32,902 --> 00:23:34,671
+Aku hampir selesai dipukuli.
+
+349
+00:23:35,171 --> 00:23:37,707
+Tapi bagaimana jika aku lari dari mereka?
+
+350
+00:23:38,708 --> 00:23:40,376
+Maka mereka akan lebih membenciku dan terus merundungku.
+
+351
+00:23:40,376 --> 00:23:41,578
+Kamu tidak terpikir soal itu?
+
+352
+00:23:44,581 --> 00:23:46,449
+Belajar? Tentu, kedengarannya bagus.
+
+353
+00:23:46,950 --> 00:23:48,184
+Andai aku bisa fokus
+
+354
+00:23:48,585 --> 00:23:50,653
+belajar sepertimu.
+
+355
+00:23:52,155 --> 00:23:53,256
+Namun,
+
+356
+00:23:54,424 --> 00:23:56,993
+ini masalah kelangsungan hidup yang lebih penting bagiku.
+
+357
+00:24:32,462 --> 00:24:33,696
+Di mana bedebah itu?
+
+358
+00:24:41,738 --> 00:24:42,772
+Siapa?
+
+359
+00:24:45,241 --> 00:24:46,943
+Kamu bercanda?
+
+360
+00:24:48,845 --> 00:24:50,113
+Yang membawa pemadam api.
+
+361
+00:24:50,947 --> 00:24:52,015
+Dia di kelas kita, bukan?
+
+362
+00:24:52,882 --> 00:24:54,184
+Aku tidak melihat wajahnya dengan jelas.
+
+363
+00:24:55,919 --> 00:24:57,720
+Bangun, Berengsek.
+
+364
+00:25:03,626 --> 00:25:04,961
+Biar kutanya sekali lagi.
+
+365
+00:25:06,196 --> 00:25:07,397
+Di mana bedebah itu?
+
+366
+00:25:09,132 --> 00:25:10,233
+Maafkan aku.
+
+367
+00:25:11,134 --> 00:25:12,202
+Aku sungguh tidak tahu.
+
+368
+00:25:24,147 --> 00:25:26,616
+"Pikiran yang kuat bersemayam dalam tubuh yang kuat."
+
+369
+00:25:26,783 --> 00:25:28,451
+Sejak mendengar ini,
+
+370
+00:25:28,451 --> 00:25:31,154
+aku tidak pernah bolos olahraga sejak kelas tiga
+
+371
+00:25:31,588 --> 00:25:32,856
+untuk meningkatkan nilaiku.
+
+372
+00:25:32,856 --> 00:25:35,325
+Ya, Ga Min. Sudah jelas semua bakatmu
+
+373
+00:25:35,325 --> 00:25:37,160
+mengarah ke tubuhmu.
+
+374
+00:25:37,327 --> 00:25:39,195
+Jadi, alih-alih belajar,
+
+375
+00:25:39,696 --> 00:25:40,930
+bagaimana jika kamu mengikuti jejak Bapak?
+
+376
+00:25:40,930 --> 00:25:41,931
+"Gimnasium Hanlim"
+
+377
+00:25:41,931 --> 00:25:44,501
+Bagaimana jika kamu memulai perjalanan seni bela diri?
+
+378
+00:25:45,769 --> 00:25:47,804
+Lihat dirimu. Kamu cukup hebat.
+
+379
+00:25:55,512 --> 00:25:57,747
+Hei, kamu baik-baik saja?
+
+380
+00:26:01,117 --> 00:26:02,185
+Syukurlah.
+
+381
+00:26:11,027 --> 00:26:12,529
+Jangan mengkhawatirkan hal lain.
+
+382
+00:26:13,196 --> 00:26:14,931
+Mari membentuk kelompok belajar bersama.
+
+383
+00:26:22,906 --> 00:26:23,907
+Tidak.
+
+384
+00:26:24,474 --> 00:26:25,475
+Apa?
+
+385
+00:26:35,785 --> 00:26:37,987
+Kubilang tidak. Aku menolak.
+
+386
+00:26:41,925 --> 00:26:44,461
+- Kenapa tidak?
+- Akuilah. Kamu tidak percaya diri.
+
+387
+00:26:44,761 --> 00:26:46,863
+- Apa?
+- Jangan pura-pura bodoh.
+
+388
+00:26:48,064 --> 00:26:49,666
+Bukankah karena itu kamu memakai topeng?
+
+389
+00:26:51,401 --> 00:26:53,236
+Karena kamu takut dirundung.
+
+390
+00:27:46,623 --> 00:27:48,057
+Belajarlah keterampilan mengelas.
+
+391
+00:27:54,631 --> 00:27:55,832
+Kenapa kamu tidak menjawab Ayah?
+
+392
+00:27:56,499 --> 00:27:57,634
+Baiklah.
+
+393
+00:28:00,737 --> 00:28:02,539
+Kuliah tidak ada gunanya.
+
+394
+00:28:03,006 --> 00:28:04,474
+Ada karyawan baru di pabrik kita.
+
+395
+00:28:04,474 --> 00:28:06,109
+Dia juga lulusan universitas.
+
+396
+00:28:08,978 --> 00:28:12,315
+Kamu harus punya keterampilan untuk bisa dihormati.
+
+397
+00:28:19,923 --> 00:28:21,991
+Aku mengerti. Bisakah Ayah berhenti?
+
+398
+00:28:24,160 --> 00:28:25,728
+Aku berhenti belajar.
+
+399
+00:28:26,696 --> 00:28:28,665
+Aku tidak akan kuliah. Aku akan belajar mengelas.
+
+400
+00:28:29,365 --> 00:28:31,334
+Itu sebabnya aku memilih STM Yusung.
+
+401
+00:28:32,368 --> 00:28:34,204
+Dasar kamu...
+
+402
+00:29:22,986 --> 00:29:26,623
+"Catatan Matematika, Kim Se Hyun"
+
+403
+00:29:44,374 --> 00:29:46,075
+Apa Ga Min bergabung dengan kelompok belajar?
+
+404
+00:29:46,609 --> 00:29:49,446
+Anakku membuat kelompok belajar dengan teman-teman sekelasnya,
+
+405
+00:29:49,646 --> 00:29:51,948
+dan dia mendapat peringkat kesepuluh di UTS kelasnya.
+
+406
+00:29:52,148 --> 00:29:53,383
+Benarkah?
+
+407
+00:29:53,383 --> 00:29:54,784
+Kamu harus menyuruh Ga Min melakukannya.
+
+408
+00:29:55,852 --> 00:29:57,620
+Aku tidak membiarkanmu bergabung dengan kelompok belajar kami.
+
+409
+00:29:57,821 --> 00:29:58,855
+Kenapa tidak?
+
+410
+00:29:59,456 --> 00:30:00,790
+Kamu peringkat terbawah di kelas.
+
+411
+00:30:01,724 --> 00:30:04,327
+Maaf. Para ibu membentuknya untuk kami.
+
+412
+00:30:04,894 --> 00:30:06,095
+Kami tidak bisa membiarkan siapa pun masuk.
+
+413
+00:30:08,598 --> 00:30:10,100
+Kelompok belajarku penuh.
+
+414
+00:30:16,372 --> 00:30:17,841
+Hei. Jangan menatap matanya.
+
+415
+00:30:18,775 --> 00:30:20,076
+Bagaimana dia bisa begitu kurang ajar?
+
+416
+00:30:20,176 --> 00:30:21,377
+Beraninya dia mencoba menumpang gratis?
+
+417
+00:30:21,878 --> 00:30:23,813
+Alih-alih kelompok belajar,
+
+418
+00:30:23,913 --> 00:30:25,248
+akan lebih cepat jika dia terlahir kembali.
+
+419
+00:30:31,387 --> 00:30:32,388
+Ga Min.
+
+420
+00:30:32,789 --> 00:30:36,025
+Ada masalah dengan Bu Lee...
+
+421
+00:30:39,262 --> 00:30:41,331
+Kamu menangis? Ada apa?
+
+422
+00:30:42,565 --> 00:30:43,700
+Terjadi sesuatu?
+
+423
+00:30:45,902 --> 00:30:47,670
+"Ujian semester pertama"
+
+424
+00:30:47,670 --> 00:30:50,874
+Tidak apa-apa. Kamu tidak perlu dapat nilai bagus.
+
+425
+00:30:51,941 --> 00:30:52,976
+Tidak.
+
+426
+00:30:54,077 --> 00:30:55,111
+Bukan begitu.
+
+427
+00:31:28,111 --> 00:31:30,346
+Aku tidak mau pergi ke sekolah.
+
+428
+00:31:34,417 --> 00:31:36,319
+Tetap saja, aku harus pergi.
+
+429
+00:31:37,821 --> 00:31:39,189
+Aku gurunya.
+
+430
+00:31:51,434 --> 00:31:52,836
+"STM Yusung"
+
+431
+00:32:00,443 --> 00:32:01,744
+Hei. Matikan rokoknya.
+
+432
+00:32:01,945 --> 00:32:03,746
+Bapak bilang matikan.
+
+433
+00:32:03,746 --> 00:32:04,747
+- Sekarang!
+- Pergi.
+
+434
+00:32:05,715 --> 00:32:06,983
+Dasar berengsek. Pergilah ke kelas kalian sekarang.
+
+435
+00:32:08,551 --> 00:32:09,919
+- Aku pergi.
+- Cepatlah.
+
+436
+00:32:09,919 --> 00:32:10,987
+Dekan datang. Ayo.
+
+437
+00:32:10,987 --> 00:32:12,689
+Halo.
+
+438
+00:32:12,689 --> 00:32:13,923
+Tidak ada waktu untuk menyapa.
+
+439
+00:32:14,090 --> 00:32:16,059
+- Singkirkan semua kaleng drum ini.
+- Apa?
+
+440
+00:32:16,392 --> 00:32:17,927
+Wakil Kepala Sekolah menggila
+
+441
+00:32:17,927 --> 00:32:19,295
+karena wakil komisaris sekolah akan datang.
+
+442
+00:32:19,362 --> 00:32:20,997
+Pastikan untuk menyingkirkan semuanya.
+
+443
+00:32:21,097 --> 00:32:22,132
+Tapi...
+
+444
+00:32:22,665 --> 00:32:24,134
+"STM Yusung"
+
+445
+00:32:36,212 --> 00:32:37,247
+Apa...
+
+446
+00:32:46,089 --> 00:32:47,123
+Terima kasih.
+
+447
+00:32:47,457 --> 00:32:48,758
+Siapa namamu?
+
+448
+00:32:49,692 --> 00:32:51,294
+Aku Park Gun Yeob.
+
+449
+00:32:51,394 --> 00:32:53,229
+Begitu rupanya. Gun Yeob?
+
+450
+00:32:53,496 --> 00:32:54,531
+Ya.
+
+451
+00:32:55,465 --> 00:32:56,966
+Tapi asbak ini.
+
+452
+00:32:57,400 --> 00:33:00,036
+Bukankah lebih baik membiarkan wakil komisaris sekolah melihatnya?
+
+453
+00:33:02,739 --> 00:33:05,308
+Sejujurnya, itu yang ingin kulakukan.
+
+454
+00:33:06,009 --> 00:33:07,310
+Tetap saja, ini sekolah kita.
+
+455
+00:33:09,078 --> 00:33:11,514
+Usaha Ibu saja tidak akan mengubah apa pun.
+
+456
+00:33:11,915 --> 00:33:14,484
+Ibu setuju.
+
+457
+00:33:16,252 --> 00:33:18,254
+Tetap saja, memalukan untuk menyerah.
+
+458
+00:33:19,656 --> 00:33:21,891
+Ibu akan menyimpan sisanya.
+
+459
+00:33:21,891 --> 00:33:23,359
+Kamu harus masuk kelas.
+
+460
+00:33:24,127 --> 00:33:26,362
+- Sampai jumpa.
+- Sampai jumpa.
+
+461
+00:33:34,437 --> 00:33:35,939
+Hei. Sakit.
+
+462
+00:33:38,608 --> 00:33:39,676
+Hentikan.
+
+463
+00:33:40,276 --> 00:33:41,311
+Ayolah.
+
+464
+00:34:07,737 --> 00:34:09,239
+"Faktor dan faktorisasi"
+
+465
+00:34:09,372 --> 00:34:12,375
+"Persamaan kuadrat"
+
+466
+00:34:18,114 --> 00:34:22,085
+"Catatan Matematika"
+
+467
+00:34:22,786 --> 00:34:24,220
+"Kim Se Hyun"
+
+468
+00:34:40,203 --> 00:34:41,204
+Ini.
+
+469
+00:34:42,439 --> 00:34:43,540
+Itu sampah.
+
+470
+00:34:46,509 --> 00:34:47,577
+Terima kasih.
+
+471
+00:34:54,851 --> 00:34:56,186
+Lucu sekali.
+
+472
+00:34:59,956 --> 00:35:00,990
+Itu dia, bukan?
+
+473
+00:35:01,458 --> 00:35:02,559
+Topeng las.
+
+474
+00:35:06,830 --> 00:35:08,465
+"Catatan Matematika, Kim Se Hyun"
+
+475
+00:35:15,071 --> 00:35:17,507
+Astaga. Konyol sekali.
+
+476
+00:35:18,108 --> 00:35:19,109
+Kembalikan.
+
+477
+00:35:21,111 --> 00:35:23,947
+STM Yusung sekali lagi gagal mengirim muridnya ke universitas.
+
+478
+00:35:24,114 --> 00:35:27,150
+Wakil komisaris. Bahkan dalam krisis pengangguran ini,
+
+479
+00:35:27,150 --> 00:35:29,219
+murid-murid kita berhasil melewatinya.
+
+480
+00:35:29,219 --> 00:35:31,421
+Tingkat ketenagakerjaan patut dipuji, bukan?
+
+481
+00:35:31,421 --> 00:35:33,656
+Bagaimanapun, kamu harus ingat
+
+482
+00:35:33,656 --> 00:35:36,359
+bahwa kami selalu mengawasi STM Yusung.
+
+483
+00:35:37,260 --> 00:35:39,195
+Kami sangat bersyukur untuk itu.
+
+484
+00:35:39,195 --> 00:35:42,599
+Sebesar ketertarikanmu pada kami, kami mendidik para murid
+
+485
+00:35:42,765 --> 00:35:45,235
+dengan cukup teliti.
+
+486
+00:35:51,741 --> 00:35:54,043
+Kenapa kamu belum menyingkirkannya?
+
+487
+00:35:55,345 --> 00:35:56,679
+- Wakil Komisaris.
+- Bu Lee.
+
+488
+00:35:56,679 --> 00:35:58,248
+Bangsal praktik ada di sana.
+
+489
+00:35:58,248 --> 00:36:00,316
+Biar aku saja.
+
+490
+00:36:00,316 --> 00:36:01,718
+Wakil Komisaris?
+
+491
+00:36:02,385 --> 00:36:03,486
+Tunggu sebentar.
+
+492
+00:36:04,053 --> 00:36:05,054
+Apa?
+
+493
+00:36:07,123 --> 00:36:09,425
+Aku? Kamu bicara denganku?
+
+494
+00:36:11,861 --> 00:36:12,896
+Bu.
+
+495
+00:36:13,329 --> 00:36:15,365
+Apa kita pernah bertemu?
+
+496
+00:36:15,365 --> 00:36:16,466
+Aku meragukannya.
+
+497
+00:36:16,733 --> 00:36:19,135
+Dia guru sementara baru kami, yang datang belum lama ini.
+
+498
+00:36:20,537 --> 00:36:23,473
+Maafkan aku. Aku tidak ingat.
+
+499
+00:36:23,706 --> 00:36:26,009
+Begitukah? Tapi kamu tampak tidak asing.
+
+500
+00:36:26,009 --> 00:36:28,812
+Wakil Komisaris. Mari kita pergi ke bangsal praktik.
+
+501
+00:36:28,812 --> 00:36:31,114
+Kami mengganti peralatan menjadi yang praktis
+
+502
+00:36:31,114 --> 00:36:32,248
+yang digunakan di bidang industri.
+
+503
+00:36:32,248 --> 00:36:33,383
+Apa...
+
+504
+00:36:36,920 --> 00:36:37,987
+Astaga.
+
+505
+00:36:41,157 --> 00:36:42,158
+Sial.
+
+506
+00:36:44,360 --> 00:36:45,361
+Begini...
+
+507
+00:36:45,929 --> 00:36:48,498
+Wakil Komisaris?
+
+508
+00:36:52,836 --> 00:36:53,903
+Hei.
+
+509
+00:36:54,871 --> 00:36:56,172
+Semua orang kecuali dia, pergilah.
+
+510
+00:36:57,841 --> 00:36:58,842
+Sial.
+
+511
+00:37:00,243 --> 00:37:01,811
+"Kelas 1-4"
+
+512
+00:37:01,811 --> 00:37:02,812
+Minggir.
+
+513
+00:37:07,083 --> 00:37:08,218
+Kenapa kamu masih di sini?
+
+514
+00:37:08,852 --> 00:37:09,919
+Haruskah aku memukulimu lagi?
+
+515
+00:37:14,557 --> 00:37:15,692
+Aku baik-baik saja.
+
+516
+00:37:29,272 --> 00:37:30,340
+Kembalikan itu dahulu.
+
+517
+00:37:34,244 --> 00:37:35,311
+Lihat aku, jangan itu.
+
+518
+00:37:51,127 --> 00:37:52,495
+Lihat aku, bukan itu.
+
+519
+00:37:56,466 --> 00:37:58,802
+Apa? Apa Lee Hyeon U baru saja dikalahkan?
+
+520
+00:37:58,802 --> 00:38:00,136
+Tidak mungkin. Itu pasti keberuntungan.
+
+521
+00:38:00,136 --> 00:38:01,971
+Apa ada pria seperti itu di kelas kita?
+
+522
+00:38:02,505 --> 00:38:04,441
+Dia peringkat ke-222?
+
+523
+00:38:04,441 --> 00:38:06,843
+- Apa? 222?
+- Itu sangat rendah.
+
+524
+00:38:09,112 --> 00:38:10,747
+Si berengsek itu!
+
+525
+00:38:18,054 --> 00:38:19,055
+Tidak!
+
+526
+00:38:38,908 --> 00:38:40,844
+- Minta maaf.
+- Apa?
+
+527
+00:38:42,045 --> 00:38:44,547
+- Minta maaf kepada Se Hyun.
+- "Se Hyun"?
+
+528
+00:38:45,315 --> 00:38:46,382
+Siapa dia?
+
+529
+00:38:58,161 --> 00:39:00,029
+Kamu mau mati, Berandal?
+
+530
+00:39:11,941 --> 00:39:13,009
+Sial.
+
+531
+00:39:51,648 --> 00:39:52,849
+"STM Yusung"
+
+532
+00:40:04,360 --> 00:40:05,528
+"Catatan Matematika"
+
+533
+00:40:13,203 --> 00:40:14,237
+Jangan pingsan.
+
+534
+00:40:15,038 --> 00:40:16,473
+Lakukan setelah kamu minta maaf kepada Se Hyun.
+
+535
+00:40:17,440 --> 00:40:18,441
+Bangun.
+
+536
+00:40:18,441 --> 00:40:20,310
+- Siapa Se Hyun?
+- Entahlah.
+
+537
+00:40:23,680 --> 00:40:26,082
+Aku ingin bersekolah di SMA akademis.
+
+538
+00:40:27,150 --> 00:40:29,185
+Konyol sekali.
+
+539
+00:40:29,953 --> 00:40:32,655
+Anggap saja kamu bersekolah di sana.
+
+540
+00:40:34,290 --> 00:40:35,458
+Apa kamu berencana untuk kuliah?
+
+541
+00:40:41,865 --> 00:40:42,899
+Diam.
+
+542
+00:40:44,067 --> 00:40:46,803
+Dia tidur siang setelah belajar.
+
+543
+00:40:47,537 --> 00:40:51,141
+Tidak kusangka aku akan melihat murid memakai perpustakaan.
+
+544
+00:40:51,307 --> 00:40:52,442
+Astaga.
+
+545
+00:41:00,617 --> 00:41:03,520
+"Jeli-ku"
+
+546
+00:41:10,293 --> 00:41:11,628
+"Catatan Matematika, Kim Se Hyun"
+
+547
+00:41:11,628 --> 00:41:14,264
+Bu. Tolong tunggu.
+
+548
+00:41:15,765 --> 00:41:17,901
+Maafkan aku. Aku tidak bermaksud membuang ini.
+
+549
+00:41:20,904 --> 00:41:21,971
+Itu milik temanku.
+
+550
+00:41:42,492 --> 00:41:43,893
+Maafkan aku, Se Hyun.
+
+551
+00:41:46,629 --> 00:41:47,630
+Catatanmu...
+
+552
+00:41:58,141 --> 00:42:00,276
+Kenapa kamu bertindak sejauh itu untuk hal seperti ini?
+
+553
+00:42:03,646 --> 00:42:05,115
+Kamu bekerja keras menulisnya.
+
+554
+00:42:07,217 --> 00:42:09,786
+Itu tertata rapi hingga kamu ingin belajar.
+
+555
+00:42:11,187 --> 00:42:13,456
+- Usahamu telah menjadi abu.
+- Aku bersedia.
+
+556
+00:42:17,594 --> 00:42:20,196
+- Apa?
+- Aku akan ikut kelompok belajar.
+
+557
+00:42:27,637 --> 00:42:28,671
+Benarkah?
+
+558
+00:42:29,205 --> 00:42:33,209
+"Study Group"
+
