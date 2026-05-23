@@ -1,0 +1,8839 @@
+3
+00:01:02,833 --> 00:01:04,958
+Whether or not a person
+commits a crime,
+
+4
+00:01:05,000 --> 00:01:07,125
+no one cares...
+
+5
+00:01:08,708 --> 00:01:11,083
+If the crime can be proven,
+
+6
+00:01:11,500 --> 00:01:13,125
+then they're guilty.
+
+7
+00:01:13,666 --> 00:01:15,083
+Otherwise, they're not.
+
+8
+00:01:32,000 --> 00:01:33,916
+I'm innocent, Mr. Shyam.
+
+9
+00:01:36,250 --> 00:01:38,000
+You know that, right?
+
+10
+00:01:39,000 --> 00:01:41,000
+I was just doing my job.
+
+11
+00:01:41,208 --> 00:01:43,000
+Don't lose hope.
+
+12
+00:01:43,208 --> 00:01:45,458
+We'll appeal to the High Court.
+
+13
+00:01:45,791 --> 00:01:47,125
+But how?
+
+14
+00:01:48,583 --> 00:01:50,458
+How will I afford it?
+
+15
+00:01:56,333 --> 00:01:58,000
+It's over for me.
+
+16
+00:02:00,416 --> 00:02:02,250
+It's over for me.
+
+17
+00:02:26,291 --> 00:02:30,125
+SYSTEM
+
+18
+00:03:05,125 --> 00:03:06,833
+Excuse me.
+
+19
+00:03:08,750 --> 00:03:10,083
+Excuse me. Sorry.
+
+20
+00:03:12,208 --> 00:03:13,333
+Neha Ma'am...
+
+21
+00:03:14,208 --> 00:03:15,458
+Thank you.
+
+22
+00:03:47,875 --> 00:03:48,958
+Sorry.
+
+23
+00:04:06,416 --> 00:04:07,500
+Thanks.
+
+24
+00:04:32,916 --> 00:04:34,583
+STATE VS JAGDISH SINGH
+
+25
+00:04:39,125 --> 00:04:40,041
+Hi, Atmaram.
+
+26
+00:04:40,166 --> 00:04:41,166
+Hi, Neha...
+
+27
+00:04:42,000 --> 00:04:43,000
+Sorry, I...
+
+28
+00:04:43,083 --> 00:04:47,000
+The first day of trial...
+feels like an exam.
+
+29
+00:04:48,708 --> 00:04:50,208
+Aren't you nervous?
+
+30
+00:04:50,333 --> 00:04:54,208
+People get nervous before the results.
+You're already panicking!
+
+31
+00:04:56,250 --> 00:04:59,666
+It looks like the defence
+has done all their homework...
+
+32
+00:05:00,000 --> 00:05:01,041
+Four times over!
+
+33
+00:05:01,791 --> 00:05:03,250
+Chill, dude. Relax.
+
+34
+00:05:03,375 --> 00:05:05,000
+Have some water.
+
+35
+00:05:10,375 --> 00:05:12,000
+Ahlawat Sir is here.
+
+36
+00:05:13,000 --> 00:05:14,083
+All rise.
+
+37
+00:05:14,208 --> 00:05:16,833
+Honourable Judge presiding.
+
+38
+00:05:22,958 --> 00:05:26,833
+Matter of State versus Jagdish Singh
+is now in session.
+
+39
+00:05:27,000 --> 00:05:29,041
+Sir, on the night
+of 3rd October
+
+40
+00:05:29,166 --> 00:05:31,083
+an informant called me.
+
+41
+00:05:31,208 --> 00:05:33,958
+He told me that there's a nightclub
+
+42
+00:05:34,083 --> 00:05:36,041
+called Eclipse in our jurisdiction...
+
+43
+00:05:36,125 --> 00:05:39,708
+where illegal drugs
+are consumed and sold.
+
+44
+00:05:40,166 --> 00:05:41,333
+So, at 11:30 that night,
+
+45
+00:05:41,458 --> 00:05:43,291
+with a full police convoy in tow...
+
+46
+00:05:44,958 --> 00:05:46,250
+I raided the nightclub.
+
+47
+00:05:49,291 --> 00:05:50,875
+What did you find during that raid?
+
+48
+00:05:51,000 --> 00:05:52,833
+The club was mostly empty.
+
+49
+00:05:53,000 --> 00:05:54,791
+But then I checked the bathroom...
+
+50
+00:05:55,000 --> 00:05:56,250
+The real party was there!
+
+51
+00:05:56,500 --> 00:05:57,875
+One of the cubicles was locked.
+
+52
+00:05:58,000 --> 00:06:00,041
+We knocked the door.
+I told the person to come out.
+
+53
+00:06:00,166 --> 00:06:02,791
+The person inside didn't respond,
+
+54
+00:06:03,166 --> 00:06:04,250
+so, we broke open the door.
+
+55
+00:06:04,958 --> 00:06:07,000
+And who was this person sitting inside?
+
+56
+00:06:07,041 --> 00:06:08,375
+He's sitting right here.
+
+57
+00:06:08,500 --> 00:06:09,500
+Mr. Jagdish Singh.
+
+58
+00:06:09,791 --> 00:06:11,166
+The owner of Eclipse bar.
+
+59
+00:06:11,291 --> 00:06:12,375
+So as per due process,
+
+60
+00:06:12,500 --> 00:06:14,750
+did you take the accused
+for a medical test?
+
+61
+00:06:14,875 --> 00:06:16,000
+Of course.
+
+62
+00:06:17,000 --> 00:06:19,041
+Cocaine was detected
+in the blood test.
+
+63
+00:06:19,166 --> 00:06:21,708
+Did your team collect any
+other evidence during the raid?
+
+64
+00:06:21,833 --> 00:06:23,041
+Yes, during the search,
+
+65
+00:06:23,166 --> 00:06:26,083
+we found 100 grams of cocaine
+in one of the bar drawers.
+
+66
+00:06:26,458 --> 00:06:29,041
+Thank you. No further
+questions, Your Honour.
+
+67
+00:06:34,833 --> 00:06:37,375
+Inspector Rathi,
+if I heard correctly,
+
+68
+00:06:37,500 --> 00:06:40,083
+you said that you found
+my client in the bathroom.
+
+69
+00:06:40,208 --> 00:06:42,000
+You have sharp ears!
+
+70
+00:06:42,083 --> 00:06:43,083
+You heard me right.
+
+71
+00:06:43,208 --> 00:06:44,791
+When you knocked on the bathroom door,
+
+72
+00:06:44,916 --> 00:06:46,291
+did you say that
+you're the police?
+
+73
+00:06:46,416 --> 00:06:47,791
+Of course!
+
+74
+00:06:48,041 --> 00:06:49,875
+Why would I feel shy saying 'police'!
+
+75
+00:06:51,208 --> 00:06:52,166
+Silence, please.
+
+76
+00:06:52,291 --> 00:06:53,875
+May I ask you a personal question?
+
+77
+00:06:54,708 --> 00:06:56,666
+-Be my guest.
+-If you're in the toilet,
+
+78
+00:06:56,791 --> 00:06:58,000
+and someone knocks the door,
+
+79
+00:06:58,208 --> 00:06:59,208
+do you just open it?
+
+80
+00:07:00,000 --> 00:07:02,916
+I'm not into that kind
+of public service, sir!
+
+81
+00:07:04,583 --> 00:07:05,583
+Silence.
+
+82
+00:07:06,416 --> 00:07:09,666
+As per your report, you found
+100 grams of cocaine at the club.
+
+83
+00:07:09,791 --> 00:07:11,833
+103 grams, to be exact.
+
+84
+00:07:11,958 --> 00:07:14,750
+But you found the cocaine
+in the bar area, right?
+
+85
+00:07:15,000 --> 00:07:16,625
+-Yes.
+-Isn't it possible that someone
+
+86
+00:07:16,750 --> 00:07:18,250
+from the staff was dealing
+in drugs?
+
+87
+00:07:19,500 --> 00:07:22,083
+Did you find my client's fingerprints
+on the packet?
+
+88
+00:07:22,291 --> 00:07:24,291
+-No.
+-Was my client Jagdish Singh
+
+89
+00:07:24,416 --> 00:07:26,166
+found anywhere near the drugs?
+
+90
+00:07:26,583 --> 00:07:27,500
+No, sir.
+
+91
+00:07:27,666 --> 00:07:29,916
+So, anyone could
+have put the packet there.
+
+92
+00:07:30,291 --> 00:07:31,666
+You included, Inspector Rathi.
+
+93
+00:07:32,500 --> 00:07:34,041
+-Objection.
+-Overruled.
+
+94
+00:07:34,125 --> 00:07:35,250
+Overruled.
+
+95
+00:07:42,500 --> 00:07:45,166
+Mr. Singh, who all have access
+to your back office?
+
+96
+00:07:45,375 --> 00:07:47,000
+It's not a restricted area, ma'am.
+
+97
+00:07:47,208 --> 00:07:48,291
+It's open to everyone.
+
+98
+00:07:48,416 --> 00:07:49,708
+You're welcome too!
+
+99
+00:07:49,833 --> 00:07:51,625
+But I hardly go there these days.
+
+100
+00:07:51,750 --> 00:07:53,125
+Sometimes for weeks.
+
+101
+00:07:54,500 --> 00:07:56,958
+Surely you have a way
+to keep tabs on your staff?
+
+102
+00:07:57,458 --> 00:07:59,000
+We have CCTV cameras,
+
+103
+00:07:59,208 --> 00:08:01,208
+but they've been defunct for a while.
+
+104
+00:08:01,666 --> 00:08:03,083
+I've been meaning to fix them,
+
+105
+00:08:03,208 --> 00:08:05,083
+but I'm so busy I keep forgetting.
+
+106
+00:08:05,208 --> 00:08:06,833
+I have so many businesses, you see.
+
+107
+00:08:06,958 --> 00:08:08,000
+Of course.
+
+108
+00:08:08,416 --> 00:08:09,375
+Your Honour, it's so funny...
+
+109
+00:08:09,500 --> 00:08:11,083
+Whenever CCTV cameras
+
+110
+00:08:11,208 --> 00:08:12,791
+are needed, they never work.
+
+111
+00:08:14,958 --> 00:08:17,083
+So Mr. Singh,
+there's no way to know
+
+112
+00:08:17,208 --> 00:08:18,916
+if you went to the bar area that day?
+
+113
+00:08:19,041 --> 00:08:20,833
+-Objection, Your Honour.
+-Sustained.
+
+114
+00:08:21,000 --> 00:08:22,000
+Sustained.
+
+115
+00:08:22,291 --> 00:08:24,125
+It's not enough
+for the prosecution to show
+
+116
+00:08:24,250 --> 00:08:27,041
+that the defendant
+possibly committed the crime.
+
+117
+00:08:27,125 --> 00:08:30,208
+You must prove that he
+has committed the crime.
+
+118
+00:08:32,916 --> 00:08:34,375
+No further questions, Your Honour.
+
+119
+00:08:34,500 --> 00:08:35,416
+We'll adjourn for the day,
+
+120
+00:08:35,583 --> 00:08:37,458
+and the court will resume
+tomorrow at 9,
+
+121
+00:08:37,625 --> 00:08:39,083
+for the closing arguments.
+
+122
+00:08:42,583 --> 00:08:44,833
+-Neha!
+-Hello, sir.
+
+123
+00:08:44,958 --> 00:08:47,041
+I'm taking over this case from you.
+
+124
+00:08:47,750 --> 00:08:49,750
+Sir...
+Please don't do this.
+
+125
+00:08:49,875 --> 00:08:50,791
+Let me fight.
+
+126
+00:08:50,916 --> 00:08:52,375
+We can still win this!
+
+127
+00:08:52,875 --> 00:08:53,875
+Forget winning,
+
+128
+00:08:54,041 --> 00:08:56,250
+even getting Jaggi into rehab
+looks tough now.
+
+129
+00:08:56,958 --> 00:08:58,750
+Sir, please, sir. One last chance.
+
+130
+00:08:58,875 --> 00:09:00,208
+I won't disappoint you.
+
+131
+00:09:05,875 --> 00:09:07,000
+Let me think about it.
+
+132
+00:09:08,875 --> 00:09:09,875
+Sir!
+
+133
+00:09:10,666 --> 00:09:12,250
+Don't take his words to heart.
+
+134
+00:09:12,416 --> 00:09:14,250
+He's just a grump.
+
+135
+00:09:15,166 --> 00:09:16,166
+Chill.
+
+136
+00:09:16,625 --> 00:09:17,666
+Thank you, Ravi.
+
+137
+00:09:17,791 --> 00:09:19,000
+Brilliant as always.
+
+138
+00:09:19,125 --> 00:09:20,958
+Yes. The look on their faces!
+
+139
+00:09:21,166 --> 00:09:22,458
+And you handled him well.
+
+140
+00:09:22,625 --> 00:09:23,625
+Thanks!
+
+141
+00:09:23,750 --> 00:09:26,250
+Sir, sir...
+Just a question!
+
+142
+00:09:26,791 --> 00:09:27,833
+One by one, please.
+
+143
+00:09:27,958 --> 00:09:28,916
+One at a time.
+
+144
+00:09:29,000 --> 00:09:29,750
+Mr. Rajvansh,
+
+145
+00:09:29,875 --> 00:09:32,291
+What would you like to say
+about today's judgment?
+
+146
+00:09:33,250 --> 00:09:36,083
+I'm really happy that my client,
+Mr. Vikram Bajral
+
+147
+00:09:36,208 --> 00:09:38,750
+has been given a clean chit
+by the court.
+
+148
+00:09:39,375 --> 00:09:41,000
+This judgment is proof
+
+149
+00:09:41,583 --> 00:09:44,041
+that courts are indeed
+temples of justice.
+
+150
+00:09:45,041 --> 00:09:46,708
+But sir, this isn't a first.
+
+151
+00:09:46,875 --> 00:09:49,083
+Your client has been accused
+of land-grabbing many times.
+
+152
+00:09:51,916 --> 00:09:55,083
+You know why our country
+still lags behind?
+
+153
+00:09:55,666 --> 00:09:56,958
+Because people here
+
+154
+00:09:57,041 --> 00:10:00,041
+aren't inspired
+seeing others succeed.
+
+155
+00:10:00,458 --> 00:10:02,041
+They're envious.
+
+156
+00:10:03,000 --> 00:10:05,875
+The root of this case
+was nothing but envy.
+
+157
+00:10:06,083 --> 00:10:07,333
+Thank you. Excuse me.
+
+158
+00:10:07,458 --> 00:10:08,708
+No more questions, please.
+
+159
+00:10:08,916 --> 00:10:09,916
+Thank you.
+
+160
+00:10:10,166 --> 00:10:11,750
+Your dad is next level, man.
+
+161
+00:10:12,375 --> 00:10:14,000
+Never lost a case to date!
+
+162
+00:10:15,250 --> 00:10:17,708
+What's the criteria
+to work under him?
+
+163
+00:10:18,791 --> 00:10:22,083
+First prove yourself by winning
+enough cases for the prosecution...
+
+164
+00:10:22,291 --> 00:10:23,958
+Then he might consider you.
+
+165
+00:10:24,708 --> 00:10:27,666
+If you talk to him,
+maybe there's a way.
+
+166
+00:10:29,708 --> 00:10:33,250
+This criteria even applies
+to his own daughter.
+
+167
+00:10:33,916 --> 00:10:36,250
+Being my friend is hardly a boost.
+
+168
+00:10:36,833 --> 00:10:38,000
+Come, let's go.
+
+169
+00:11:09,875 --> 00:11:11,875
+-How are you, my little glitterbug?
+-Mummy!
+
+170
+00:11:12,000 --> 00:11:14,208
+-There comes our boss.
+-Auntie?
+
+171
+00:11:14,416 --> 00:11:16,000
+Oh, you're here!
+
+172
+00:11:16,375 --> 00:11:17,625
+How was your day?
+
+173
+00:11:17,750 --> 00:11:18,833
+Any problems?
+
+174
+00:11:19,416 --> 00:11:20,875
+No, nothing at all!
+
+175
+00:11:21,833 --> 00:11:24,083
+Everyone was watching TV
+and enjoying themselves...
+
+176
+00:11:24,333 --> 00:11:25,333
+Right?
+
+177
+00:11:26,083 --> 00:11:27,750
+By the way,
+I've cooked Rajma.
+
+178
+00:11:28,041 --> 00:11:29,833
+I'll send some over
+once it's done.
+
+179
+00:11:29,958 --> 00:11:31,875
+-Thanks, auntie!
+-Okay.
+
+180
+00:11:32,000 --> 00:11:34,083
+Kusum, is your science test
+result out yet?
+
+181
+00:11:34,333 --> 00:11:36,000
+Yes, 96!
+
+182
+00:11:36,708 --> 00:11:38,666
+Really? Show me!
+
+183
+00:11:43,083 --> 00:11:44,875
+Wait, grab this!
+
+184
+00:11:46,291 --> 00:11:47,333
+What are you hiding?
+
+185
+00:11:49,708 --> 00:11:53,000
+This? Nothing, just
+the science fair form.
+
+186
+00:11:53,250 --> 00:11:56,000
+The teacher asked us
+to get our parents' signatures.
+
+187
+00:11:58,000 --> 00:11:59,416
+You were selected for this?
+
+188
+00:11:59,666 --> 00:12:01,708
+Yes, but I'm not
+in the mood for it.
+
+189
+00:12:03,000 --> 00:12:04,875
+Heard her?
+She's not in the mood!
+
+190
+00:12:05,125 --> 00:12:07,000
+No, it's too expensive.
+
+191
+00:12:07,291 --> 00:12:09,000
+Besides, it's in Pune.
+
+192
+00:12:09,166 --> 00:12:11,333
+I won't be able to sleep there,
+without Dad around.
+
+193
+00:12:11,458 --> 00:12:12,958
+I'll feel scared.
+
+194
+00:12:16,916 --> 00:12:18,666
+Even ghosts would be scared of you!
+
+195
+00:12:18,791 --> 00:12:20,416
+Let me worry about the expenses.
+
+196
+00:12:20,625 --> 00:12:22,000
+Focus on your studies!
+
+197
+00:12:24,041 --> 00:12:25,083
+And you?
+
+198
+00:12:25,333 --> 00:12:27,916
+God knows what nonsense
+you two are cooking up.
+
+199
+00:12:28,041 --> 00:12:30,000
+Story? Listen!
+
+200
+00:12:30,125 --> 00:12:32,291
+You think she scored 96
+without studying?
+
+201
+00:12:32,416 --> 00:12:33,916
+Scold her later.
+
+202
+00:12:34,458 --> 00:12:35,875
+She deserves a prize first.
+
+203
+00:12:36,000 --> 00:12:37,041
+Kusum, take this.
+
+204
+00:12:37,791 --> 00:12:38,833
+What prize?
+
+205
+00:12:39,625 --> 00:12:40,625
+Ice-cream?
+
+206
+00:12:40,750 --> 00:12:44,208
+-Ice-cream!
+-How about ice-cream?
+
+207
+00:12:44,791 --> 00:12:46,458
+Using her as an excuse to have it!
+
+208
+00:12:46,791 --> 00:12:49,666
+-You know you can't!
+-Once in a while is okay, right?
+
+209
+00:12:49,833 --> 00:12:52,083
+Really?
+Are you a doctor now?
+
+210
+00:12:52,791 --> 00:12:53,791
+Here.
+
+211
+00:12:53,916 --> 00:12:56,166
+Get a chocolate bar for you,
+and a mango bar for Dad.
+
+212
+00:12:56,291 --> 00:12:57,916
+-Okay.
+-Is that right?
+
+213
+00:12:58,125 --> 00:12:59,125
+Yes.
+
+214
+00:12:59,750 --> 00:13:00,791
+Go.
+
+215
+00:13:03,958 --> 00:13:07,708
+Please, sir,
+I can win this case...
+
+216
+00:13:15,000 --> 00:13:16,250
+No reply.
+
+217
+00:13:31,666 --> 00:13:33,375
+Madam, it's closing time!
+
+218
+00:13:34,041 --> 00:13:35,833
+Take your selfie later.
+
+219
+00:13:35,958 --> 00:13:37,583
+I'll miss my train home.
+
+220
+00:13:59,458 --> 00:14:00,916
+Guys...
+
+221
+00:14:04,250 --> 00:14:05,791
+Ladies and gentlemen,
+
+222
+00:14:06,875 --> 00:14:09,125
+I really want to thank you all
+for being here today.
+
+223
+00:14:09,250 --> 00:14:15,000
+Today, our law firm, Rajvansh Legal,
+completes 25 years!
+
+224
+00:14:18,458 --> 00:14:20,000
+And in these 25 years,
+
+225
+00:14:20,083 --> 00:14:23,041
+our firm's biggest achievement
+
+226
+00:14:23,208 --> 00:14:27,041
+is that we have no clients at this party.
+
+227
+00:14:28,916 --> 00:14:32,333
+Only friends and well-wishers!
+
+228
+00:14:35,833 --> 00:14:37,666
+My family and I...
+
+229
+00:14:38,375 --> 00:14:39,750
+We want to thank you.
+
+230
+00:14:39,875 --> 00:14:43,916
+Doing this without you all
+wasn't impossible,
+
+231
+00:14:45,041 --> 00:14:46,583
+but would've been tougher.
+
+232
+00:14:46,708 --> 00:14:48,750
+-Absolutely.
+-So...
+
+233
+00:14:49,583 --> 00:14:51,500
+-Cheers!
+-Where's my glass?
+
+234
+00:14:51,666 --> 00:14:52,875
+Cheers!
+
+235
+00:14:58,291 --> 00:14:59,666
+I hope you're enjoying here.
+
+236
+00:15:02,625 --> 00:15:03,666
+Hi.
+
+237
+00:15:04,000 --> 00:15:05,000
+Hi.
+
+238
+00:15:07,833 --> 00:15:09,208
+You're looking sexy!
+
+239
+00:15:09,375 --> 00:15:10,458
+Sexy?
+
+240
+00:15:10,625 --> 00:15:13,000
+Please! I just hope
+I'm not stinking!
+
+241
+00:15:13,041 --> 00:15:15,375
+The Public Prosecutor's office
+doesn't even have an AC.
+
+242
+00:15:15,500 --> 00:15:17,875
+-Can you beat that?
+-Really?
+
+243
+00:15:21,333 --> 00:15:23,250
+To me, you smell just fine!
+
+244
+00:15:24,625 --> 00:15:26,708
+You're the government school type.
+
+245
+00:15:26,958 --> 00:15:29,666
+That's why you find
+government lawyers sexy.
+
+246
+00:15:31,166 --> 00:15:33,041
+-Let's go.
+-Sure.
+
+247
+00:15:34,791 --> 00:15:35,958
+-How are you doing, Sarita?
+-Fine.
+
+248
+00:15:37,125 --> 00:15:38,875
+-How are you?
+-Well...
+
+249
+00:15:39,125 --> 00:15:41,958
+How was your day,
+Miss Public Prosecutor?
+
+250
+00:15:42,125 --> 00:15:43,166
+So bad...
+
+251
+00:15:43,500 --> 00:15:45,000
+That I want to forget all about it.
+
+252
+00:15:45,250 --> 00:15:46,833
+Princess! There you are.
+
+253
+00:15:46,958 --> 00:15:49,125
+Hi, Dad.
+Sorry. I'm late.
+
+254
+00:15:49,333 --> 00:15:50,333
+Congratulations!
+
+255
+00:15:50,500 --> 00:15:52,083
+Thank you, and to you too.
+
+256
+00:15:52,208 --> 00:15:53,208
+Thank you!
+
+257
+00:15:54,250 --> 00:15:56,000
+I was just telling Neha
+
+258
+00:15:56,083 --> 00:15:58,875
+how much we miss her here.
+
+259
+00:16:00,208 --> 00:16:03,000
+Before becoming a partner,
+you must stand on your own feet.
+
+260
+00:16:03,041 --> 00:16:04,041
+Absolutely.
+
+261
+00:16:04,125 --> 00:16:06,291
+I myself worked as a
+prosecutor for many years.
+
+262
+00:16:06,500 --> 00:16:08,083
+Here we go again.
+
+263
+00:16:09,291 --> 00:16:10,416
+Sir, I...
+
+264
+00:16:10,583 --> 00:16:12,125
+-I'll go get myself a drink.
+-Sure.
+
+265
+00:16:12,250 --> 00:16:13,791
+-Will you have something, sir?
+-No, thank you.
+
+266
+00:16:13,916 --> 00:16:14,916
+Okay.
+
+267
+00:16:16,291 --> 00:16:17,833
+What was that, Dad?
+
+268
+00:16:18,000 --> 00:16:19,333
+Some sort of reverse nepotism?
+
+269
+00:16:20,583 --> 00:16:21,791
+Because I'm your daughter,
+
+270
+00:16:21,916 --> 00:16:23,958
+things should be
+more difficult for me?
+
+271
+00:16:24,208 --> 00:16:26,000
+They shouldn't be too easy either.
+
+272
+00:16:26,833 --> 00:16:29,625
+When you get things
+too easily in life,
+
+273
+00:16:29,750 --> 00:16:31,750
+you don't learn to value them.
+
+274
+00:16:33,208 --> 00:16:34,125
+You know, Neha...
+
+275
+00:16:34,250 --> 00:16:36,125
+The greatest emperors in history
+
+276
+00:16:36,250 --> 00:16:39,208
+spent their lifetimes
+building huge empires.
+
+277
+00:16:39,333 --> 00:16:42,291
+And then, their heirs
+just destroyed it.
+
+278
+00:16:43,916 --> 00:16:45,250
+What do you mean?
+
+279
+00:16:46,041 --> 00:16:47,875
+That I'm not worthy of your legacy?
+
+280
+00:16:48,041 --> 00:16:49,208
+Not at all.
+
+281
+00:16:49,875 --> 00:16:51,750
+Just that you haven't earned it yet.
+
+282
+00:16:53,875 --> 00:16:54,833
+My wish is that
+
+283
+00:16:54,958 --> 00:16:57,166
+when you join this firm as a partner,
+
+284
+00:16:57,500 --> 00:16:59,041
+everyone should feel
+
+285
+00:16:59,666 --> 00:17:01,375
+it's because you deserve it.
+
+286
+00:17:02,583 --> 00:17:04,708
+And according to you,
+when do I deserve it?
+
+287
+00:17:05,625 --> 00:17:06,791
+Are we negotiating?
+
+288
+00:17:08,250 --> 00:17:09,250
+As always.
+
+289
+00:17:10,416 --> 00:17:11,416
+Fine.
+
+290
+00:17:13,833 --> 00:17:14,958
+Ten cases.
+
+291
+00:17:16,000 --> 00:17:17,791
+Win ten cases.
+
+292
+00:17:22,458 --> 00:17:23,458
+Deal.
+
+293
+00:17:24,708 --> 00:17:26,208
+Without losing a single one.
+
+294
+00:17:26,875 --> 00:17:28,000
+Knew there was a catch...
+
+295
+00:17:28,041 --> 00:17:29,208
+As always.
+
+296
+00:17:31,291 --> 00:17:32,291
+Deal.
+
+297
+00:17:32,750 --> 00:17:33,750
+Okay.
+
+298
+00:17:34,416 --> 00:17:36,791
+So, how was your day at court?
+
+299
+00:17:37,458 --> 00:17:38,458
+Good.
+
+300
+00:17:38,666 --> 00:17:41,041
+-Great, actually.
+-Well, I heard otherwise...
+
+301
+00:17:42,125 --> 00:17:43,125
+Hey, Sis!
+
+302
+00:17:43,458 --> 00:17:44,208
+Hi.
+
+303
+00:17:44,333 --> 00:17:46,333
+You know, a little birdie
+came and told me
+
+304
+00:17:46,875 --> 00:17:49,041
+that this case is also...
+
+305
+00:17:50,958 --> 00:17:51,958
+Is it?
+
+306
+00:17:52,833 --> 00:17:54,333
+Don't we always find a way?
+
+307
+00:17:55,500 --> 00:17:56,500
+Yeah.
+
+308
+00:17:56,666 --> 00:17:59,250
+-We do.
+-I specifically told you, two ice cubes!
+
+309
+00:17:59,375 --> 00:18:00,916
+How many are these?
+
+310
+00:18:01,083 --> 00:18:02,750
+-Can you count?
+-Sorry, sir.
+
+311
+00:18:04,041 --> 00:18:05,166
+Ravi!
+
+312
+00:18:05,750 --> 00:18:10,166
+These dimwits cannot take
+one single order, I'm telling you...
+
+313
+00:18:16,958 --> 00:18:19,041
+But Mr. Rajvansh...
+
+314
+00:18:20,166 --> 00:18:22,000
+In the last 25 years,
+
+315
+00:18:22,041 --> 00:18:23,791
+how many cases have you won?
+
+316
+00:18:24,500 --> 00:18:26,000
+To tell you the truth,
+
+317
+00:18:26,041 --> 00:18:28,000
+and nothing but the truth...
+
+318
+00:18:28,916 --> 00:18:30,666
+It's easier to count
+the ones I've lost!
+
+319
+00:18:32,833 --> 00:18:34,875
+Vikram Uncle,
+you may not know this...
+
+320
+00:18:35,000 --> 00:18:38,375
+But you were the first and the most
+important client of our law firm!
+
+321
+00:18:38,500 --> 00:18:39,416
+Am I right, Dad?
+
+322
+00:18:39,583 --> 00:18:40,791
+Absolutely, yes.
+
+323
+00:18:40,916 --> 00:18:45,208
+I thought you had many other
+important cases going on?
+
+324
+00:18:45,333 --> 00:18:47,041
+Hey, I hope you're
+not complaining!
+
+325
+00:18:47,875 --> 00:18:49,333
+That I cannot!
+
+326
+00:18:49,458 --> 00:18:52,250
+So what I'm saying is,
+two cubes ice in a...
+
+327
+00:18:52,375 --> 00:18:53,833
+Vikram, Vikram...
+
+328
+00:18:53,958 --> 00:18:55,250
+You should call it a night.
+
+329
+00:18:55,916 --> 00:18:56,958
+-Akshay.
+-Sir.
+
+330
+00:18:57,125 --> 00:18:59,041
+-No.
+-Come with me, sir.
+
+331
+00:18:59,916 --> 00:19:02,000
+Let me ask...
+Who's he?
+
+332
+00:19:03,750 --> 00:19:05,000
+Where's Pooja?
+
+333
+00:19:05,083 --> 00:19:07,291
+Hey, why didn't you tell me
+you're here?
+
+334
+00:19:07,416 --> 00:19:09,166
+Mom, I was going to come to you, but...
+
+335
+00:19:09,291 --> 00:19:11,916
+But then you lawyers started arguing.
+
+336
+00:19:12,041 --> 00:19:13,875
+Save the arguments for court.
+
+337
+00:19:14,166 --> 00:19:15,958
+Come, let's have a family photo.
+
+338
+00:19:16,000 --> 00:19:18,000
+-It's your Dad's special day today.
+-Yes.
+
+339
+00:19:27,000 --> 00:19:28,625
+Smile, please!
+
+340
+00:19:36,041 --> 00:19:38,125
+And that's their gorgeous burger.
+
+341
+00:19:38,250 --> 00:19:40,625
+But what I wanna show you
+
+342
+00:19:40,750 --> 00:19:42,125
+is my current favourite:
+
+343
+00:19:43,000 --> 00:19:44,000
+Their Chai latte.
+
+344
+00:19:44,833 --> 00:19:46,000
+It's to die for.
+
+345
+00:19:46,208 --> 00:19:48,250
+Cafe Roasted Chai Latte,
+
+346
+00:19:48,375 --> 00:19:50,416
+Inaaya Kataria approved, okay!
+
+347
+00:19:50,916 --> 00:19:52,833
+Roasted Cafe Latte...
+
+348
+00:19:56,750 --> 00:19:59,208
+"The fox remains undefeated in court..."
+
+349
+00:20:01,250 --> 00:20:04,375
+"Rajvansh's daughter having a
+poor run as a prosecutor..."
+
+350
+00:20:06,041 --> 00:20:08,000
+I've a name, you idiot.
+
+351
+00:20:08,500 --> 00:20:10,166
+"Raghav Srivastav."
+
+352
+00:20:18,166 --> 00:20:19,500
+-Careful...
+-Sorry, ma'am.
+
+353
+00:20:19,666 --> 00:20:21,041
+She popped out of nowhere!
+
+354
+00:20:22,416 --> 00:20:24,041
+-Are you okay?
+-Sorry, madam.
+
+355
+00:20:24,125 --> 00:20:25,333
+I was in a rush. My bus was delayed...
+
+356
+00:20:25,458 --> 00:20:28,000
+No problem. Come, I'm going to court too.
+
+357
+00:20:50,125 --> 00:20:51,125
+I'm Sarika.
+
+358
+00:20:51,333 --> 00:20:52,333
+Sarika Rawat.
+
+359
+00:20:52,750 --> 00:20:54,041
+Neha Rajvansh.
+
+360
+00:21:04,125 --> 00:21:05,875
+How's it going in the Prosecution?
+
+361
+00:21:06,875 --> 00:21:08,083
+How's it going, well...
+
+362
+00:21:08,458 --> 00:21:09,916
+It's different, for sure.
+
+363
+00:21:10,000 --> 00:21:12,041
+-And a bit tough, too.
+-That's true.
+
+364
+00:21:12,208 --> 00:21:14,166
+It's a little easier for the defence.
+
+365
+00:21:14,416 --> 00:21:16,750
+They don't have to prove
+their clients innocent.
+
+366
+00:21:17,041 --> 00:21:20,000
+They just have to show that
+the evidence isn't adequate.
+
+367
+00:21:20,416 --> 00:21:23,083
+Prosecution bears the burden
+of proving the crime,
+
+368
+00:21:23,875 --> 00:21:25,875
+that too,
+beyond reasonable doubt.
+
+369
+00:21:26,250 --> 00:21:27,416
+It's certainly tough.
+
+370
+00:21:27,583 --> 00:21:28,750
+So even if you lose,
+
+371
+00:21:29,083 --> 00:21:30,250
+don't take it to heart.
+
+372
+00:21:30,666 --> 00:21:32,458
+You think I'm going to
+lose this case?
+
+373
+00:21:35,000 --> 00:21:36,000
+Well...
+
+374
+00:21:36,250 --> 00:21:37,708
+The judge will decide that.
+
+375
+00:21:38,000 --> 00:21:40,291
+When the judgment will be passed
+two days later.
+
+376
+00:21:48,333 --> 00:21:50,208
+Sir, please stop on the left.
+
+377
+00:21:58,583 --> 00:21:59,875
+May I say something, ma'am?
+
+378
+00:22:00,083 --> 00:22:03,333
+Prosecutors often focus on
+what the criminal did...
+
+379
+00:22:03,958 --> 00:22:07,208
+they tend to overlook
+what they didn't do.
+
+380
+00:22:08,833 --> 00:22:10,083
+Thanks for the lift.
+
+381
+00:22:20,250 --> 00:22:22,875
+Only one CCTV was out of order.
+
+382
+00:22:47,833 --> 00:22:48,833
+Your Honour.
+
+383
+00:22:49,250 --> 00:22:52,083
+The defence says the Eclipse Bar's owner,
+Mr. Jagdish Singh
+
+384
+00:22:52,208 --> 00:22:55,583
+neither knew that drugs
+were being sold on his premises,
+
+385
+00:22:56,000 --> 00:23:00,041
+nor that 103 grams of cocaine
+were found in his office.
+
+386
+00:23:03,875 --> 00:23:05,958
+Mr. Jagdish Singh has admitted
+
+387
+00:23:06,208 --> 00:23:09,875
+that the bar area CCTV camera
+has been out of order for a while.
+
+388
+00:23:10,000 --> 00:23:11,250
+Despite knowing this,
+
+389
+00:23:11,458 --> 00:23:13,208
+he did nothing about it.
+
+390
+00:23:15,166 --> 00:23:18,125
+Under The Food Safety
+and Standards Act of 2006,
+
+391
+00:23:18,375 --> 00:23:19,916
+Section 66 states that:
+
+392
+00:23:20,000 --> 00:23:23,000
+If an offense is committed
+in a company or restaurant
+
+393
+00:23:23,333 --> 00:23:26,000
+and the offense is caused
+by the owner's carelessness,
+
+394
+00:23:26,333 --> 00:23:29,208
+then the owner
+will be held liable,
+
+395
+00:23:29,666 --> 00:23:31,625
+and be punished accordingly.
+
+396
+00:23:33,416 --> 00:23:34,833
+That's all, Your Honour.
+
+397
+00:23:40,416 --> 00:23:44,291
+Based on the evidences and testimonies,
+this court finds defendant Mr. Jagdish
+
+398
+00:23:44,625 --> 00:23:47,833
+guilty of both,
+drug possession and trafficking.
+
+399
+00:23:48,458 --> 00:23:49,791
+This court also believes that
+
+400
+00:23:49,916 --> 00:23:52,791
+the CCTV cameras not working
+was a deliberate tactic
+
+401
+00:23:53,166 --> 00:23:56,958
+to enable the usage and sale
+of drugs in the club.
+
+402
+00:23:57,041 --> 00:23:59,000
+The court sentences Jagdish Singh
+
+403
+00:23:59,041 --> 00:24:00,083
+to ten years imprisonment
+
+404
+00:24:00,208 --> 00:24:02,208
+and a fine of two lakh rupees.
+
+405
+00:24:04,083 --> 00:24:06,000
+Your Honour!
+I've been framed!
+
+406
+00:24:06,041 --> 00:24:07,625
+I had nothing to do with them.
+
+407
+00:24:07,875 --> 00:24:09,041
+Do something, Malhotra.
+
+408
+00:24:10,125 --> 00:24:12,250
+-Say something!
+-I'll handle it.
+
+409
+00:24:26,791 --> 00:24:27,833
+Hi.
+
+410
+00:24:29,625 --> 00:24:30,875
+Congratulations.
+
+411
+00:24:31,041 --> 00:24:32,875
+Well, all thanks to you!
+
+412
+00:24:33,791 --> 00:24:34,750
+Why me?
+
+413
+00:24:34,875 --> 00:24:36,333
+Your suggestion worked!
+
+414
+00:24:36,583 --> 00:24:37,791
+I really owe you one.
+
+415
+00:24:38,750 --> 00:24:40,083
+If that's the case,
+
+416
+00:24:40,208 --> 00:24:41,958
+you can buy me
+a cup of tea.
+
+417
+00:24:43,166 --> 00:24:44,166
+But not today...
+
+418
+00:24:44,291 --> 00:24:46,625
+-I've got to run!
+-That's not done! You just said...
+
+419
+00:24:46,750 --> 00:24:48,041
+Not so fast, Ms. Sarika!
+
+420
+00:24:48,208 --> 00:24:50,708
+Tell me...
+What's the latest from court?
+
+421
+00:24:51,000 --> 00:24:52,833
+Any untoward incidents or violence?
+
+422
+00:24:54,708 --> 00:24:56,000
+Oh, Ms. Rajvansh?
+
+423
+00:24:56,625 --> 00:24:58,708
+Hello. I'm Raghav.
+
+424
+00:24:58,833 --> 00:24:59,833
+Court reporter.
+
+425
+00:25:00,416 --> 00:25:04,000
+Next time you ask for a transcript,
+pay for the previous two.
+
+426
+00:25:05,916 --> 00:25:07,500
+Ms. Sarika, India is going digital.
+
+427
+00:25:07,666 --> 00:25:08,916
+Check your UPI!
+
+428
+00:25:12,000 --> 00:25:15,750
+Ms. Rajvansh, why do I get the feeling
+that you didn't like my article?
+
+429
+00:25:17,916 --> 00:25:20,875
+One look at the headline,
+I knew it's not worth reading.
+
+430
+00:25:21,125 --> 00:25:23,625
+Do something that's worth writing about,
+the right headline will follow.
+
+431
+00:25:23,791 --> 00:25:24,791
+How about that?
+
+432
+00:25:27,000 --> 00:25:28,000
+So tea later, then?
+
+433
+00:25:28,041 --> 00:25:29,250
+-Yes.
+-Tea?
+
+434
+00:25:29,375 --> 00:25:30,375
+What's the occasion?
+
+435
+00:25:30,750 --> 00:25:31,666
+Check the transcript.
+
+436
+00:25:31,791 --> 00:25:33,916
+You don't know how to write
+but I hope you can read.
+
+437
+00:25:34,875 --> 00:25:36,000
+Okay, bye.
+
+438
+00:25:38,041 --> 00:25:40,875
+Ms. Sarika,
+treat her to lemonade, not tea.
+
+439
+00:25:41,041 --> 00:25:42,625
+-Leave!
+-It'll cool her down.
+
+440
+00:25:44,708 --> 00:25:45,833
+Hello, People.
+
+441
+00:25:45,958 --> 00:25:47,083
+Hello, My Darling.
+
+442
+00:25:47,208 --> 00:25:48,416
+Come. Sit.
+
+443
+00:25:48,875 --> 00:25:50,833
+Someone seems to have
+had a good day.
+
+444
+00:25:52,375 --> 00:25:54,166
+Don't tell me you won.
+
+445
+00:25:55,375 --> 00:25:56,708
+Yeah, I did.
+
+446
+00:25:57,458 --> 00:26:01,041
+I guess for Delhi courts,
+the Rajvansh name is enough.
+
+447
+00:26:01,125 --> 00:26:02,125
+Right, Dad?
+
+448
+00:26:04,375 --> 00:26:05,625
+Have some, Mom.
+
+449
+00:26:05,750 --> 00:26:07,750
+It's Friday. I'm fasting today.
+
+450
+00:26:08,000 --> 00:26:09,083
+It's Friday already?
+
+451
+00:26:09,833 --> 00:26:11,958
+Now that you've tasted success,
+
+452
+00:26:12,208 --> 00:26:13,916
+make it a habit.
+
+453
+00:26:14,666 --> 00:26:15,750
+That's the plan.
+
+454
+00:26:15,875 --> 00:26:18,750
+I want to get out of there soon.
+It's really filthy.
+
+455
+00:26:18,875 --> 00:26:20,166
+Oh please!
+
+456
+00:26:20,291 --> 00:26:22,208
+I worked there,
+before becoming a partner here.
+
+457
+00:26:22,333 --> 00:26:24,083
+It's different for you.
+You're a guy.
+
+458
+00:26:24,208 --> 00:26:27,083
+You women... On one
+hand, you demand equality,
+
+459
+00:26:27,208 --> 00:26:28,375
+but make such excuses.
+
+460
+00:26:28,583 --> 00:26:29,708
+What's different?
+
+461
+00:26:29,833 --> 00:26:31,291
+You pee standing up.
+
+462
+00:26:31,666 --> 00:26:33,416
+Please.
+These talks are not for the dinner table!
+
+463
+00:26:33,583 --> 00:26:35,000
+-Then tell him!
+-Oh God!
+
+464
+00:26:36,291 --> 00:26:38,166
+I read the court transcripts.
+
+465
+00:26:39,250 --> 00:26:40,750
+You argued well, Princess.
+
+466
+00:26:41,458 --> 00:26:43,041
+But your closing argument...
+
+467
+00:26:43,416 --> 00:26:44,958
+That was the clincher.
+
+468
+00:26:45,041 --> 00:26:46,750
+The defence wouldn't have expected
+
+469
+00:26:46,875 --> 00:26:49,583
+you'd go after them for negligence,
+not drug trafficking.
+
+470
+00:26:49,958 --> 00:26:51,125
+There's a saying in boxing,
+
+471
+00:26:51,250 --> 00:26:53,916
+that, "the punch that
+hurts you the most
+
+472
+00:26:54,250 --> 00:26:56,250
+is the one that
+you don't see coming."
+
+473
+00:26:56,916 --> 00:26:57,916
+Well played.
+
+474
+00:27:01,000 --> 00:27:02,750
+Will you have some? Raita?
+
+475
+00:27:04,666 --> 00:27:06,000
+Take some salad.
+
+476
+00:27:19,000 --> 00:27:20,791
+Madam, could you move aside?
+
+477
+00:27:43,875 --> 00:27:45,125
+Tell me something...
+
+478
+00:27:45,375 --> 00:27:46,750
+Why did you help me?
+
+479
+00:27:47,125 --> 00:27:48,083
+What help?
+
+480
+00:27:48,208 --> 00:27:51,750
+It was just a small advice.
+There's no law against that, right?
+
+481
+00:27:51,958 --> 00:27:52,958
+Still...
+
+482
+00:27:54,500 --> 00:27:57,083
+Even big lawyers
+often use technical arguments
+
+483
+00:27:57,208 --> 00:27:58,958
+to save their clients.
+
+484
+00:27:59,666 --> 00:28:03,166
+If it helps to serve justice,
+what's wrong with that?
+
+485
+00:28:03,291 --> 00:28:05,666
+Why? Don't you think,
+the court delivers justice?
+
+486
+00:28:07,208 --> 00:28:08,916
+Justice, ma'am...
+
+487
+00:28:09,625 --> 00:28:11,000
+is like God.
+
+488
+00:28:11,875 --> 00:28:13,166
+Very hard to find.
+
+489
+00:28:14,208 --> 00:28:15,458
+Courts don't give justice...
+
+490
+00:28:15,625 --> 00:28:17,208
+Just a chance to appeal.
+
+491
+00:28:18,375 --> 00:28:20,041
+Feels like I'm talking
+to my Dad!
+
+492
+00:28:21,083 --> 00:28:22,291
+I must've heard from him.
+
+493
+00:28:22,416 --> 00:28:24,333
+I've seen him in court
+many times.
+
+494
+00:28:28,208 --> 00:28:29,458
+It's good, right?
+
+495
+00:28:29,750 --> 00:28:32,083
+Inaaya Kothari has given
+this restaurant 5 stars.
+
+496
+00:28:32,208 --> 00:28:34,000
+-Who?
+-Inaaya Kothari.
+
+497
+00:28:34,083 --> 00:28:36,291
+Social media influencer.
+I follow her.
+
+498
+00:28:38,708 --> 00:28:39,750
+Never mind.
+
+499
+00:28:41,458 --> 00:28:43,708
+Will you help me
+with a case?
+
+500
+00:28:44,000 --> 00:28:45,875
+Pramod Mishra.
+He's a government official.
+
+501
+00:28:46,000 --> 00:28:47,958
+The charge is soliciting a prostitute.
+
+502
+00:28:48,500 --> 00:28:51,375
+I can't help you, ma'am.
+I've a life outside of court.
+
+503
+00:28:51,583 --> 00:28:52,875
+I have a young daughter.
+
+504
+00:28:53,000 --> 00:28:54,750
+I have to spend time
+with her too.
+
+505
+00:28:56,833 --> 00:28:58,625
+Well, to give her a good life,
+
+506
+00:28:58,750 --> 00:29:00,041
+you need money, isn't it?
+
+507
+00:29:00,583 --> 00:29:01,875
+10,000 per case?
+
+508
+00:29:03,875 --> 00:29:06,750
+Why does a Rajvansh need
+an ordinary stenographer's help?
+
+509
+00:29:07,000 --> 00:29:09,208
+No help is ordinary
+if it helps win the case.
+
+510
+00:29:10,708 --> 00:29:12,750
+Is it just to win
+or to get someone justice?
+
+511
+00:29:12,875 --> 00:29:13,916
+To win.
+
+512
+00:29:14,166 --> 00:29:15,666
+My future depends on it.
+
+513
+00:29:16,083 --> 00:29:18,083
+Besides, justice is like God, right?
+
+514
+00:29:18,458 --> 00:29:19,916
+Difficult to find.
+
+515
+00:29:22,000 --> 00:29:23,000
+But why me?
+
+516
+00:29:24,166 --> 00:29:25,875
+You've seen high-profile cases,
+
+517
+00:29:26,000 --> 00:29:28,583
+from the prosecution's
+and defence's point of view.
+
+518
+00:29:28,916 --> 00:29:30,666
+That kind of experience is rare.
+
+519
+00:29:31,083 --> 00:29:32,833
+And if I can buy that experience,
+
+520
+00:29:32,958 --> 00:29:34,208
+what's the harm?
+
+521
+00:29:36,958 --> 00:29:38,000
+20,000.
+
+522
+00:29:39,125 --> 00:29:41,375
+We'll work after court.
+Till 7 p.m.
+
+523
+00:29:41,500 --> 00:29:42,708
+And weekends off.
+
+524
+00:29:43,708 --> 00:29:44,708
+Works for me.
+
+525
+00:29:44,833 --> 00:29:47,666
+But, madam... if anyone
+at the court gets to know,
+
+526
+00:29:48,083 --> 00:29:49,083
+I'll lose my job.
+
+527
+00:29:49,416 --> 00:29:50,416
+Trust me.
+
+528
+00:29:50,708 --> 00:29:51,875
+No one will know.
+
+529
+00:29:55,041 --> 00:29:56,666
+Did you not like the Chai Latte?
+
+530
+00:29:56,916 --> 00:29:58,000
+It's kind of bitter.
+
+531
+00:29:58,875 --> 00:30:01,208
+-Bitter?
+-I've got to run home now. Sorry...
+
+532
+00:30:01,416 --> 00:30:02,666
+Thanks for the tea!
+
+533
+00:30:03,000 --> 00:30:04,000
+Are you sure?
+
+534
+00:30:04,958 --> 00:30:06,750
+Sarika, your phone!
+
+535
+00:30:07,333 --> 00:30:09,000
+-Sorry.
+-File.
+
+536
+00:30:44,791 --> 00:30:47,333
+So shady!
+Is this the only place you got?
+
+537
+00:30:47,583 --> 00:30:49,375
+What if someone
+calls the cops?
+
+538
+00:30:50,250 --> 00:30:52,708
+So, what will they do?
+
+539
+00:30:53,708 --> 00:30:55,375
+Threaten us with Section 294?
+
+540
+00:30:55,875 --> 00:30:57,708
+"Obscene Act in Public"?
+
+541
+00:30:57,833 --> 00:30:59,125
+I'll tell the cops...
+
+542
+00:30:59,333 --> 00:31:01,250
+There's just obscenity here...
+
+543
+00:31:01,958 --> 00:31:03,125
+No public!
+
+544
+00:31:05,708 --> 00:31:07,125
+So shameless!
+
+545
+00:31:07,416 --> 00:31:09,333
+Do you feel like... only in cars?
+
+546
+00:31:09,583 --> 00:31:10,750
+No.
+
+547
+00:31:11,291 --> 00:31:13,666
+Buses, trains, planes...
+
+548
+00:31:20,291 --> 00:31:21,833
+You make me very happy.
+
+549
+00:31:24,416 --> 00:31:26,041
+And you make me happier.
+
+550
+00:31:32,875 --> 00:31:34,166
+Darling.
+
+551
+00:31:37,208 --> 00:31:39,000
+She's gone to her parents'.
+
+552
+00:31:39,291 --> 00:31:41,250
+I'm all yours for the next 2-3 months.
+
+553
+00:31:41,375 --> 00:31:43,375
+Just give me a call
+whenever you're free.
+
+554
+00:31:43,875 --> 00:31:45,041
+What do you want?
+
+555
+00:31:45,250 --> 00:31:46,375
+A son or a daughter?
+
+556
+00:31:46,750 --> 00:31:48,708
+My wife wants a son.
+
+557
+00:31:48,833 --> 00:31:51,458
+But boys are a handful.
+Girls are simpler.
+
+558
+00:31:52,041 --> 00:31:53,666
+I think they're adorable.
+
+559
+00:31:54,416 --> 00:31:57,000
+When you have a daughter,
+you'll eat your words.
+
+560
+00:31:58,125 --> 00:31:59,750
+Stay a bit longer?
+
+561
+00:32:00,083 --> 00:32:01,291
+Your wife isn't home,
+
+562
+00:32:01,500 --> 00:32:02,958
+but my husband is.
+
+563
+00:32:03,041 --> 00:32:04,916
+Then let me drop you home...
+
+564
+00:32:06,250 --> 00:32:08,333
+I'll be with you a bit longer.
+
+565
+00:32:09,625 --> 00:32:11,333
+You're a man. And a cop.
+
+566
+00:32:11,875 --> 00:32:14,000
+Your neighbours won't
+talk shit about you.
+
+567
+00:32:14,125 --> 00:32:15,375
+But my neighbours...
+
+568
+00:32:15,625 --> 00:32:17,000
+Their tongues
+won't stop wagging.
+
+569
+00:32:17,083 --> 00:32:18,791
+Come on, I've got to go.
+
+570
+00:32:22,083 --> 00:32:23,958
+Well then at least
+text me when you reach...
+
+571
+00:32:24,000 --> 00:32:25,916
+If it's not too much trouble,
+darling?
+
+572
+00:32:26,000 --> 00:32:27,041
+I'll text you.
+
+573
+00:32:27,708 --> 00:32:31,208
+I'll text you. Sarika.
+
+574
+00:32:33,625 --> 00:32:35,291
+I want to make a name for myself,
+
+575
+00:32:35,416 --> 00:32:38,333
+not just be known as Rajvansh's daughter.
+
+576
+00:32:39,458 --> 00:32:43,000
+"Neha Rajvansh pulls
+rabbit out of hat to win case..."
+
+577
+00:32:43,375 --> 00:32:44,916
+Well argued!
+
+578
+00:32:51,666 --> 00:32:53,291
+The official time is 3:30.
+
+579
+00:32:53,416 --> 00:32:54,833
+Please come tomorrow.
+
+580
+00:33:20,791 --> 00:33:22,000
+Ruksana.
+
+581
+00:33:22,750 --> 00:33:24,000
+I'm Neha.
+
+582
+00:33:26,958 --> 00:33:28,833
+Can I ask you some questions?
+
+583
+00:33:32,875 --> 00:33:34,000
+How old are you?
+
+584
+00:33:36,500 --> 00:33:37,666
+Nineteen years.
+
+585
+00:33:39,833 --> 00:33:41,875
+And is Pinky really your aunt?
+
+586
+00:33:49,125 --> 00:33:51,291
+Ruksana, I want to help you.
+
+587
+00:33:52,125 --> 00:33:54,250
+If you answer my questions...
+
+588
+00:33:54,375 --> 00:33:56,875
+Please, ma'am,
+I want to go home.
+
+589
+00:33:57,791 --> 00:33:59,166
+Please send me home!
+
+590
+00:33:59,291 --> 00:34:01,041
+I don't want to stay here.
+
+591
+00:34:02,000 --> 00:34:03,333
+Please, ma'am!
+
+592
+00:34:04,583 --> 00:34:07,250
+Please, ma'am.
+Please send me home.
+
+593
+00:34:14,041 --> 00:34:15,666
+- Yes, Neha Ma'am?
+-Sarika...
+
+594
+00:34:15,875 --> 00:34:18,000
+-Can you come to my place now?
+- Sure.
+
+595
+00:34:18,041 --> 00:34:20,458
+-I'll send you the address.
+- I'll be there.
+
+596
+00:34:20,750 --> 00:34:21,833
+Thanks.
+
+597
+00:34:37,041 --> 00:34:39,791
+Kaka, can you get us some tea?
+
+598
+00:34:41,500 --> 00:34:43,916
+I've seen such houses many times,
+just from the outside.
+
+599
+00:34:44,000 --> 00:34:45,666
+But it's the first time
+I've come in.
+
+600
+00:34:45,958 --> 00:34:46,958
+It's lovely.
+
+601
+00:34:47,041 --> 00:34:48,416
+I think
+you'll like the tea too.
+
+602
+00:34:48,583 --> 00:34:49,833
+This time, no Latte.
+
+603
+00:34:52,000 --> 00:34:53,208
+Thank you.
+
+604
+00:34:54,416 --> 00:34:56,500
+That girl Ruksana
+she seems quite scared.
+
+605
+00:34:56,875 --> 00:34:58,875
+That purported sex worker?
+
+606
+00:34:59,041 --> 00:35:00,750
+Can she be of use to us?
+
+607
+00:35:00,875 --> 00:35:03,583
+-What?
+-Madam, your vocabulary needs work.
+
+608
+00:35:04,000 --> 00:35:05,000
+Not "madam", call me Neha.
+
+609
+00:35:05,041 --> 00:35:06,666
+Wait, I know what this means.
+
+610
+00:35:07,083 --> 00:35:09,250
+"Purported" means alleged, right?
+
+611
+00:35:09,833 --> 00:35:11,375
+But why do you say "alleged"?
+
+612
+00:35:11,833 --> 00:35:14,791
+Prostitution, "the oldest profession"...
+
+613
+00:35:15,166 --> 00:35:17,000
+Laws around it is a bit strange.
+
+614
+00:35:17,250 --> 00:35:19,250
+Your Honour, even if we accept
+
+615
+00:35:19,375 --> 00:35:22,166
+that my client, Mr. Pramod Mishra,
+and this girl
+
+616
+00:35:22,291 --> 00:35:24,041
+were physically involved...
+
+617
+00:35:24,583 --> 00:35:27,750
+It's simply a private matter
+between the two of them.
+
+618
+00:35:28,041 --> 00:35:30,041
+There's nothing illegal here.
+
+619
+00:35:31,333 --> 00:35:34,083
+It doesn't merit
+a public solicitation charges.
+
+620
+00:35:38,791 --> 00:35:40,958
+The defence's argument
+is totally baseless.
+
+621
+00:35:41,041 --> 00:35:43,708
+They were found at a brothel
+at KPKG Road.
+
+622
+00:35:43,833 --> 00:35:45,666
+How will you prove
+that it was a brothel?
+
+623
+00:35:45,791 --> 00:35:48,291
+Fifteen garlands, please.
+Give me a good rate.
+
+624
+00:35:48,666 --> 00:35:51,750
+The investigating officer's testimony
+mentions, it is a brothel.
+
+625
+00:35:52,000 --> 00:35:53,000
+No.
+
+626
+00:35:53,583 --> 00:35:55,875
+He believes it was a brothel.
+
+627
+00:35:57,416 --> 00:35:58,416
+Quick.
+
+628
+00:35:58,583 --> 00:36:00,000
+Madam will pay.
+
+629
+00:36:00,041 --> 00:36:01,166
+120 rupees, ma'am.
+
+630
+00:36:01,625 --> 00:36:03,958
+Your Honour,
+the documents on your screen
+
+631
+00:36:04,916 --> 00:36:07,375
+are of the house
+the police raided.
+
+632
+00:36:08,416 --> 00:36:10,208
+And according to these documents,
+
+633
+00:36:10,416 --> 00:36:11,791
+the owner of that house
+
+634
+00:36:11,916 --> 00:36:13,166
+is Ms. Pinky,
+
+635
+00:36:13,458 --> 00:36:15,375
+Ruksana's aunt.
+
+636
+00:36:16,833 --> 00:36:18,666
+A man and a woman.
+
+637
+00:36:18,875 --> 00:36:20,000
+Both adults.
+
+638
+00:36:20,333 --> 00:36:21,708
+In their spare time...
+
+639
+00:36:21,833 --> 00:36:23,000
+In a closed room...
+
+640
+00:36:23,375 --> 00:36:26,083
+whether they pray, watch TV,
+or play cards...
+
+641
+00:36:26,375 --> 00:36:27,791
+Or do anything else.
+
+642
+00:36:28,083 --> 00:36:30,041
+How is that against the law?
+
+643
+00:36:37,833 --> 00:36:38,750
+These aren't enough.
+
+644
+00:36:38,875 --> 00:36:39,833
+We need more.
+
+645
+00:36:39,958 --> 00:36:40,958
+Hurry up.
+
+646
+00:36:46,125 --> 00:36:47,125
+That girl...
+
+647
+00:36:47,458 --> 00:36:49,000
+Can she help us?
+
+648
+00:36:56,958 --> 00:36:58,083
+There is one thing.
+
+649
+00:36:58,583 --> 00:37:00,375
+I think that girl is underage.
+
+650
+00:37:00,958 --> 00:37:03,291
+But her birth certificate states
+that she is 19.
+
+651
+00:37:04,708 --> 00:37:06,416
+It's easy to get fake documents.
+
+652
+00:37:06,583 --> 00:37:07,666
+Isn't it?
+
+653
+00:37:12,000 --> 00:37:13,291
+How's my gang?
+
+654
+00:37:13,416 --> 00:37:15,000
+They're all good.
+
+655
+00:37:15,500 --> 00:37:17,000
+-You're back!
+-Yes.
+
+656
+00:37:17,041 --> 00:37:18,833
+Come out soon.
+
+657
+00:37:18,958 --> 00:37:19,958
+How was the day?
+
+658
+00:37:20,041 --> 00:37:21,250
+Exhausting.
+
+659
+00:37:21,375 --> 00:37:23,291
+Walked around all day.
+I just got home.
+
+660
+00:37:23,416 --> 00:37:25,333
+Such lovely flowers!
+
+661
+00:37:25,875 --> 00:37:28,333
+You must be working
+at the same office.
+
+662
+00:37:31,291 --> 00:37:32,875
+Neha, come in.
+
+663
+00:37:35,000 --> 00:37:36,708
+That's my husband, Lakshman.
+
+664
+00:37:36,833 --> 00:37:39,375
+And that's my daughter,
+my glitterbug, Kusum.
+
+665
+00:37:39,833 --> 00:37:42,208
+-What bug?
+-Glitterbug!
+
+666
+00:37:43,000 --> 00:37:44,916
+-Hi.
+-Hi.
+
+667
+00:37:47,750 --> 00:37:49,833
+Wow, that's so cool.
+
+668
+00:37:49,958 --> 00:37:51,208
+Who painted that?
+
+669
+00:37:53,875 --> 00:37:56,375
+Life's drab, but at least
+the walls are colourful.
+
+670
+00:37:57,333 --> 00:37:58,666
+I'll bring the  pakodas .
+
+671
+00:37:58,791 --> 00:38:00,791
+-Just  pakodas ♪
+-Yes.
+
+672
+00:38:03,500 --> 00:38:04,958
+Can I ask you something?
+
+673
+00:38:05,000 --> 00:38:06,083
+Sure.
+
+674
+00:38:06,625 --> 00:38:07,666
+What happened to him?
+
+675
+00:38:07,791 --> 00:38:09,750
+It was an accident.
+Kusum!
+
+676
+00:38:10,208 --> 00:38:11,750
+It wasn't his fault.
+
+677
+00:38:12,041 --> 00:38:13,083
+Here.
+
+678
+00:38:14,166 --> 00:38:16,833
+No one would guess
+how much you're juggling.
+
+679
+00:38:17,666 --> 00:38:20,666
+I see why family time
+is so important to you.
+
+680
+00:38:26,500 --> 00:38:28,083
+I'm doing what I can.
+
+681
+00:38:28,625 --> 00:38:30,041
+Kusum should've a better life.
+
+682
+00:38:30,375 --> 00:38:31,375
+That's all I want.
+
+683
+00:38:34,000 --> 00:38:35,958
+-Here, Dad.
+-Thank you.
+
+684
+00:38:38,041 --> 00:38:39,166
+She's so young,
+
+685
+00:38:39,583 --> 00:38:41,750
+yet she takes such
+good care of her dad.
+
+686
+00:38:43,000 --> 00:38:45,208
+Whoa, you look so cool!
+
+687
+00:38:47,916 --> 00:38:49,500
+I'll be back in 15 minutes!
+
+688
+00:38:49,666 --> 00:38:50,666
+All right.
+
+689
+00:38:56,041 --> 00:38:57,791
+-Jai mata di.
+-Jai mata di.
+
+690
+00:39:00,583 --> 00:39:02,166
+Take some of the holy offering.
+
+691
+00:39:07,291 --> 00:39:11,000
+We only have a case
+if we prove the girl's underage.
+
+692
+00:39:13,125 --> 00:39:14,833
+I'm already on it.
+
+693
+00:39:23,041 --> 00:39:26,500
+Doctor, can an X-ray
+determine a person's age?
+
+694
+00:39:29,041 --> 00:39:32,125
+Children's bones,
+especially the wrist and fingers
+
+695
+00:39:32,958 --> 00:39:34,250
+have growing zones
+on both sides,
+
+696
+00:39:34,375 --> 00:39:36,333
+which we call "growth plates"
+in medical terms.
+
+697
+00:39:36,583 --> 00:39:38,125
+As children grow older,
+
+698
+00:39:38,250 --> 00:39:40,208
+these growth plates get thinner.
+
+699
+00:39:40,500 --> 00:39:43,000
+And when they become adults,
+they disappear completely.
+
+700
+00:39:44,750 --> 00:39:46,208
+As you can see here,
+
+701
+00:39:46,458 --> 00:39:48,000
+growth plates are visible.
+
+702
+00:39:49,708 --> 00:39:51,875
+According to you,
+based on this X-ray,
+
+703
+00:39:52,000 --> 00:39:53,916
+how old would this person be?
+
+704
+00:39:54,000 --> 00:39:56,208
+Going by this, I'd say
+in their late teens.
+
+705
+00:39:56,458 --> 00:39:58,250
+Around 16.
+
+706
+00:39:59,166 --> 00:40:00,250
+Thank you, Doctor.
+
+707
+00:40:03,958 --> 00:40:05,125
+That's all, Your Honour.
+
+708
+00:40:09,708 --> 00:40:10,916
+Doctor...
+
+709
+00:40:11,250 --> 00:40:13,125
+Can a patient's bone development
+
+710
+00:40:13,250 --> 00:40:15,291
+tell you everything about them?
+
+711
+00:40:15,666 --> 00:40:17,583
+I mean,
+the exact date of birth?
+
+712
+00:40:18,375 --> 00:40:20,041
+Isn't it possible that at times,
+
+713
+00:40:20,166 --> 00:40:24,000
+the bones don't indicate
+the age of the person?
+
+714
+00:40:24,125 --> 00:40:25,916
+Yes, it's possible.
+
+715
+00:40:26,250 --> 00:40:28,500
+-It's quite rare.
+-There's a chance, right?
+
+716
+00:40:28,791 --> 00:40:31,958
+Yes, if the bone growth is slow,
+it is possible.
+
+717
+00:40:32,041 --> 00:40:35,208
+So you accept that if
+her bone development is slow,
+
+718
+00:40:35,416 --> 00:40:37,625
+Ruksana could be 19?
+
+719
+00:40:46,291 --> 00:40:48,416
+-Yes...
+-That's all, Your Honour.
+
+720
+00:41:09,666 --> 00:41:11,625
+Raghav, what the hell!
+Have you lost it?
+
+721
+00:41:11,916 --> 00:41:13,708
+-What have you sent me?
+- Hello, hello...
+
+722
+00:41:13,833 --> 00:41:15,625
+It's not what you think it is.
+
+723
+00:41:15,833 --> 00:41:16,958
+Just check it once.
+
+724
+00:41:23,166 --> 00:41:25,208
+Don't cry!
+There's no need to cry.
+
+725
+00:41:25,416 --> 00:41:27,083
+Please! I don't want to...
+
+726
+00:41:27,208 --> 00:41:29,458
+Don't be scared!
+You'll enjoy it.
+
+727
+00:41:29,625 --> 00:41:31,166
+-How old are you?
+-15.
+
+728
+00:41:31,291 --> 00:41:32,833
+That's the age to have fun!
+
+729
+00:41:32,958 --> 00:41:34,000
+But I don't want to...
+
+730
+00:41:34,208 --> 00:41:35,291
+You'll enjoy it, trust me!
+
+731
+00:41:35,416 --> 00:41:37,125
+Please uncle,
+please let me go.
+
+732
+00:41:37,416 --> 00:41:38,916
+Want some sweets?
+
+733
+00:41:39,250 --> 00:41:41,125
+Please, Uncle,
+I don't want to...
+
+734
+00:41:41,250 --> 00:41:43,416
+- Come to me, Sweetie.
+- Please let me go.
+
+735
+00:41:45,750 --> 00:41:47,000
+Objection, Your Honour.
+
+736
+00:41:47,625 --> 00:41:48,666
+The evidence is late.
+
+737
+00:41:48,791 --> 00:41:50,750
+Objection overruled.
+Just sit down!
+
+738
+00:41:57,666 --> 00:42:00,416
+This court
+finds Pramod Mishra guilty,
+
+739
+00:42:01,000 --> 00:42:03,416
+under IPC section 375,
+
+740
+00:42:03,666 --> 00:42:05,250
+for rape of a minor,
+
+741
+00:42:05,375 --> 00:42:09,083
+sentences him to 20 years,
+and under IPC section 377,
+
+742
+00:42:09,583 --> 00:42:11,000
+for unnatural sex,
+
+743
+00:42:11,083 --> 00:42:13,458
+sentences him to 10 years
+rigorous imprisonment.
+
+744
+00:42:13,750 --> 00:42:14,916
+Both these jail terms
+
+745
+00:42:15,000 --> 00:42:16,750
+shall be served concurrently.
+
+746
+00:42:33,416 --> 00:42:34,416
+Sarika.
+
+747
+00:42:34,625 --> 00:42:35,625
+Yes?
+
+748
+00:42:36,500 --> 00:42:38,041
+Think again.
+
+749
+00:42:39,166 --> 00:42:40,291
+About what?
+
+750
+00:42:41,000 --> 00:42:43,333
+Working with Rajvansh's daughter...
+
+751
+00:42:43,458 --> 00:42:44,833
+Don't worry so much.
+
+752
+00:42:44,958 --> 00:42:46,458
+I know what I'm doing.
+
+753
+00:42:47,250 --> 00:42:48,416
+Careful.
+
+754
+00:42:50,708 --> 00:42:53,083
+And if I can earn us some
+extra money, what's the harm?
+
+755
+00:42:54,500 --> 00:42:57,041
+I want Kusum to go
+for the science fair.
+
+756
+00:43:05,208 --> 00:43:07,000
+Do you ever feel like?
+
+757
+00:43:11,125 --> 00:43:12,250
+Go to sleep.
+
+758
+00:43:39,291 --> 00:43:40,916
+Looks like silver.
+
+759
+00:43:42,041 --> 00:43:43,125
+Finished ma'am.
+
+760
+00:43:43,750 --> 00:43:46,041
+Okay, done for the day.
+
+761
+00:43:46,333 --> 00:43:48,166
+Read every question two times.
+
+762
+00:43:48,375 --> 00:43:50,041
+All the best!
+
+763
+00:43:50,458 --> 00:43:52,250
+-Thank you, ma'am. Bye.
+-Bye.
+
+764
+00:43:56,291 --> 00:43:57,291
+Hello, madam.
+
+765
+00:43:57,583 --> 00:43:59,166
+I'm reaching in just a bit.
+
+766
+00:44:00,166 --> 00:44:02,208
+Neha, you're looking
+like a movie star today.
+
+767
+00:44:02,333 --> 00:44:03,291
+Cheers to that!
+
+768
+00:44:03,416 --> 00:44:04,583
+Cheers!
+
+769
+00:44:05,291 --> 00:44:06,458
+Tell me something...
+
+770
+00:44:06,833 --> 00:44:08,041
+Where did you get the video?
+
+771
+00:44:09,583 --> 00:44:11,000
+Whatever you may think of us,
+
+772
+00:44:11,041 --> 00:44:13,958
+we're not so unethical
+as to reveal our sources!
+
+773
+00:44:14,666 --> 00:44:17,000
+And anyway, these days, from
+hotel rooms to changing rooms,
+
+774
+00:44:17,041 --> 00:44:18,333
+there are spy-cams everywhere.
+
+775
+00:44:18,833 --> 00:44:20,375
+That's true.
+
+776
+00:44:23,708 --> 00:44:24,708
+Sarika!
+
+777
+00:44:28,416 --> 00:44:31,125
+Whoa, you guys are
+friends already?
+
+778
+00:44:31,250 --> 00:44:32,958
+If he keeps writing
+good things about me,
+
+779
+00:44:33,041 --> 00:44:34,375
+the friendship might even last!
+
+780
+00:44:34,500 --> 00:44:36,958
+-Such a tiny glass of water?
+-It's not water!
+
+781
+00:44:40,416 --> 00:44:42,000
+That's tequila!
+
+782
+00:44:42,041 --> 00:44:43,291
+Have another one, it'll help.
+
+783
+00:44:43,416 --> 00:44:45,416
+It's Neha's success party, after all!
+
+784
+00:44:46,291 --> 00:44:47,375
+Are you okay?
+
+785
+00:44:47,500 --> 00:44:49,250
+-My insides are on fire.
+-It is okay.
+
+786
+00:44:50,041 --> 00:44:51,250
+-I'm on fire!
+-Careful!
+
+787
+00:44:55,250 --> 00:44:57,041
+♪ You are my mirror ♪
+
+788
+00:44:57,208 --> 00:44:59,000
+♪ You are my mirror ♪
+
+789
+00:44:59,041 --> 00:45:01,208
+♪ You are my reflection ♪
+
+790
+00:45:01,333 --> 00:45:02,791
+♪ Yes, you are.. ♪
+
+791
+00:45:02,916 --> 00:45:04,041
+♪ You are my mirror ♪
+
+792
+00:45:04,208 --> 00:45:08,166
+♪ Through the soul's eye,
+Let's see the world anew ♪
+
+793
+00:45:11,500 --> 00:45:16,041
+♪ Even with eyes closed,
+I can recognize you ♪
+
+794
+00:45:18,041 --> 00:45:21,458
+♪ One earth, one sky ♪
+
+795
+00:45:21,958 --> 00:45:25,916
+♪ So many worlds in one world ♪
+
+796
+00:45:26,583 --> 00:45:30,958
+♪ Through the soul's eye,
+let's see the world anew ♪
+
+797
+00:45:34,000 --> 00:45:35,416
+♪ The same shared rivers ♪
+
+798
+00:45:35,958 --> 00:45:37,375
+♪ The same sunlit paths ♪
+
+799
+00:45:37,625 --> 00:45:39,083
+♪ The same two eyes ♪
+
+800
+00:45:39,458 --> 00:45:41,125
+♪ Just a different view ♪
+
+801
+00:45:41,375 --> 00:45:43,000
+♪ We swat the same mosquitoes ♪
+
+802
+00:45:43,125 --> 00:45:45,000
+♪ We count the same stars ♪
+
+803
+00:45:45,250 --> 00:45:47,041
+♪ With no imagined borders ♪
+
+804
+00:45:47,166 --> 00:45:49,041
+♪ We're all the same ♪
+
+805
+00:45:49,416 --> 00:45:52,583
+♪ Through the soul's eye,
+let's see the world anew ♪
+
+806
+00:45:57,000 --> 00:46:00,125
+♪ Even with eyes closed,
+I can recognize you ♪
+
+807
+00:46:03,333 --> 00:46:06,208
+♪ One earth, one sky ♪
+
+808
+00:46:07,291 --> 00:46:10,083
+♪ So many worlds in one world ♪
+
+809
+00:46:12,833 --> 00:46:14,500
+♪ You are my mirror ♪
+
+810
+00:46:14,833 --> 00:46:16,125
+♪ You are my mirror ♪
+
+811
+00:46:16,708 --> 00:46:18,500
+♪ You are my reflection ♪
+
+812
+00:46:18,791 --> 00:46:20,166
+♪ Yes, you are ♪
+
+813
+00:46:20,458 --> 00:46:22,125
+♪ You are my mirror ♪
+
+814
+00:46:22,458 --> 00:46:24,041
+♪ You are my mirror ♪
+
+815
+00:46:24,125 --> 00:46:27,625
+♪ When you came,
+My world opened up ♪
+
+816
+00:46:28,708 --> 00:46:30,208
+♪ The same shared rivers ♪
+
+817
+00:46:30,625 --> 00:46:32,041
+♪ The same sunlit paths ♪
+
+818
+00:46:32,458 --> 00:46:34,041
+♪ The same two eyes ♪
+
+819
+00:46:34,250 --> 00:46:36,208
+♪ Just a different view ♪
+
+820
+00:46:42,333 --> 00:46:43,916
+-Hi, Mummy.
+-Hi.
+
+821
+00:46:44,250 --> 00:46:45,291
+Kusum, shoes...
+
+822
+00:46:45,750 --> 00:46:47,333
+She didn't greet me!
+
+823
+00:46:52,583 --> 00:46:54,291
+Thank you, thank you,
+thank you, Mom!
+
+824
+00:46:54,416 --> 00:46:56,916
+Hey, Mom can't digest
+so many thank-yous.
+
+825
+00:46:57,083 --> 00:46:59,375
+Say thanks to Neha.
+She got you the books.
+
+826
+00:46:59,500 --> 00:47:01,041
+Thank you, Ms. Neha.
+
+827
+00:47:02,333 --> 00:47:04,375
+Go ace the science fair.
+
+828
+00:47:04,666 --> 00:47:06,000
+I really hope you win.
+
+829
+00:47:06,041 --> 00:47:07,125
+Yes.
+
+830
+00:47:08,166 --> 00:47:09,916
+I really hope you win too, Neha.
+
+831
+00:47:11,958 --> 00:47:13,625
+♪ The same shared rivers ♪
+
+832
+00:47:13,875 --> 00:47:15,500
+♪ The same sunlit paths ♪
+
+833
+00:47:15,958 --> 00:47:17,291
+♪ The same two eyes ♪
+
+834
+00:47:17,416 --> 00:47:19,000
+♪ Just a different view ♪
+
+835
+00:47:19,291 --> 00:47:21,166
+♪ We swat the same mosquitoes ♪
+
+836
+00:47:21,416 --> 00:47:23,041
+♪ We count the same stars ♪
+
+837
+00:47:23,208 --> 00:47:25,041
+♪ With no imagined borders ♪
+
+838
+00:47:25,250 --> 00:47:26,958
+♪ We're all the same ♪
+
+839
+00:47:29,041 --> 00:47:32,083
+Sir, can you just take your line
+with a little more energy?
+
+840
+00:47:33,500 --> 00:47:34,625
+Sure, I'll do it.
+
+841
+00:47:34,750 --> 00:47:36,500
+Please don't fumble on your line.
+
+842
+00:47:39,041 --> 00:47:41,041
+Okay, action.
+
+843
+00:47:41,708 --> 00:47:43,583
+Dedicated to building better lives.
+
+844
+00:47:44,041 --> 00:47:45,000
+Cut!
+
+845
+00:47:45,083 --> 00:47:47,041
+-Clap. For this.
+-Yes.
+
+846
+00:47:48,416 --> 00:47:49,500
+Hi.
+
+847
+00:47:51,000 --> 00:47:52,416
+You look wonderful today!
+
+848
+00:47:53,333 --> 00:47:54,791
+Thank you for this opportunity.
+
+849
+00:47:54,916 --> 00:47:56,375
+It means the world to me.
+
+850
+00:47:57,958 --> 00:47:59,333
+Are we meeting this evening?
+
+851
+00:47:59,458 --> 00:48:01,000
+Thank me then?
+
+852
+00:48:02,791 --> 00:48:04,166
+What time, sir?
+
+853
+00:48:07,333 --> 00:48:08,375
+Mr. Bajral?
+
+854
+00:48:08,500 --> 00:48:09,916
+Time?
+
+855
+00:48:12,958 --> 00:48:14,041
+Reyaan!
+
+856
+00:48:18,958 --> 00:48:19,958
+Ms. Sarika.
+
+857
+00:48:20,041 --> 00:48:21,500
+You're early today.
+
+858
+00:48:21,958 --> 00:48:24,041
+Now that I'm here,
+let's start the class?
+
+859
+00:48:26,000 --> 00:48:28,125
+-But, ma'am...
+-You can play cricket later.
+
+860
+00:48:28,250 --> 00:48:30,333
+We'll end class ten minutes early today.
+
+861
+00:48:30,458 --> 00:48:31,958
+-Okay.
+-Come.
+
+862
+00:48:32,041 --> 00:48:33,583
+Bye, Guys. See you later.
+
+863
+00:48:36,500 --> 00:48:39,041
+Ravi, come home, man.
+
+864
+00:48:39,708 --> 00:48:41,791
+Things are not
+what they look like.
+
+865
+00:48:59,166 --> 00:49:00,291
+Hi.
+
+866
+00:49:01,666 --> 00:49:02,916
+So late at night?
+
+867
+00:49:03,000 --> 00:49:04,958
+-What's up?
+-Where's the police report, Akshay?
+
+868
+00:49:05,000 --> 00:49:06,250
+We need to rush.
+
+869
+00:49:06,583 --> 00:49:07,583
+Yes, sir.
+
+870
+00:49:08,916 --> 00:49:10,500
+Celebrating again, are we?
+
+871
+00:49:13,000 --> 00:49:14,958
+If I partied after every win
+
+872
+00:49:15,000 --> 00:49:16,500
+I'd never have reached here.
+
+873
+00:49:17,333 --> 00:49:18,416
+Don't worry, Dad.
+
+874
+00:49:19,041 --> 00:49:21,041
+I'm just one case away
+from winning ten in a row.
+
+875
+00:49:23,375 --> 00:49:25,250
+Don't be so sure
+that the next case
+
+876
+00:49:25,375 --> 00:49:26,958
+will be as easy to win.
+
+877
+00:49:29,333 --> 00:49:30,416
+Goodnight.
+
+878
+00:49:30,666 --> 00:49:31,666
+Goodnight.
+
+879
+00:49:32,375 --> 00:49:33,375
+Goodnight.
+
+880
+00:49:38,500 --> 00:49:43,375
+Justice for Inaaya
+is trending on social media.
+
+881
+00:49:43,666 --> 00:49:45,416
+Inaaya Kothari has been found dead
+
+882
+00:49:45,583 --> 00:49:47,208
+at Surya Niwas Tower, East Delhi.
+
+883
+00:49:47,375 --> 00:49:50,500
+Inaaya Kothari was a social media
+influencer and food critic.
+
+884
+00:49:50,666 --> 00:49:53,375
+Reports say that Inaaya
+committed suicide
+
+885
+00:49:53,500 --> 00:49:54,625
+by hanging herself
+from a ceiling fan.
+
+886
+00:49:54,750 --> 00:49:57,166
+She died because of a failed
+love affair.
+
+887
+00:49:57,458 --> 00:49:59,458
+RIP Inaaya,
+
+888
+00:50:00,041 --> 00:50:04,958
+you brought flavour
+to lots of lives.
+
+889
+00:50:07,000 --> 00:50:08,041
+Neha!
+
+890
+00:50:08,166 --> 00:50:09,625
+Mr. Ahlawat is calling you.
+
+891
+00:50:10,833 --> 00:50:12,083
+Coming.
+
+892
+00:50:14,166 --> 00:50:16,208
+-Yes, sir?
+-Have a seat.
+
+893
+00:50:19,500 --> 00:50:21,958
+What do you know about
+the Inaaya Kothari case?
+
+894
+00:50:22,458 --> 00:50:24,583
+Only what I've seen
+on the news.
+
+895
+00:50:25,666 --> 00:50:27,000
+ACP Kumar.
+
+896
+00:50:27,041 --> 00:50:28,250
+Oh, hello, sir.
+
+897
+00:50:28,375 --> 00:50:30,000
+He's handling the case.
+
+898
+00:50:30,708 --> 00:50:32,625
+I used to follow Inaaya online.
+
+899
+00:50:33,083 --> 00:50:35,625
+I never thought
+she could commit suicide.
+
+900
+00:50:36,208 --> 00:50:38,041
+It wasn't a suicide.
+
+901
+00:50:38,333 --> 00:50:39,958
+It was a murder.
+
+902
+00:50:40,208 --> 00:50:41,833
+According to our investigation,
+
+903
+00:50:41,958 --> 00:50:43,500
+the suicide is staged.
+
+904
+00:50:47,333 --> 00:50:49,041
+Sir, I want this case.
+
+905
+00:50:49,208 --> 00:50:50,875
+That's why I called you.
+
+906
+00:50:52,583 --> 00:50:54,083
+Are there any suspects?
+
+907
+00:50:54,208 --> 00:50:55,208
+Yes.
+
+908
+00:50:55,875 --> 00:50:57,083
+Vikram Bajral.
+
+909
+00:50:57,916 --> 00:50:58,833
+That builder.
+
+910
+00:50:58,958 --> 00:51:00,000
+Vikram uncle.
+
+911
+00:51:00,250 --> 00:51:01,375
+Any problem?
+
+912
+00:51:02,041 --> 00:51:03,208
+No, sir.
+
+913
+00:51:03,375 --> 00:51:06,208
+I think you know
+who is fighting Bajral's case.
+
+914
+00:51:07,500 --> 00:51:08,875
+Let's talk tomorrow.
+
+915
+00:51:09,833 --> 00:51:11,291
+You can't take this case.
+
+916
+00:51:11,500 --> 00:51:12,500
+Simple.
+
+917
+00:51:13,166 --> 00:51:15,208
+I don't think you realise
+that I don't work for you.
+
+918
+00:51:15,375 --> 00:51:16,625
+I don't need your permission.
+
+919
+00:51:16,750 --> 00:51:18,625
+Neha... Are you crazy?
+
+920
+00:51:19,166 --> 00:51:20,833
+You'll fight against
+your father?
+
+921
+00:51:21,083 --> 00:51:23,083
+Please, stay out of it.
+
+922
+00:51:23,208 --> 00:51:24,291
+What do you mean?
+
+923
+00:51:24,500 --> 00:51:27,000
+I can understand that
+it's a high profile case.
+
+924
+00:51:27,333 --> 00:51:28,916
+And you can be a part
+of this case.
+
+925
+00:51:29,666 --> 00:51:31,208
+Join in as my co-counsel.
+
+926
+00:51:31,875 --> 00:51:33,416
+You've proved yourself.
+
+927
+00:51:35,583 --> 00:51:36,583
+Are we negotiating?
+
+928
+00:51:37,041 --> 00:51:38,041
+What?
+
+929
+00:51:39,750 --> 00:51:42,000
+Are we negotiating?
+
+930
+00:51:44,208 --> 00:51:46,250
+What do you want
+to prove, Neha?
+
+931
+00:51:46,916 --> 00:51:48,666
+That you can go up
+against me in court?
+
+932
+00:51:49,041 --> 00:51:50,583
+You don't think
+I'm good enough?
+
+933
+00:51:51,000 --> 00:51:52,166
+Come on, Neha.
+
+934
+00:51:52,916 --> 00:51:54,291
+I thought you were smarter!
+
+935
+00:51:54,875 --> 00:51:56,250
+Can't you see what's happening?
+
+936
+00:51:56,500 --> 00:51:58,458
+Ahlawat, himself a public prosecutor,
+
+937
+00:51:58,625 --> 00:52:00,333
+is afraid to go up against me.
+
+938
+00:52:00,708 --> 00:52:02,458
+That's why he's pushing you forward.
+
+939
+00:52:02,666 --> 00:52:04,875
+He thinks putting you against me
+
+940
+00:52:05,083 --> 00:52:06,291
+will make me weak.
+
+941
+00:52:07,000 --> 00:52:08,208
+It's a cheap trick.
+
+942
+00:52:08,958 --> 00:52:10,125
+Typical of Ahlawat.
+
+943
+00:52:10,416 --> 00:52:12,250
+What do you mean,
+a cheap trick?
+
+944
+00:52:12,708 --> 00:52:14,250
+Give me some credit, Dad.
+
+945
+00:52:14,750 --> 00:52:16,000
+Do you have no faith in me?
+
+946
+00:52:16,083 --> 00:52:17,875
+Think about it, Neha.
+
+947
+00:52:18,208 --> 00:52:21,291
+Giving such a high profile case, to
+an inexperienced lawyer...
+
+948
+00:52:21,458 --> 00:52:22,458
+Why?
+
+949
+00:52:23,083 --> 00:52:24,208
+Unbelievable!
+
+950
+00:52:24,458 --> 00:52:26,041
+Here I'm on a winning streak,
+
+951
+00:52:26,166 --> 00:52:27,875
+and you still don't think
+I'm deserving.
+
+952
+00:52:28,000 --> 00:52:29,958
+Everyone can
+hear you guys outside.
+
+953
+00:52:30,458 --> 00:52:32,125
+What are you both
+fighting about now?
+
+954
+00:52:32,250 --> 00:52:34,208
+Dad doesn't think
+I'm a good lawyer.
+
+955
+00:52:34,916 --> 00:52:36,000
+Of course you are!
+
+956
+00:52:36,166 --> 00:52:37,166
+You're my daughter...
+
+957
+00:52:37,291 --> 00:52:38,958
+Don't try to take credit!
+
+958
+00:52:39,041 --> 00:52:40,083
+You never had time for me?
+
+959
+00:52:40,208 --> 00:52:41,625
+-It was Mom...
+-Stop it!
+
+960
+00:52:42,041 --> 00:52:43,208
+Enough!
+
+961
+00:52:49,958 --> 00:52:51,000
+You know what?
+
+962
+00:52:52,083 --> 00:52:53,000
+Before coming here,
+
+963
+00:52:53,083 --> 00:52:54,875
+I was unsure about
+taking up the case.
+
+964
+00:52:57,250 --> 00:52:58,416
+But now I'm dead sure.
+
+965
+00:53:00,750 --> 00:53:02,291
+I'll fight this case!
+
+966
+00:53:04,958 --> 00:53:06,041
+You want to do this?
+
+967
+00:53:06,416 --> 00:53:07,666
+You'll fight me in court?
+
+968
+00:53:07,791 --> 00:53:09,416
+Ravi, you're talking
+to your daughter!
+
+969
+00:53:09,750 --> 00:53:12,208
+No, I'm talking
+to a public prosecutor!
+
+970
+00:53:13,833 --> 00:53:15,583
+So, Ms. Prosecutor...
+
+971
+00:53:16,083 --> 00:53:17,083
+Be sure,
+
+972
+00:53:17,291 --> 00:53:18,708
+that compared to others,
+
+973
+00:53:18,833 --> 00:53:20,375
+I'm going to be tougher on you.
+
+974
+00:53:21,458 --> 00:53:23,333
+Because as a senior lawyer,
+
+975
+00:53:23,875 --> 00:53:25,958
+I need to
+teach you law.
+
+976
+00:53:26,833 --> 00:53:28,125
+And as a father,
+
+977
+00:53:28,791 --> 00:53:29,916
+teach you respect.
+
+978
+00:53:32,166 --> 00:53:33,875
+See you in the court.
+
+979
+00:53:42,125 --> 00:53:44,833
+Neha... Listen to me.
+
+980
+00:53:45,416 --> 00:53:47,083
+Can we get back to work, Alok?
+
+981
+00:53:50,208 --> 00:53:51,208
+Yeah, Dad.
+
+982
+00:53:59,041 --> 00:54:01,000
+Like father, like daughter.
+
+983
+00:54:01,333 --> 00:54:03,625
+Come on, you don't need
+to move out!
+
+984
+00:54:04,000 --> 00:54:06,916
+Your father and you
+keep having arguments.
+
+985
+00:54:07,416 --> 00:54:09,333
+And you always make us patch up.
+
+986
+00:54:11,166 --> 00:54:12,500
+It isn't a little argument.
+
+987
+00:54:13,000 --> 00:54:13,750
+This could get ugly,
+
+988
+00:54:13,875 --> 00:54:15,791
+and I don't want you
+to get caught up in it.
+
+989
+00:54:16,208 --> 00:54:17,583
+That's why I'm leaving.
+
+990
+00:54:33,791 --> 00:54:35,458
+Ravi, stop her please.
+
+991
+00:54:36,375 --> 00:54:38,375
+Tell her,
+it's just a professional rivalry,
+
+992
+00:54:38,500 --> 00:54:40,000
+that she shouldn't
+take it personally.
+
+993
+00:54:41,125 --> 00:54:42,250
+Rivalry?
+
+994
+00:54:42,750 --> 00:54:44,083
+Between her and me?
+
+995
+00:54:45,041 --> 00:54:46,125
+She won a few cases,
+
+996
+00:54:46,250 --> 00:54:48,583
+and now she thinks
+she can go up against me?
+
+997
+00:54:50,083 --> 00:54:51,333
+You don't worry, Renuka.
+
+998
+00:54:52,041 --> 00:54:54,291
+Once her delusions
+break in court,
+
+999
+00:54:54,750 --> 00:54:56,041
+after that, I assure you,
+
+1000
+00:54:56,166 --> 00:54:58,041
+she'll be back home
+in no time.
+
+1001
+00:54:58,666 --> 00:55:03,041
+♪ Come softly, chiming like the stars ♪
+
+1002
+00:55:04,125 --> 00:55:07,833
+♪ Glow like a tiny firefly ♪
+
+1003
+00:55:09,750 --> 00:55:12,375
+♪ Walk along, humming a tune ♪
+
+1004
+00:55:12,625 --> 00:55:13,625
+Neha!
+
+1005
+00:55:14,333 --> 00:55:18,208
+♪ As the whole world sleeps.. ♪
+
+1006
+00:55:19,000 --> 00:55:22,041
+♪ Till the morning breaks.. ♪
+
+1007
+00:55:22,708 --> 00:55:25,000
+♪ My eyes.. ♪
+
+1008
+00:55:25,416 --> 00:55:30,125
+♪ Talk through the night ♪
+
+1009
+00:55:30,291 --> 00:55:36,333
+♪ That letter burned in your heat ♪
+
+1010
+00:55:36,666 --> 00:55:40,958
+♪ I sigh all through the night ♪
+
+1011
+00:55:42,708 --> 00:55:43,708
+Yes, Mom.
+
+1012
+00:55:44,125 --> 00:55:45,666
+Take care of yourself.
+
+1013
+00:55:46,166 --> 00:55:47,666
+Don't worry, I'll be fine.
+
+1014
+00:55:54,166 --> 00:55:56,916
+♪ O Life ♪
+
+1015
+00:55:57,375 --> 00:55:59,708
+♪ Shake me awake ♪
+
+1016
+00:56:00,166 --> 00:56:03,416
+♪ Neither sleep nor peace will come ♪
+
+1017
+00:56:03,791 --> 00:56:06,666
+♪ Till the morning breaks ♪
+
+1018
+00:56:07,291 --> 00:56:09,833
+♪ My eyes.. ♪
+
+1019
+00:56:09,958 --> 00:56:11,833
+That door over there.
+
+1020
+00:56:12,041 --> 00:56:14,000
+-How much is it?
+-Ninety five rupees.
+
+1021
+00:56:14,208 --> 00:56:15,583
+Come on, help!
+
+1022
+00:56:15,958 --> 00:56:17,833
+♪ Until morning.. ♪
+
+1023
+00:56:29,625 --> 00:56:35,458
+♪ All my dreams have turned away ♪
+
+1024
+00:56:36,333 --> 00:56:40,708
+♪ Tonight they question me ♪
+
+1025
+00:56:40,875 --> 00:56:43,041
+♪ How do I find the answers? ♪
+
+1026
+00:56:43,208 --> 00:56:45,458
+This is the best I could arrange
+at a short notice.
+
+1027
+00:56:45,875 --> 00:56:46,916
+I hope it's all right?
+
+1028
+00:56:47,000 --> 00:56:48,291
+Yes, it's good.
+
+1029
+00:56:48,583 --> 00:56:50,166
+You're not used to this, right?
+
+1030
+00:56:51,000 --> 00:56:53,083
+I'm not used to
+being a Prosecutor either.
+
+1031
+00:57:02,166 --> 00:57:04,583
+♪ Till the morning breaks.. ♪
+
+1032
+00:57:06,000 --> 00:57:08,166
+♪ My eyes. ♪
+
+1033
+00:57:08,833 --> 00:57:13,416
+♪ Talk through the night ♪
+
+1034
+00:57:15,791 --> 00:57:17,208
+We love you, sweetheart.
+
+1035
+00:57:17,791 --> 00:57:19,375
+I love you too, Mom.
+
+1036
+00:57:21,041 --> 00:57:24,208
+♪ Neither sleep nor peace will come ♪
+
+1037
+00:57:24,500 --> 00:57:27,666
+♪ Till the morning breaks ♪
+
+1038
+00:57:30,666 --> 00:57:33,041
+The man you'll face in the court...
+
+1039
+00:57:33,208 --> 00:57:35,125
+You've probably never met him before.
+
+1040
+00:57:35,291 --> 00:57:36,833
+It's not about winning cases...
+
+1041
+00:57:36,875 --> 00:57:40,458
+Mr. Rajvansh's goal is to crush
+the opposing counsel so badly,
+
+1042
+00:57:41,166 --> 00:57:43,083
+that they can never recover.
+
+1043
+00:57:43,875 --> 00:57:45,083
+Don't worry, sir.
+
+1044
+00:57:45,208 --> 00:57:47,041
+I won't disappoint you.
+
+1045
+00:57:47,333 --> 00:57:48,958
+You better be fully prepared.
+
+1046
+00:57:49,708 --> 00:57:54,791
+♪ Bless us tonight ♪
+
+1047
+00:57:56,041 --> 00:58:01,458
+♪ Let the night keep burning ♪
+
+1048
+00:58:02,416 --> 00:58:05,166
+♪ O Life ♪
+
+1049
+00:58:05,708 --> 00:58:08,375
+♪ Shake me awake ♪
+
+1050
+00:58:08,666 --> 00:58:11,833
+♪ Neither sleep nor peace will come ♪
+
+1051
+00:58:11,958 --> 00:58:15,000
+♪ Till the morning breaks ♪
+
+1052
+00:58:15,708 --> 00:58:17,958
+♪ My eyes.. ♪
+
+1053
+00:58:18,458 --> 00:58:22,291
+♪ Talk through the night ♪
+
+1054
+00:58:27,458 --> 00:58:30,250
+Why do you think
+Inaaya's death wasn't suicide?
+
+1055
+00:58:30,666 --> 00:58:32,083
+Two reasons...
+
+1056
+00:58:32,416 --> 00:58:34,916
+Firstly, there was
+no suicide note.
+
+1057
+00:58:35,041 --> 00:58:37,791
+Suicide victims usually
+leave behind a note.
+
+1058
+00:58:38,000 --> 00:58:40,916
+And secondly,
+these ligature marks.
+
+1059
+00:58:41,041 --> 00:58:44,041
+In cases of suicide,
+the marks usually form
+
+1060
+00:58:44,125 --> 00:58:46,750
+at points bearing maximum pressure
+of body...
+
+1061
+00:58:46,875 --> 00:58:49,208
+Such as the sides
+and back of the neck.
+
+1062
+00:58:49,333 --> 00:58:52,208
+But the suspension marks on her
+are all around her neck.
+
+1063
+00:58:52,333 --> 00:58:55,916
+This is usually
+a sign of strangulation.
+
+1064
+00:58:57,625 --> 00:58:59,166
+And why has Bajral been arrested?
+
+1065
+00:58:59,291 --> 00:59:02,250
+While searching Inaaya's place,
+we found these pictures.
+
+1066
+00:59:03,041 --> 00:59:05,666
+We couldn't find the phone
+used to click these photos
+
+1067
+00:59:05,791 --> 00:59:08,958
+or the one through which
+Bajral was being blackmailed.
+
+1068
+00:59:09,250 --> 00:59:11,041
+Obviously, Bajral either broke it,
+
+1069
+00:59:11,166 --> 00:59:13,083
+or got rid of it.
+God knows.
+
+1070
+00:59:13,458 --> 00:59:15,708
+Obviously, he runs
+such a huge business.
+
+1071
+00:59:16,041 --> 00:59:17,208
+He wouldn't be so stupid.
+
+1072
+00:59:17,333 --> 00:59:20,041
+Good for us that he didn't find
+the physical photos.
+
+1073
+00:59:20,458 --> 00:59:23,041
+Any other evidence that links
+Bajral to the crime scene?
+
+1074
+00:59:23,166 --> 00:59:27,000
+Yes, we got this picture
+
+1075
+00:59:27,125 --> 00:59:28,333
+of a broken glass.
+
+1076
+00:59:28,625 --> 00:59:30,875
+It must've broken during
+the struggle.
+
+1077
+00:59:31,000 --> 00:59:32,708
+It has Bajral's fingerprints.
+
+1078
+00:59:32,875 --> 00:59:34,666
+Other than CCTV footage,
+
+1079
+00:59:34,791 --> 00:59:36,000
+we also have eyewitnesses
+
+1080
+00:59:36,083 --> 00:59:39,166
+who confirmed Bajral's presence
+at the time of the murder.
+
+1081
+00:59:40,500 --> 00:59:43,291
+Vikram Bajral has handed
+this case to us on a platter.
+
+1082
+00:59:43,500 --> 00:59:46,666
+You just prepare the opening
+and closing statements.
+
+1083
+00:59:49,208 --> 00:59:51,041
+What does Bajral
+say about all of this?
+
+1084
+00:59:51,208 --> 00:59:53,708
+I've got nothing to do with this.
+
+1085
+00:59:55,250 --> 00:59:56,291
+I'm being framed.
+
+1086
+00:59:57,208 --> 00:59:58,208
+Okay.
+
+1087
+00:59:58,875 --> 01:00:01,291
+So what were you doing
+at that apartment complex?
+
+1088
+01:00:01,833 --> 01:00:03,041
+Check my messages.
+
+1089
+01:00:03,375 --> 01:00:04,875
+I was told to bring money
+
+1090
+01:00:05,000 --> 01:00:06,416
+to the terrace of that
+apartment complex.
+
+1091
+01:00:06,916 --> 01:00:07,750
+So I went.
+
+1092
+01:00:07,916 --> 01:00:09,500
+Were there no other instructions?
+
+1093
+01:00:09,750 --> 01:00:11,750
+I was there for half an hour.
+
+1094
+01:00:12,041 --> 01:00:15,000
+No one came. In fact,
+there was no message either.
+
+1095
+01:00:15,041 --> 01:00:16,291
+So I left.
+
+1096
+01:00:17,041 --> 01:00:18,916
+I swear on God,
+
+1097
+01:00:19,083 --> 01:00:21,041
+the whole time,
+I was on the terrace.
+
+1098
+01:00:22,041 --> 01:00:23,041
+Trust me.
+
+1099
+01:00:24,666 --> 01:00:26,291
+According to the police report...
+
+1100
+01:00:27,041 --> 01:00:28,666
+You've destroyed evidence too.
+
+1101
+01:00:29,458 --> 01:00:32,041
+And the phone that was used
+to message you
+
+1102
+01:00:33,166 --> 01:00:35,666
+wasn't found
+even at the blackmailer's house.
+
+1103
+01:00:36,000 --> 01:00:37,666
+Now answer me carefully...
+
+1104
+01:00:37,916 --> 01:00:40,208
+I'm not interested in
+how you might know this.
+
+1105
+01:00:40,416 --> 01:00:43,000
+But do you have any idea
+where that phone might be?
+
+1106
+01:00:43,041 --> 01:00:46,583
+I have no freaking idea
+who was blackmailing me...
+
+1107
+01:00:46,708 --> 01:00:49,583
+How the hell would I know
+where the phone is?
+
+1108
+01:00:51,958 --> 01:00:53,083
+Please trust me on this.
+
+1109
+01:00:53,333 --> 01:00:55,000
+All right, all right.
+All I'm saying is,
+
+1110
+01:00:55,041 --> 01:00:57,416
+whatever you say
+will stay between us...
+
+1111
+01:00:57,583 --> 01:00:58,625
+But please,
+
+1112
+01:00:58,750 --> 01:01:00,875
+be absolutely honest with me.
+
+1113
+01:01:03,000 --> 01:01:05,041
+Ravi, for how many years
+have you known me?
+
+1114
+01:01:06,750 --> 01:01:09,000
+I didn't even know the girl!
+
+1115
+01:01:09,166 --> 01:01:11,041
+Why would I kill her?
+
+1116
+01:01:13,250 --> 01:01:14,750
+Please get me out of this.
+
+1117
+01:01:16,000 --> 01:01:18,916
+Now please get me out of this!
+
+1118
+01:01:22,166 --> 01:01:24,000
+Even the police couldn't
+find the phone...
+
+1119
+01:01:24,083 --> 01:01:25,708
+Someone must have it.
+
+1120
+01:01:26,208 --> 01:01:28,208
+It's crucial that we
+find that phone, Akshay.
+
+1121
+01:01:28,333 --> 01:01:30,291
+Put your best detectives on it.
+
+1122
+01:01:30,791 --> 01:01:32,833
+We have to know
+whose phone it was,
+
+1123
+01:01:32,958 --> 01:01:34,916
+and who was sending
+those messages to Vikram.
+
+1124
+01:01:35,000 --> 01:01:36,000
+All right, sir.
+
+1125
+01:01:36,125 --> 01:01:39,000
+What do you think? Is
+Vikram Bajral telling the truth?
+
+1126
+01:01:39,666 --> 01:01:41,375
+He did accept the blackmail angle.
+
+1127
+01:01:41,958 --> 01:01:43,708
+He's refusing involvement
+but has a motive.
+
+1128
+01:01:43,833 --> 01:01:44,916
+Isn't it strange?
+
+1129
+01:01:45,000 --> 01:01:46,375
+He can't hide the blackmail.
+
+1130
+01:01:46,750 --> 01:01:49,166
+The police found photographs
+on the crime scene, right?
+
+1131
+01:01:49,583 --> 01:01:50,916
+He's just making up a story
+
+1132
+01:01:51,000 --> 01:01:52,291
+about how he was framed.
+
+1133
+01:01:53,000 --> 01:01:55,041
+He's an old friend of my Dad's.
+
+1134
+01:01:55,416 --> 01:01:56,625
+His vibe was always off,
+
+1135
+01:01:56,750 --> 01:01:58,916
+but he never came across
+as the murderer type.
+
+1136
+01:01:59,083 --> 01:02:01,250
+Did he seem the type
+who would have an affair?
+
+1137
+01:02:01,875 --> 01:02:04,916
+Come on! Anyone can
+have an affair. Even you!
+
+1138
+01:02:05,666 --> 01:02:06,916
+I mean...
+
+1139
+01:02:07,583 --> 01:02:10,208
+I mean you can't compare
+an affair to a murder.
+
+1140
+01:02:11,250 --> 01:02:12,250
+No...
+
+1141
+01:02:12,625 --> 01:02:13,708
+I just mean to say that...
+
+1142
+01:02:13,833 --> 01:02:15,666
+All of us hide our real face
+from the world
+
+1143
+01:02:19,333 --> 01:02:20,750
+-Add it to the tab.
+-Sure.
+
+1144
+01:02:21,916 --> 01:02:22,916
+Police...
+
+1145
+01:02:23,166 --> 01:02:25,250
+Undercover police!
+
+1146
+01:02:25,875 --> 01:02:26,916
+Police...
+
+1147
+01:02:27,041 --> 01:02:28,041
+Un...
+
+1148
+01:02:28,916 --> 01:02:30,791
+Come on,
+it wasn't such a bad joke.
+
+1149
+01:02:31,166 --> 01:02:32,250
+Give me your phone.
+
+1150
+01:02:33,166 --> 01:02:34,250
+Come on!
+
+1151
+01:02:38,041 --> 01:02:39,041
+What?
+
+1152
+01:02:40,208 --> 01:02:41,708
+This thing between us?
+
+1153
+01:02:42,625 --> 01:02:43,708
+It's over now.
+
+1154
+01:02:45,958 --> 01:02:46,958
+What?
+
+1155
+01:02:47,125 --> 01:02:49,916
+Even the police warn you
+before shooting.
+
+1156
+01:02:50,000 --> 01:02:52,000
+You shot me straight in
+the chest without warning!
+
+1157
+01:02:52,791 --> 01:02:54,750
+It's not like we started
+with an application.
+
+1158
+01:02:55,916 --> 01:02:57,958
+Did I do something wrong, tell me?
+
+1159
+01:02:58,208 --> 01:02:59,708
+Both of us are at fault.
+
+1160
+01:03:00,750 --> 01:03:02,208
+We're both married.
+
+1161
+01:03:04,041 --> 01:03:06,041
+And you just realised this?
+
+1162
+01:03:06,916 --> 01:03:09,000
+Listen...
+Our marriages will carry on.
+
+1163
+01:03:09,083 --> 01:03:10,708
+Let this continue too, please.
+
+1164
+01:03:11,041 --> 01:03:13,250
+Were you using me?
+
+1165
+01:03:15,166 --> 01:03:16,708
+Think whatever you want.
+
+1166
+01:03:26,833 --> 01:03:28,125
+Case no. 112.
+
+1167
+01:03:28,416 --> 01:03:30,291
+Delhi Court versus Vikram Bajral.
+
+1168
+01:03:30,416 --> 01:03:32,500
+On the charges of culpable homicide.
+
+1169
+01:03:34,291 --> 01:03:37,000
+-Who's representing the defendant?
+-I am.
+
+1170
+01:03:37,250 --> 01:03:38,791
+Ravi Rajvansh, Your Honour.
+
+1171
+01:03:41,250 --> 01:03:42,708
+And Prosecution?
+
+1172
+01:03:44,041 --> 01:03:45,250
+Neha Rajvansh.
+
+1173
+01:03:49,833 --> 01:03:51,041
+Okay, let's proceed.
+
+1174
+01:03:51,375 --> 01:03:52,916
+How does the defendant plead?
+
+1175
+01:03:54,041 --> 01:03:55,708
+Not guilty, Your Honour.
+
+1176
+01:03:55,958 --> 01:03:58,916
+The defence has applied for bail.
+
+1177
+01:03:59,250 --> 01:04:01,750
+Your Honour, with all due respect,
+bail is out of the question.
+
+1178
+01:04:01,875 --> 01:04:03,791
+The defendant is accused of a murder.
+
+1179
+01:04:04,916 --> 01:04:07,375
+An accused and a criminal
+are not the same, Your Honour.
+
+1180
+01:04:07,791 --> 01:04:11,208
+If basics of the law need to
+be explained to the Prosecution,
+
+1181
+01:04:11,500 --> 01:04:13,458
+it will be a waste
+of the court's time.
+
+1182
+01:04:14,416 --> 01:04:16,250
+If the prosecution is worried
+
+1183
+01:04:16,375 --> 01:04:19,125
+that my client will leave India
+if bail is granted,
+
+1184
+01:04:19,416 --> 01:04:21,041
+then let me assure the court
+
+1185
+01:04:21,250 --> 01:04:23,500
+Mr. Vikram Bajral is a respected
+
+1186
+01:04:23,666 --> 01:04:24,833
+and law abiding citizen...
+
+1187
+01:04:24,958 --> 01:04:26,833
+-Your Honour--
+-Who has total faith
+
+1188
+01:04:26,958 --> 01:04:28,833
+in this country's justice system.
+
+1189
+01:04:29,875 --> 01:04:31,916
+Your Honour, the prosecution
+is also aware
+
+1190
+01:04:32,000 --> 01:04:34,375
+that Mr. Bajral is a popular
+and well connected man.
+
+1191
+01:04:34,500 --> 01:04:35,000
+Yes.
+
+1192
+01:04:35,125 --> 01:04:36,375
+If he is granted bail,
+
+1193
+01:04:36,583 --> 01:04:38,375
+he could influence
+the investigation.
+
+1194
+01:04:38,500 --> 01:04:40,250
+Yes, he is a big businessman.
+
+1195
+01:04:40,500 --> 01:04:41,666
+That's not a crime.
+
+1196
+01:04:41,791 --> 01:04:42,958
+In fact, it means
+
+1197
+01:04:43,041 --> 01:04:46,291
+that his responsibilities are not
+limited to just his family.
+
+1198
+01:04:46,708 --> 01:04:49,958
+He has responsibilities towards
+his employees and home buyers.
+
+1199
+01:04:50,041 --> 01:04:51,875
+-Your Honour--
+-These responsibilities
+
+1200
+01:04:52,000 --> 01:04:53,250
+cannot be handled from jail.
+
+1201
+01:04:53,375 --> 01:04:54,833
+This is a huge risk, Your Honour.
+
+1202
+01:04:54,958 --> 01:04:56,041
+Enough.
+
+1203
+01:04:56,708 --> 01:05:00,041
+This court accepts the defendant's
+bail application,
+
+1204
+01:05:00,250 --> 01:05:02,708
+and sets the bail
+at 2 lakh rupees.
+
+1205
+01:05:02,833 --> 01:05:04,791
+Along with that, Mr. Vikram Bajral
+
+1206
+01:05:04,916 --> 01:05:08,041
+is ordered to surrender
+his passport to the court.
+
+1207
+01:05:14,666 --> 01:05:15,791
+Princess.
+
+1208
+01:05:18,458 --> 01:05:19,583
+Sir, big fan of yours.
+
+1209
+01:05:19,708 --> 01:05:20,833
+Atma!
+
+1210
+01:05:21,125 --> 01:05:22,208
+Sir...
+
+1211
+01:05:25,000 --> 01:05:27,708
+She used to like me
+calling her Princess.
+
+1212
+01:05:28,958 --> 01:05:30,666
+She used to like you too, Dad.
+
+1213
+01:05:39,250 --> 01:05:41,083
+-Okay.
+-Anita, update the calendar.
+
+1214
+01:05:41,208 --> 01:05:42,208
+Sir?
+
+1215
+01:05:43,291 --> 01:05:45,083
+The SIM card from which Mr. Bajral
+
+1216
+01:05:45,208 --> 01:05:46,958
+was getting the blackmail messages
+
+1217
+01:05:47,041 --> 01:05:48,791
+has been deactivated for a while.
+
+1218
+01:05:48,916 --> 01:05:52,208
+We are trying to track down
+the IMEI number.
+
+1219
+01:05:52,333 --> 01:05:54,000
+But it is not showing up.
+
+1220
+01:05:54,791 --> 01:05:56,958
+Either the phone is switched off.
+
+1221
+01:05:57,333 --> 01:05:58,666
+Or it has been destroyed.
+
+1222
+01:05:59,208 --> 01:06:00,791
+Who does it belong to?
+Did we find out?
+
+1223
+01:06:00,916 --> 01:06:02,833
+It's registered to some
+Abdullah Sheikh
+
+1224
+01:06:03,166 --> 01:06:04,708
+who lives around Khidki village.
+
+1225
+01:06:04,833 --> 01:06:06,958
+But he said his phone
+was stolen last year.
+
+1226
+01:06:07,041 --> 01:06:08,208
+-Vikram...
+-Yes?
+
+1227
+01:06:08,666 --> 01:06:09,666
+Do you suspect anyone?
+
+1228
+01:06:09,791 --> 01:06:10,916
+Who could be doing this?
+
+1229
+01:06:12,375 --> 01:06:13,375
+No, Ravi.
+
+1230
+01:06:13,916 --> 01:06:14,916
+All right.
+
+1231
+01:06:15,666 --> 01:06:18,166
+Any man you've ever
+had a clash with,
+
+1232
+01:06:18,416 --> 01:06:21,208
+any woman you've ever
+had anything with...
+
+1233
+01:06:21,625 --> 01:06:23,000
+We need to make
+a list of everyone.
+
+1234
+01:06:23,208 --> 01:06:24,291
+Are you serious?
+
+1235
+01:06:24,958 --> 01:06:25,958
+Everyone?
+
+1236
+01:06:34,458 --> 01:06:36,208
+Oh, God! Are you okay?
+
+1237
+01:06:39,250 --> 01:06:40,333
+25 minutes.
+
+1238
+01:06:41,041 --> 01:06:43,041
+Vikram Bajral's version is that
+
+1239
+01:06:43,166 --> 01:06:45,291
+he waited her for 45 minutes.
+
+1240
+01:06:45,791 --> 01:06:48,791
+In our version, he went
+down the stairs during this time
+
+1241
+01:06:48,916 --> 01:06:51,791
+to the 8th floor,
+murdered Inaaya there,
+
+1242
+01:06:51,916 --> 01:06:54,125
+and then climbed back up the stairs.
+
+1243
+01:06:54,250 --> 01:06:56,791
+How?
+Is he Virat Kohli or something?
+
+1244
+01:06:57,416 --> 01:06:58,750
+You have a point.
+
+1245
+01:06:58,958 --> 01:07:00,250
+Bajral is double his age
+
+1246
+01:07:00,375 --> 01:07:01,291
+and a heart patient too.
+
+1247
+01:07:01,416 --> 01:07:02,750
+See this.
+
+1248
+01:07:05,416 --> 01:07:06,791
+He doesn't look tired at all.
+
+1249
+01:07:07,375 --> 01:07:10,125
+And if he indeed
+went down 20 floors,
+
+1250
+01:07:10,250 --> 01:07:12,375
+killed her,
+then climbed up the stairs...
+
+1251
+01:07:12,500 --> 01:07:16,458
+We'd be discussing his autopsy report
+along with Inaaya's.
+
+1252
+01:07:18,958 --> 01:07:19,958
+Let's go.
+
+1253
+01:07:21,250 --> 01:07:22,875
+According to the CCTV footage,
+
+1254
+01:07:23,000 --> 01:07:25,791
+He was right here
+
+1255
+01:07:25,916 --> 01:07:27,250
+from 5:30 to 6:15 p.m.
+
+1256
+01:07:30,708 --> 01:07:33,083
+And according to Inaaya's
+autopsy report,
+
+1257
+01:07:33,250 --> 01:07:35,291
+she was murdered
+in this time frame.
+
+1258
+01:07:37,125 --> 01:07:39,083
+How much do you think
+a house here would cost?
+
+1259
+01:07:39,208 --> 01:07:41,000
+Must be 50, or 60 thousand?
+
+1260
+01:07:41,250 --> 01:07:42,333
+Thousand?
+
+1261
+01:07:42,750 --> 01:07:44,791
+To buy, not rent!
+
+1262
+01:07:45,333 --> 01:07:46,750
+40 million.
+
+1263
+01:07:48,041 --> 01:07:51,000
+With my salary,
+I can't even dream of buying.
+
+1264
+01:07:52,291 --> 01:07:53,833
+40 million!
+
+1265
+01:07:54,708 --> 01:07:56,708
+Are you thinking of buying a house?
+
+1266
+01:07:57,041 --> 01:07:59,250
+Our salaries aren't all that different.
+
+1267
+01:08:00,041 --> 01:08:01,625
+This was Inaaya's house.
+
+1268
+01:08:01,750 --> 01:08:02,916
+She owned it.
+
+1269
+01:08:03,125 --> 01:08:06,333
+How can a small-time blogger
+afford such an expensive house?
+
+1270
+01:08:06,750 --> 01:08:07,666
+It's simple...
+
+1271
+01:08:07,791 --> 01:08:09,625
+By blackmailing rich men
+like Vikram Bajral.
+
+1272
+01:08:12,791 --> 01:08:14,500
+Come on, let's go.
+
+1273
+01:08:16,666 --> 01:08:18,041
+All set for tomorrow?
+
+1274
+01:08:19,416 --> 01:08:21,333
+I went to Surya Niwas towers today.
+
+1275
+01:08:21,833 --> 01:08:23,375
+You have a tutoring job there?
+
+1276
+01:08:23,791 --> 01:08:25,083
+I saw your poster there.
+
+1277
+01:08:25,875 --> 01:08:27,125
+Yes, I have a student there.
+
+1278
+01:08:27,458 --> 01:08:28,500
+Reyaan.
+
+1279
+01:08:28,666 --> 01:08:29,916
+Very sweet boy.
+
+1280
+01:08:30,000 --> 01:08:31,916
+But really bad at maths!
+
+1281
+01:08:32,750 --> 01:08:34,500
+Did you ever see Inaaya around?
+
+1282
+01:08:34,666 --> 01:08:36,291
+Even if I did,
+I wouldn't have realised.
+
+1283
+01:08:36,625 --> 01:08:38,958
+I don't know much
+about these blogger types.
+
+1284
+01:08:41,291 --> 01:08:43,000
+Nervous about tomorrow?
+
+1285
+01:08:44,250 --> 01:08:45,250
+Honestly...
+
+1286
+01:08:46,875 --> 01:08:48,041
+I am, a little.
+
+1287
+01:08:48,958 --> 01:08:51,125
+That's why I'm reworking
+my opening statement
+
+1288
+01:08:51,791 --> 01:08:53,375
+It will all be okay,
+don't worry.
+
+1289
+01:08:56,750 --> 01:08:59,791
+Your Honour, Inaaya Kothari
+was a social media influencer.
+
+1290
+01:09:00,083 --> 01:09:01,291
+Apart from food blogging,
+
+1291
+01:09:01,416 --> 01:09:04,625
+she uploaded scandalous stories
+on her social media.
+
+1292
+01:09:05,166 --> 01:09:08,291
+One of these stories was
+that of Mr. Vikram Bajral's affair.
+
+1293
+01:09:08,500 --> 01:09:11,291
+As soon as Inaaya got to know
+about Mr. Bajral's affair,
+
+1294
+01:09:11,666 --> 01:09:13,000
+she started blackmailing him.
+
+1295
+01:09:13,291 --> 01:09:16,625
+In the world of real estate,
+Mr. Bajral has a formidable reputation.
+
+1296
+01:09:16,750 --> 01:09:19,041
+It's said that
+whenever he enters a deal,
+
+1297
+01:09:19,250 --> 01:09:21,583
+and the other party
+refuses his terms,
+
+1298
+01:09:21,916 --> 01:09:24,333
+they're left in no position
+to do business at all.
+
+1299
+01:09:24,458 --> 01:09:25,791
+In this case,
+
+1300
+01:09:25,916 --> 01:09:28,250
+we will be presenting
+evidence to prove...
+
+1301
+01:09:28,500 --> 01:09:31,750
+That something similar
+happened to Inaaya.
+
+1302
+01:09:31,875 --> 01:09:34,250
+In this secret deal
+with Mr. Vikram Bajral,
+
+1303
+01:09:34,583 --> 01:09:36,833
+Inaaya Kothari was the one
+setting the terms.
+
+1304
+01:09:37,125 --> 01:09:41,250
+And being true to his nature,
+Mr. Bajral got rid of her.
+
+1305
+01:09:41,916 --> 01:09:43,000
+This, Your Honour,
+
+1306
+01:09:43,125 --> 01:09:45,000
+is a case of cold-blooded,
+
+1307
+01:09:45,125 --> 01:09:46,916
+premeditated murder.
+
+1308
+01:09:48,000 --> 01:09:49,000
+That's all.
+
+1309
+01:09:53,916 --> 01:09:55,041
+Your Honour,
+
+1310
+01:09:55,916 --> 01:09:57,083
+I paid close attention
+
+1311
+01:09:57,208 --> 01:09:59,041
+to the prosecution's
+opening statement.
+
+1312
+01:09:59,250 --> 01:10:00,250
+As a defence lawyer,
+
+1313
+01:10:00,375 --> 01:10:02,916
+to disprove every claim
+of the prosecution
+
+1314
+01:10:03,208 --> 01:10:04,208
+is my job.
+
+1315
+01:10:04,375 --> 01:10:06,000
+But I'd like to compliment them.
+
+1316
+01:10:06,083 --> 01:10:09,083
+That in their opening statement
+they've been rather truthful.
+
+1317
+01:10:09,583 --> 01:10:11,708
+I agree with the prosecution
+
+1318
+01:10:11,833 --> 01:10:13,000
+that Mr. Vikram Bajral
+
+1319
+01:10:13,083 --> 01:10:15,000
+is a very reputed businessman.
+
+1320
+01:10:15,291 --> 01:10:17,125
+He is aggressive and ruthless,
+
+1321
+01:10:17,666 --> 01:10:18,916
+as he should be.
+
+1322
+01:10:19,041 --> 01:10:20,916
+After all,
+he's running a business.
+
+1323
+01:10:21,041 --> 01:10:22,750
+Not an orphanage or old age home.
+
+1324
+01:10:23,083 --> 01:10:24,708
+As the prosecution has stated,
+
+1325
+01:10:24,833 --> 01:10:25,833
+despite being married,
+
+1326
+01:10:25,958 --> 01:10:28,708
+Mr. Vikram Bajral had
+an extramarital relationship.
+
+1327
+01:10:29,000 --> 01:10:30,000
+Is that true?
+
+1328
+01:10:30,458 --> 01:10:31,708
+Absolutely.
+
+1329
+01:10:32,291 --> 01:10:34,208
+He's definitely guilty
+of cheating on his wife.
+
+1330
+01:10:34,875 --> 01:10:37,041
+Does this affect his reputation?
+
+1331
+01:10:37,291 --> 01:10:38,208
+Sure, it does.
+
+1332
+01:10:38,333 --> 01:10:40,708
+But just to save his reputation,
+
+1333
+01:10:41,000 --> 01:10:43,000
+to murder Inaaya Kothari
+
+1334
+01:10:43,250 --> 01:10:45,708
+is something that he's not guilty of.
+
+1335
+01:10:45,833 --> 01:10:48,083
+Mr. Vikram Bajral
+is not a criminal,
+
+1336
+01:10:48,250 --> 01:10:50,083
+and he is definitely
+not a murderer.
+
+1337
+01:10:50,208 --> 01:10:52,750
+And the botched up way
+Inaaya Kothari's murder
+
+1338
+01:10:52,875 --> 01:10:54,833
+was staged as a suicide...
+
+1339
+01:10:55,125 --> 01:10:58,916
+It looks like the work of
+a very careless and stupid person.
+
+1340
+01:10:59,166 --> 01:11:00,375
+And me and my client...
+
+1341
+01:11:00,500 --> 01:11:01,666
+We take offense to that.
+
+1342
+01:11:01,791 --> 01:11:04,708
+Because my client Mr. Vikram Bajral
+might be many things...
+
+1343
+01:11:04,875 --> 01:11:07,125
+But he is neither
+careless nor stupid.
+
+1344
+01:11:08,958 --> 01:11:10,375
+That's all, Your Honour.
+
+1345
+01:11:13,208 --> 01:11:14,916
+Sir, the evidence is circumstantial
+
+1346
+01:11:15,000 --> 01:11:16,708
+but the motive is clear.
+
+1347
+01:11:16,833 --> 01:11:19,625
+We found Mr. Bajral's photographs
+in Inaaya's apartment.
+
+1348
+01:11:19,750 --> 01:11:22,708
+The prosecution perhaps
+didn't pay as much attention
+
+1349
+01:11:23,041 --> 01:11:24,875
+as I did during
+their opening statement.
+
+1350
+01:11:25,000 --> 01:11:27,083
+That picture,
+and the rest of the evidence
+
+1351
+01:11:27,666 --> 01:11:28,833
+has been planted.
+
+1352
+01:11:29,750 --> 01:11:32,208
+The photos were found,
+but why wasn't the phone?
+
+1353
+01:11:32,333 --> 01:11:35,000
+The one used to click the pictures,
+and blackmail?
+
+1354
+01:11:35,041 --> 01:11:38,041
+Possibly, after the murder,
+Mr. Bajral destroyed the phone.
+
+1355
+01:11:38,958 --> 01:11:40,000
+"Possibly?"
+
+1356
+01:11:40,375 --> 01:11:41,375
+Possibly.
+
+1357
+01:11:41,750 --> 01:11:44,708
+The prosecution's entire case
+is built on a vague possibility.
+
+1358
+01:11:44,875 --> 01:11:45,875
+But the fact is
+
+1359
+01:11:46,000 --> 01:11:47,125
+that Mr. Vikram Bajral
+
+1360
+01:11:47,458 --> 01:11:49,125
+didn't even know Inaaya Kothari.
+
+1361
+01:11:49,666 --> 01:11:50,791
+The fact is
+
+1362
+01:11:50,916 --> 01:11:52,875
+that the building CCTV camera footage
+
+1363
+01:11:53,000 --> 01:11:56,083
+shows Mr. Vikram Bajral
+entering and exiting.
+
+1364
+01:11:56,208 --> 01:11:59,750
+That complex has 150 other flats,
+not just Inaaya's.
+
+1365
+01:12:00,291 --> 01:12:01,291
+Fact.
+
+1366
+01:12:01,791 --> 01:12:02,875
+And it is also a fact
+
+1367
+01:12:03,000 --> 01:12:04,958
+that Mr. Vikram Bajral was
+instructed by the kidnapper
+
+1368
+01:12:05,041 --> 01:12:06,250
+to come to the terrace
+
+1369
+01:12:06,583 --> 01:12:08,791
+But he went to Inaaya's apartment.
+
+1370
+01:12:08,916 --> 01:12:09,833
+That's not a fact,
+
+1371
+01:12:09,958 --> 01:12:11,041
+but pure conjecture.
+
+1372
+01:12:12,125 --> 01:12:14,666
+Mr. Bajral's fingerprints
+were found at the crime scene.
+
+1373
+01:12:14,875 --> 01:12:17,166
+There was a huge confrontation
+before the murder...
+
+1374
+01:12:17,291 --> 01:12:20,875
+And in the entire house, only one
+glass had Mr. Bajral's fingerprints.
+
+1375
+01:12:22,000 --> 01:12:23,333
+Don't you think
+
+1376
+01:12:23,791 --> 01:12:25,958
+this glass could be
+planted evidence?
+
+1377
+01:12:27,083 --> 01:12:28,125
+Your Honour,
+
+1378
+01:12:28,250 --> 01:12:29,791
+from the defence's arguments,
+
+1379
+01:12:29,916 --> 01:12:31,916
+it seems, Mr. Vikram
+neither killed her,
+
+1380
+01:12:32,041 --> 01:12:34,375
+nor was Inaaya Kothari
+blackmailing him.
+
+1381
+01:12:35,333 --> 01:12:36,375
+Your Honour,
+
+1382
+01:12:37,208 --> 01:12:39,041
+even after Inaaya Kothari's death
+
+1383
+01:12:39,125 --> 01:12:40,750
+the way she is being maligned
+
+1384
+01:12:40,875 --> 01:12:42,666
+as a blackmailer...
+
+1385
+01:12:42,833 --> 01:12:44,750
+It's... rather unfortunate.
+
+1386
+01:12:45,500 --> 01:12:46,958
+The defence contends
+
+1387
+01:12:47,083 --> 01:12:48,916
+and we will prove
+
+1388
+01:12:49,208 --> 01:12:51,708
+that behind this murder
+and blackmail,
+
+1389
+01:12:51,833 --> 01:12:53,791
+there is a single person
+
+1390
+01:12:54,041 --> 01:12:57,000
+who has conspired
+to frame my client.
+
+1391
+01:12:57,791 --> 01:12:59,291
+I would like to
+request the police too
+
+1392
+01:12:59,416 --> 01:13:00,958
+to reopen this investigation
+
+1393
+01:13:01,041 --> 01:13:02,791
+with a renewed perspective
+
+1394
+01:13:02,916 --> 01:13:04,791
+so that the deceased and her family
+
+1395
+01:13:05,333 --> 01:13:06,833
+can actually get justice.
+
+1396
+01:13:08,250 --> 01:13:09,708
+That's all, Your Honour.
+
+1397
+01:13:16,083 --> 01:13:17,708
+"David versus Goliath"
+
+1398
+01:13:17,833 --> 01:13:19,916
+"Daughter and father
+go head to head."
+
+1399
+01:13:21,041 --> 01:13:25,291
+This is Inaaya's bank statement
+from 2016.
+
+1400
+01:13:25,708 --> 01:13:27,708
+The year she bought the house.
+
+1401
+01:13:28,041 --> 01:13:29,083
+You were right.
+
+1402
+01:13:29,333 --> 01:13:31,333
+And she only had
+3 lakhs in the bank?
+
+1403
+01:13:31,666 --> 01:13:34,250
+With 3 lakhs in the bank,
+she bought a 40 million house!
+
+1404
+01:13:34,375 --> 01:13:38,041
+The proof of funds letter
+that the bank should've issued...
+
+1405
+01:13:39,125 --> 01:13:40,333
+That didn't happen either.
+
+1406
+01:13:40,458 --> 01:13:42,208
+Maybe her family paid for it?
+
+1407
+01:13:42,333 --> 01:13:44,250
+Not everyone is born poor like me.
+
+1408
+01:13:44,875 --> 01:13:47,791
+Her dad is a government
+school teacher in Bareilly.
+
+1409
+01:13:48,166 --> 01:13:50,000
+So maybe a builder gifted it?
+
+1410
+01:13:50,250 --> 01:13:52,833
+Hey, Girl, you look needy.
+Here's an apartment, keep it.
+
+1411
+01:13:53,500 --> 01:13:55,041
+Maybe the builder
+was the one in need.
+
+1412
+01:13:55,208 --> 01:13:56,375
+Who was the builder?
+
+1413
+01:13:59,458 --> 01:14:00,458
+Bajral?
+
+1414
+01:14:00,791 --> 01:14:01,791
+Correct.
+
+1415
+01:14:02,166 --> 01:14:03,833
+Why would he gift her a flat?
+
+1416
+01:14:09,125 --> 01:14:11,708
+Ever heard of the Twisted Bar case?
+
+1417
+01:14:13,083 --> 01:14:14,083
+Yes?
+
+1418
+01:14:33,291 --> 01:14:34,291
+Hi.
+
+1419
+01:14:35,041 --> 01:14:36,750
+Hope I'm not disturbing you.
+
+1420
+01:14:37,458 --> 01:14:38,708
+Working?
+
+1421
+01:14:40,000 --> 01:14:42,000
+I'm surprised you're not.
+
+1422
+01:14:43,833 --> 01:14:45,916
+We haven't met in so long...
+
+1423
+01:14:46,166 --> 01:14:49,750
+I was worried you'd stopped eating
+because you missed me.
+
+1424
+01:14:49,958 --> 01:14:51,583
+So I came over.
+And I brought dinner.
+
+1425
+01:14:57,958 --> 01:14:58,958
+So...
+
+1426
+01:15:00,625 --> 01:15:01,750
+How's it going?
+
+1427
+01:15:02,000 --> 01:15:03,791
+Are you here to talk about work?
+
+1428
+01:15:29,083 --> 01:15:30,083
+Akshay!
+
+1429
+01:15:30,625 --> 01:15:32,000
+What the hell!
+What are you doing?
+
+1430
+01:15:32,125 --> 01:15:34,708
+Stealing information to give to my dad?
+
+1431
+01:15:34,833 --> 01:15:37,250
+You think this will earn you a promotion?
+
+1432
+01:15:37,750 --> 01:15:38,750
+Sick!
+
+1433
+01:15:38,958 --> 01:15:39,958
+What will you say?
+
+1434
+01:15:40,041 --> 01:15:42,041
+How did you get
+this information?
+
+1435
+01:15:43,041 --> 01:15:44,333
+What do you think...
+
+1436
+01:15:44,708 --> 01:15:46,041
+Whose idea was this?
+
+1437
+01:15:52,916 --> 01:15:56,083
+Your Honour, the messages that
+were sent to Mr. Vikram Bajral...
+
+1438
+01:15:56,625 --> 01:15:58,000
+We traced them.
+
+1439
+01:15:58,041 --> 01:15:59,708
+First we found the SIM card,
+
+1440
+01:16:00,000 --> 01:16:01,916
+and through that, this phone.
+
+1441
+01:16:03,041 --> 01:16:05,125
+Using cellular tower triangulation,
+
+1442
+01:16:05,333 --> 01:16:07,125
+we figured out the location
+of the phone
+
+1443
+01:16:07,875 --> 01:16:09,083
+We found out
+
+1444
+01:16:09,583 --> 01:16:12,041
+that at the time those
+blackmail messages were sent
+
+1445
+01:16:12,583 --> 01:16:14,000
+where this phone was located.
+
+1446
+01:16:14,333 --> 01:16:16,916
+Basically, the location
+of the blackmailer.
+
+1447
+01:16:17,333 --> 01:16:18,666
+To put it simply,
+Your Honour...
+
+1448
+01:16:18,791 --> 01:16:22,666
+If Inaaya was using this phone
+to blackmail Mr. Bajral,
+
+1449
+01:16:23,625 --> 01:16:25,000
+she would've been very careful
+
+1450
+01:16:25,083 --> 01:16:27,125
+that this phone always be with her.
+
+1451
+01:16:28,208 --> 01:16:29,250
+But that wasn't the case.
+
+1452
+01:16:29,875 --> 01:16:30,833
+Most of the time,
+
+1453
+01:16:30,958 --> 01:16:34,083
+the phone's location was
+far from Inaaya's home.
+
+1454
+01:16:34,625 --> 01:16:35,875
+Even at nights,
+
+1455
+01:16:36,041 --> 01:16:38,041
+when she was presumably home...
+
+1456
+01:16:39,333 --> 01:16:40,916
+The location of this phone
+
+1457
+01:16:41,500 --> 01:16:43,125
+was often RK Puram.
+
+1458
+01:16:43,916 --> 01:16:45,083
+Especially at nights.
+
+1459
+01:16:45,791 --> 01:16:49,083
+So it's clear that it wasn't
+Inaaya, but someone else
+
+1460
+01:16:49,333 --> 01:16:51,916
+who was blackmailing
+Mr. Vikram Bajral.
+
+1461
+01:16:54,208 --> 01:16:55,583
+Your Honour, the defence
+
+1462
+01:16:55,791 --> 01:16:57,875
+is using this blackmail theory
+
+1463
+01:16:58,000 --> 01:17:00,375
+to try and distract
+from the actual murder.
+
+1464
+01:17:01,041 --> 01:17:02,958
+It's also possible that
+Inaaya had an accomplice
+
+1465
+01:17:03,041 --> 01:17:05,166
+and they were blackmailing
+Mr. Bajral together.
+
+1466
+01:17:05,708 --> 01:17:07,208
+Anyway,
+the fact of the matter is
+
+1467
+01:17:07,625 --> 01:17:09,083
+at the time of Inaaya's murder
+
+1468
+01:17:09,208 --> 01:17:11,250
+Mr. Bajral was in the building,
+
+1469
+01:17:11,750 --> 01:17:15,041
+and he had a very strong motive
+for this murder.
+
+1470
+01:17:18,333 --> 01:17:19,958
+The evidence is in front of you.
+
+1471
+01:17:20,041 --> 01:17:21,041
+You can take a look.
+
+1472
+01:17:21,208 --> 01:17:22,625
+How can there be a motive?
+
+1473
+01:17:22,875 --> 01:17:25,791
+When my client and the victim
+never had any connection.
+
+1474
+01:17:25,916 --> 01:17:27,166
+There was a connection.
+
+1475
+01:17:27,416 --> 01:17:30,125
+Nine years ago, at a restaurant
+and hookah bar called Twisted,
+
+1476
+01:17:30,250 --> 01:17:31,208
+there was a huge fire,
+
+1477
+01:17:31,333 --> 01:17:32,916
+and four people died.
+
+1478
+01:17:33,125 --> 01:17:34,291
+The owner was charged
+
+1479
+01:17:34,416 --> 01:17:37,166
+with negligence amounting
+to culpable homicide.
+
+1480
+01:17:37,833 --> 01:17:40,041
+That owner was none other than
+Mr. Vikram Bajral.
+
+1481
+01:17:40,166 --> 01:17:41,875
+-That..
+-Yes.
+
+1482
+01:17:42,083 --> 01:17:43,083
+Objection.
+
+1483
+01:17:43,208 --> 01:17:45,875
+What is the connection
+between these two cases?
+
+1484
+01:17:46,000 --> 01:17:47,000
+There's a connection.
+
+1485
+01:17:47,041 --> 01:17:48,208
+That was nine years ago,
+
+1486
+01:17:48,458 --> 01:17:50,333
+and my client was acquitted
+in that case.
+
+1487
+01:17:50,625 --> 01:17:52,916
+Will prosecution please get
+to the point if there is one?
+
+1488
+01:17:53,000 --> 01:17:56,041
+Your Honour, Inaaya Kothari
+was a key witness in that case.
+
+1489
+01:17:56,166 --> 01:17:58,208
+But she wasn't the only witness.
+
+1490
+01:17:58,500 --> 01:17:59,666
+There were other people.
+
+1491
+01:17:59,791 --> 01:18:03,833
+That doesn't mean that my client was
+in contact with all the witnesses.
+
+1492
+01:18:03,958 --> 01:18:06,208
+I don't know about all,
+but we have strong reason to believe
+
+1493
+01:18:06,333 --> 01:18:08,375
+he was definitely in touch
+with Inaaya Kothari.
+
+1494
+01:18:09,333 --> 01:18:14,375
+Inaaya's Surya Niwas apartment
+was gifted to her by Mr. Vikram Bajral
+
+1495
+01:18:14,500 --> 01:18:16,041
+in return for a favour.
+
+1496
+01:18:18,208 --> 01:18:21,458
+Your Honour, this is a request petition
+to the Honourable High Court
+
+1497
+01:18:21,625 --> 01:18:24,791
+that in the years 2016 and 2017
+from Mr. Bajral's office
+
+1498
+01:18:24,916 --> 01:18:27,208
+any official communication,
+any documents,
+
+1499
+01:18:27,416 --> 01:18:30,375
+any mails or messages
+should all be requisitioned.
+
+1500
+01:18:31,666 --> 01:18:34,000
+It is an extraordinary request,
+Your Honour.
+
+1501
+01:18:35,333 --> 01:18:37,833
+Murder is also not an ordinary crime,
+Your Honour.
+
+1502
+01:18:40,458 --> 01:18:43,666
+Does the defence have any objection in
+submitting the documents?
+
+1503
+01:18:48,125 --> 01:18:51,250
+These documents are all
+8-9 years old, Your Honour.
+
+1504
+01:18:52,500 --> 01:18:53,500
+The records are maintained.
+
+1505
+01:18:53,666 --> 01:18:56,041
+I don't think there's a problem
+in sharing them.
+
+1506
+01:18:56,250 --> 01:18:59,958
+Your Honour, just yesterday,
+Mr. Suresh Nayyar
+
+1507
+01:19:00,041 --> 01:19:01,333
+called up Mr. Bajral's office...
+
+1508
+01:19:01,458 --> 01:19:03,166
+I mean, Surya Niwas Tower's office,
+
+1509
+01:19:03,291 --> 01:19:05,125
+because his conveyance deed was lost.
+
+1510
+01:19:05,458 --> 01:19:08,125
+And I must compliment Mr. Bajral
+and his team,
+
+1511
+01:19:08,250 --> 01:19:10,041
+because within a day,
+
+1512
+01:19:10,250 --> 01:19:12,250
+they emailed this deed to Mr. Nayyar.
+
+1513
+01:19:12,750 --> 01:19:14,666
+And the notable thing is
+
+1514
+01:19:14,791 --> 01:19:18,125
+Mr. Nayyar bought his flat
+in August 2016,
+
+1515
+01:19:18,250 --> 01:19:20,666
+which was one month
+before Inaaya Kothari.
+
+1516
+01:19:21,000 --> 01:19:23,333
+I'm presenting all these
+in the court so that
+
+1517
+01:19:23,708 --> 01:19:27,041
+the defence has no doubt
+about their record maintenance.
+
+1518
+01:19:28,833 --> 01:19:31,833
+We have no problem
+sharing the documents.
+
+1519
+01:19:33,125 --> 01:19:35,041
+We just request the court
+
+1520
+01:19:35,666 --> 01:19:36,833
+to give us some time.
+
+1521
+01:19:37,000 --> 01:19:39,000
+The defence must present
+these documents in court
+
+1522
+01:19:39,041 --> 01:19:40,166
+at the earliest.
+
+1523
+01:19:41,041 --> 01:19:42,250
+Thank you, Your Honour.
+
+1524
+01:19:59,291 --> 01:20:00,291
+Halwa ♪
+
+1525
+01:20:00,500 --> 01:20:03,125
+I made it specially for you,
+with dry fruits.
+
+1526
+01:20:07,041 --> 01:20:10,250
+Here are the papers for Twisted Bar
+that the ACP gave.
+
+1527
+01:20:18,041 --> 01:20:20,708
+"Parties of the Twisted Bar case."
+
+1528
+01:20:21,000 --> 01:20:22,958
+"Vikram Bajral, owner."
+
+1529
+01:20:30,833 --> 01:20:32,750
+"Vikram Bajral, owner."
+
+1530
+01:20:32,916 --> 01:20:36,000
+"Jagdish Singh, manager."
+
+1531
+01:20:36,750 --> 01:20:39,250
+"Ramnath Dhami, supervisor."
+
+1532
+01:20:39,958 --> 01:20:42,000
+"Inaaya Kothari,
+eyewitness."
+
+1533
+01:20:48,833 --> 01:20:50,833
+"Ramnath hung himself in jail."
+
+1534
+01:20:51,750 --> 01:20:54,041
+How did all these cases
+come to me?
+
+1535
+01:20:58,916 --> 01:21:01,666
+They're all connected
+to Twisted bar.
+
+1536
+01:21:02,875 --> 01:21:05,291
+And all these cases
+came to me.
+
+1537
+01:21:06,625 --> 01:21:09,458
+Don't you find it strange
+that all these cases came to me?
+
+1538
+01:21:09,750 --> 01:21:10,958
+Such things happen.
+
+1539
+01:21:11,083 --> 01:21:12,666
+No big deal.
+
+1540
+01:21:13,916 --> 01:21:16,041
+No, I mean...
+These three people and Inaaya...
+
+1541
+01:21:16,125 --> 01:21:18,208
+They were all connected
+to the Twisted Bar case.
+
+1542
+01:21:18,625 --> 01:21:20,375
+Vikram Bajral was also involved
+
+1543
+01:21:20,500 --> 01:21:22,750
+and my father
+was the defence lawyer.
+
+1544
+01:21:23,666 --> 01:21:24,875
+And nine years later,
+
+1545
+01:21:25,000 --> 01:21:27,583
+I'm prosecuting all of them.
+
+1546
+01:21:28,208 --> 01:21:30,000
+This can't be
+a coincidence, right?
+
+1547
+01:21:30,625 --> 01:21:33,916
+Do you realise what
+you're accusing Ahlawat of?
+
+1548
+01:21:35,000 --> 01:21:37,458
+I think you should not over think
+
+1549
+01:21:37,625 --> 01:21:39,000
+and focus on the case.
+
+1550
+01:21:46,333 --> 01:21:47,333
+Dad.
+
+1551
+01:21:47,458 --> 01:21:48,458
+Yes.
+
+1552
+01:21:51,791 --> 01:21:54,125
+-What is this?
+-Mr. Vikram's phone records...
+
+1553
+01:21:54,916 --> 01:21:57,125
+Right after the 2016 Twisted Bar case...
+
+1554
+01:21:58,000 --> 01:21:59,041
+They belong to Inaaya.
+
+1555
+01:21:59,250 --> 01:22:01,125
+These numbers...
+Here, here, and here...
+
+1556
+01:22:01,583 --> 01:22:03,000
+These are all Inaaya's number.
+
+1557
+01:22:04,000 --> 01:22:05,125
+And these other numbers...
+
+1558
+01:22:05,250 --> 01:22:06,708
+They're from sir's office.
+
+1559
+01:22:06,833 --> 01:22:08,333
+From his personal line.
+
+1560
+01:22:09,250 --> 01:22:10,958
+And you won't believe this, Dad.
+
+1561
+01:22:12,875 --> 01:22:14,333
+The sale deed of the flat.
+
+1562
+01:22:15,875 --> 01:22:17,000
+That fool!
+
+1563
+01:22:19,208 --> 01:22:20,875
+I warned him so many times
+
+1564
+01:22:21,041 --> 01:22:23,791
+to avoid direct contact
+with the witnesses!
+
+1565
+01:22:27,250 --> 01:22:30,375
+Dad, you knew about this?
+
+1566
+01:22:35,916 --> 01:22:39,250
+You think Mr. Vikram murdered Inaaya?
+
+1567
+01:22:41,375 --> 01:22:44,000
+The question isn't whether
+he committed the murder,
+
+1568
+01:22:44,416 --> 01:22:47,583
+but whether or not
+the prosecution can prove it.
+
+1569
+01:22:50,708 --> 01:22:52,333
+This sales deed is clear evidence
+
+1570
+01:22:52,458 --> 01:22:55,041
+of a financial transaction between
+him and Inaaya.
+
+1571
+01:22:56,666 --> 01:23:00,666
+Neha cannot find out
+about this document.
+
+1572
+01:23:02,083 --> 01:23:05,000
+We've the court's orders.
+We've to share the evidences.
+
+1573
+01:23:05,750 --> 01:23:06,791
+We will...
+
+1574
+01:23:07,416 --> 01:23:08,791
+But if we do, it's game over.
+
+1575
+01:23:12,333 --> 01:23:14,000
+What has the court ordered?
+
+1576
+01:23:14,250 --> 01:23:16,625
+That all official documents
+from that time period
+
+1577
+01:23:16,750 --> 01:23:18,125
+must be shared.
+
+1578
+01:23:18,458 --> 01:23:20,000
+And we will.
+
+1579
+01:23:20,708 --> 01:23:22,625
+Each and every bill,
+each and every memo,
+
+1580
+01:23:22,791 --> 01:23:24,750
+each and every piece of
+official communication...
+
+1581
+01:23:25,208 --> 01:23:26,416
+So that...
+
+1582
+01:23:27,791 --> 01:23:29,708
+In this barrage of documents,
+
+1583
+01:23:30,166 --> 01:23:32,708
+the one document,
+that will clinch the case
+
+1584
+01:23:33,708 --> 01:23:35,041
+will effectively get lost.
+
+1585
+01:23:35,833 --> 01:23:36,833
+That's it!
+
+1586
+01:23:42,416 --> 01:23:43,625
+What do you think?
+
+1587
+01:23:45,500 --> 01:23:47,083
+I came here to become a lawyer,
+
+1588
+01:23:47,291 --> 01:23:49,333
+but your dad has made me a clerk.
+
+1589
+01:23:52,291 --> 01:23:54,000
+There's nothing of use here.
+
+1590
+01:23:54,708 --> 01:23:56,375
+And there are so many more boxes.
+
+1591
+01:23:56,791 --> 01:23:58,041
+The evidence we're looking for
+
+1592
+01:23:58,166 --> 01:23:59,083
+is hidden somewhere.
+
+1593
+01:23:59,208 --> 01:24:00,375
+I'm the one looking!
+
+1594
+01:24:00,500 --> 01:24:01,458
+You're leaving!
+
+1595
+01:24:01,625 --> 01:24:03,500
+Sorry.
+I would've loved to help,
+
+1596
+01:24:03,666 --> 01:24:05,458
+but I've to meet someone important.
+
+1597
+01:24:06,375 --> 01:24:07,583
+Fine, go.
+
+1598
+01:24:07,791 --> 01:24:09,041
+But remember,
+
+1599
+01:24:09,500 --> 01:24:12,333
+this is the spot
+where you have left me,
+
+1600
+01:24:12,666 --> 01:24:14,583
+you'll find me right here
+when you return.
+
+1601
+01:24:17,791 --> 01:24:19,041
+All right, Atmaram.
+
+1602
+01:24:20,791 --> 01:24:22,625
+You got to do what you have to.
+
+1603
+01:24:26,583 --> 01:24:27,833
+Atma, where is Neha?
+
+1604
+01:24:58,291 --> 01:25:02,000
+It's crystal clear that
+this is the company's fault.
+
+1605
+01:25:03,416 --> 01:25:06,791
+Just be aware, it'll probably take
+years to fight this in court.
+
+1606
+01:25:07,791 --> 01:25:09,583
+The company lacks neither money,
+
+1607
+01:25:09,958 --> 01:25:10,958
+nor lawyers.
+
+1608
+01:25:11,291 --> 01:25:13,000
+Whatever compensation you get
+
+1609
+01:25:13,083 --> 01:25:17,000
+won't even cover the time
+and money you'll spend.
+
+1610
+01:25:19,375 --> 01:25:20,333
+Think about it.
+
+1611
+01:25:21,875 --> 01:25:22,875
+Okay.
+
+1612
+01:25:32,791 --> 01:25:33,791
+Mr. Shyam?
+
+1613
+01:25:35,958 --> 01:25:38,291
+Ramnath was a very sincere
+and honest young boy.
+
+1614
+01:25:40,250 --> 01:25:42,000
+He was just doing his duty.
+
+1615
+01:25:44,625 --> 01:25:47,833
+They made him the scapegoat.
+
+1616
+01:25:48,916 --> 01:25:50,125
+I tried my very best.
+
+1617
+01:25:50,250 --> 01:25:53,000
+But high profile lawyers
+like your father
+
+1618
+01:25:53,333 --> 01:25:54,916
+played dirty.
+
+1619
+01:25:56,291 --> 01:25:58,750
+From pushing the dates
+to buying witnesses...
+
+1620
+01:25:59,250 --> 01:26:01,250
+What hope did Ramnath have for justice?
+
+1621
+01:26:02,208 --> 01:26:04,833
+His entire family was destroyed.
+
+1622
+01:26:07,166 --> 01:26:08,916
+His brother-in-law
+also worked there.
+
+1623
+01:26:10,041 --> 01:26:11,750
+What was his name?
+
+1624
+01:26:33,666 --> 01:26:36,750
+It's not like I've jumped
+into the depths of hopelessness
+
+1625
+01:26:37,333 --> 01:26:39,916
+but it's impossible to find
+that little piece of paper.
+
+1626
+01:26:45,000 --> 01:26:46,000
+Hey, Sis.
+
+1627
+01:26:49,708 --> 01:26:50,708
+Move!
+
+1628
+01:26:54,666 --> 01:26:55,958
+-How are you doing?
+-All good.
+
+1629
+01:26:56,083 --> 01:26:57,083
+Hi.
+
+1630
+01:26:58,958 --> 01:27:00,250
+All this was your idea?
+
+1631
+01:27:00,791 --> 01:27:02,208
+I'll go and get some tea.
+
+1632
+01:27:04,000 --> 01:27:05,000
+You already know
+
+1633
+01:27:05,500 --> 01:27:06,791
+who calls the shots.
+
+1634
+01:27:08,333 --> 01:27:09,750
+So Dad sent you here?
+
+1635
+01:27:11,750 --> 01:27:12,750
+No, Mom did.
+
+1636
+01:27:16,416 --> 01:27:17,750
+Why didn't she come?
+
+1637
+01:27:18,500 --> 01:27:19,750
+Dad was home.
+
+1638
+01:27:20,000 --> 01:27:21,208
+She made your favourite dish.
+
+1639
+01:27:21,875 --> 01:27:23,625
+I'm just the delivery guy.
+
+1640
+01:27:24,416 --> 01:27:26,250
+You're the delivery boy
+and I'm the customer.
+
+1641
+01:27:26,500 --> 01:27:30,375
+I'd been craving homemade food
+for quite a while anyway.
+
+1642
+01:27:31,000 --> 01:27:32,041
+Return the tiffin box!
+
+1643
+01:27:32,166 --> 01:27:33,625
+Yeah, I don't want to
+piss her off!
+
+1644
+01:27:34,333 --> 01:27:37,291
+You know how possessive mom is
+about these boxes.
+
+1645
+01:27:37,875 --> 01:27:39,041
+I know.
+
+1646
+01:27:39,708 --> 01:27:41,166
+If you leave any here by mistake
+
+1647
+01:27:41,291 --> 01:27:43,125
+she'll miss these boxes more than me.
+
+1648
+01:27:45,000 --> 01:27:45,916
+You're right.
+
+1649
+01:27:46,000 --> 01:27:50,083
+Sometimes I feel Mom
+loves these containers more than us.
+
+1650
+01:27:50,750 --> 01:27:52,125
+I really miss her.
+
+1651
+01:27:55,500 --> 01:27:57,125
+How do you manage here?
+
+1652
+01:27:57,625 --> 01:27:58,625
+Here you go.
+
+1653
+01:28:00,000 --> 01:28:02,166
+Okay, I'll see you.
+
+1654
+01:28:02,416 --> 01:28:03,625
+See you.
+
+1655
+01:28:07,500 --> 01:28:08,708
+Can I say something?
+
+1656
+01:28:14,125 --> 01:28:15,583
+I'm really jealous of you.
+
+1657
+01:28:20,625 --> 01:28:22,791
+The way you've stood up
+to Dad...
+
+1658
+01:28:24,625 --> 01:28:25,833
+It's not easy.
+
+1659
+01:28:28,083 --> 01:28:29,875
+I can't even dream of it.
+
+1660
+01:28:32,208 --> 01:28:33,208
+Really?
+
+1661
+01:28:36,041 --> 01:28:38,000
+Actually, I do think about it often.
+
+1662
+01:28:40,666 --> 01:28:42,125
+But I don't have the courage.
+
+1663
+01:28:53,416 --> 01:28:54,833
+I'm really proud of you...
+
+1664
+01:28:55,416 --> 01:28:57,166
+for standing up to him like this.
+
+1665
+01:29:04,250 --> 01:29:05,750
+All the best!
+
+1666
+01:29:11,208 --> 01:29:12,750
+Don't smoke so much!
+
+1667
+01:29:15,458 --> 01:29:16,791
+Take care of yourself.
+
+1668
+01:29:38,458 --> 01:29:41,000
+This file...
+How did this file end up here?
+
+1669
+01:29:45,416 --> 01:29:46,416
+Found it.
+
+1670
+01:29:46,791 --> 01:29:47,875
+I found it!
+
+1671
+01:29:50,291 --> 01:29:53,208
+Vikram Bajral just got
+a fast track ticket to jail!
+
+1672
+01:30:01,791 --> 01:30:03,375
+What happened?
+You don't seem happy.
+
+1673
+01:30:04,166 --> 01:30:06,291
+No, I'm happy.
+Just a little bit tired.
+
+1674
+01:30:06,416 --> 01:30:07,500
+Tomorrow is a big day.
+
+1675
+01:30:07,666 --> 01:30:09,583
+Let's call it a day.
+
+1676
+01:30:35,666 --> 01:30:37,000
+I've been calling you forever!
+
+1677
+01:30:37,041 --> 01:30:38,458
+Why didn't you pick up?
+
+1678
+01:30:39,791 --> 01:30:41,791
+Vikram Bajral knew Inaaya.
+
+1679
+01:30:41,916 --> 01:30:43,333
+We found the evidence.
+
+1680
+01:30:43,458 --> 01:30:44,500
+Really?
+
+1681
+01:30:45,666 --> 01:30:47,791
+Then we will be able
+to prove the motive.
+
+1682
+01:30:48,875 --> 01:30:52,291
+You wanted to tell me in person?
+That's why you didn't pick the call.
+
+1683
+01:30:53,833 --> 01:30:55,291
+There's more.
+
+1684
+01:30:56,208 --> 01:30:57,208
+And what's that?
+
+1685
+01:30:57,583 --> 01:30:59,916
+Vikram Bajral
+didn't murder Inaaya.
+
+1686
+01:31:00,750 --> 01:31:01,875
+What?
+
+1687
+01:31:02,125 --> 01:31:03,875
+Mom, Dad's calling you.
+
+1688
+01:31:04,000 --> 01:31:06,208
+And I'm off to dance class.
+
+1689
+01:31:24,250 --> 01:31:25,875
+Here's your tea.
+Thank you!
+
+1690
+01:31:26,166 --> 01:31:27,458
+Neha, come.
+
+1691
+01:31:27,791 --> 01:31:28,791
+Here's your tea.
+
+1692
+01:31:29,458 --> 01:31:30,583
+Come, have a seat.
+
+1693
+01:31:31,416 --> 01:31:34,291
+If not Vikram Bajral,
+who's the murderer?
+
+1694
+01:31:44,583 --> 01:31:45,583
+You are.
+
+1695
+01:31:48,583 --> 01:31:49,583
+What rubbish!
+
+1696
+01:31:50,458 --> 01:31:51,666
+Why will I do this?
+
+1697
+01:31:52,166 --> 01:31:53,333
+You're making no sense.
+
+1698
+01:31:54,250 --> 01:31:55,791
+Sarika, I just met Mr. Shyam.
+
+1699
+01:32:04,416 --> 01:32:06,291
+His brother-in-law
+worked there as well.
+
+1700
+01:32:07,291 --> 01:32:08,583
+And what was his name?
+
+1701
+01:32:10,125 --> 01:32:11,208
+Lakshman.
+
+1702
+01:32:11,333 --> 01:32:13,416
+He was disabled in the same accident.
+
+1703
+01:32:13,666 --> 01:32:15,416
+And Ramnath's poor sister...
+
+1704
+01:32:16,875 --> 01:32:19,583
+She moved heaven and earth
+to save her brother
+
+1705
+01:32:24,583 --> 01:32:25,625
+But
+
+1706
+01:32:26,416 --> 01:32:30,000
+as usual, the voice of the poor gets lost
+in the noise of the rich.
+
+1707
+01:32:30,208 --> 01:32:31,208
+Sir!
+
+1708
+01:32:36,791 --> 01:32:37,791
+Sir!
+
+1709
+01:32:58,291 --> 01:33:01,000
+I know you implicated Jagdish Singh
+in the drug.
+
+1710
+01:33:08,208 --> 01:33:09,416
+What did she tell you?
+
+1711
+01:33:10,166 --> 01:33:12,208
+I planted the evidence
+because she asked!
+
+1712
+01:33:12,833 --> 01:33:14,333
+I put the drugs in the drawer
+
+1713
+01:33:14,750 --> 01:33:16,208
+I helped her when she needed it.
+
+1714
+01:33:16,333 --> 01:33:18,166
+And now she's talking too much.
+
+1715
+01:33:18,958 --> 01:33:20,166
+I'm heart-broken.
+
+1716
+01:33:23,250 --> 01:33:25,416
+And that video
+condemning Pramod Mishra...
+
+1717
+01:33:25,875 --> 01:33:27,208
+You gave it to Raghav.
+
+1718
+01:33:35,833 --> 01:33:38,333
+I asked Sarika where
+she got the video from.
+
+1719
+01:33:39,291 --> 01:33:41,083
+But she repeated my own line to me.
+
+1720
+01:33:41,208 --> 01:33:42,916
+"I don't reveal my sources."
+
+1721
+01:33:50,916 --> 01:33:52,416
+If you know all of this
+
+1722
+01:33:53,916 --> 01:33:55,750
+then you must know why I did it too?
+
+1723
+01:33:58,833 --> 01:33:59,833
+I know.
+
+1724
+01:34:00,750 --> 01:34:02,333
+I've read the case files.
+
+1725
+01:34:02,958 --> 01:34:04,333
+Case files.
+
+1726
+01:34:05,000 --> 01:34:06,500
+This isn't fiction!
+
+1727
+01:34:07,708 --> 01:34:09,833
+And neither are we
+characters from a book.
+
+1728
+01:34:11,166 --> 01:34:12,708
+Now that you know everything
+
+1729
+01:34:13,375 --> 01:34:14,958
+and everyone gets it!
+
+1730
+01:34:25,416 --> 01:34:27,208
+From here, quickly!
+
+1731
+01:34:27,333 --> 01:34:29,250
+Go out this way, quickly!
+
+1732
+01:34:31,125 --> 01:34:33,500
+My brother was a living,
+breathing person
+
+1733
+01:34:34,791 --> 01:34:36,750
+who did his duty
+with honesty.
+
+1734
+01:34:38,625 --> 01:34:40,666
+Jaggi and Bajral were at fault...
+
+1735
+01:34:42,166 --> 01:34:43,666
+But who went to jail?
+
+1736
+01:34:45,000 --> 01:34:46,291
+His poverty was his doom.
+
+1737
+01:34:46,708 --> 01:34:48,333
+They framed him easily.
+
+1738
+01:34:49,500 --> 01:34:52,500
+Your Honour,
+I clearly instructed Ramnath
+
+1739
+01:34:52,666 --> 01:34:54,458
+to keep the fire exit clear.
+
+1740
+01:34:55,125 --> 01:34:58,333
+But as I left, he set up tables
+there. He didn't follow orders!
+
+1741
+01:35:04,583 --> 01:35:05,958
+I was right there
+
+1742
+01:35:07,375 --> 01:35:09,333
+It was Jaggi who asked him
+to set up the tables.
+
+1743
+01:35:09,583 --> 01:35:11,583
+Sir, the tables will block
+the fire exit.
+
+1744
+01:35:11,708 --> 01:35:15,041
+Don't teach me how to run my
+business. Do as I say or leave!
+
+1745
+01:35:15,666 --> 01:35:17,000
+Fool! He'll instruct me!
+
+1746
+01:35:17,041 --> 01:35:18,958
+Sir, we can't block the fire exit.
+
+1747
+01:35:19,708 --> 01:35:22,375
+The license Bajral had from the MCD
+
+1748
+01:35:22,875 --> 01:35:25,750
+only allowed a third of the ceiling
+to be covered.
+
+1749
+01:35:26,291 --> 01:35:27,916
+The rest had to be left open.
+
+1750
+01:35:28,166 --> 01:35:30,875
+But even on the other two thirds
+
+1751
+01:35:31,041 --> 01:35:33,000
+he had illegally erected structures.
+
+1752
+01:35:39,750 --> 01:35:41,000
+Ramnath, from here.
+
+1753
+01:35:41,041 --> 01:35:42,041
+Get them out from here.
+
+1754
+01:35:42,291 --> 01:35:43,416
+Let's get out that way
+
+1755
+01:35:43,583 --> 01:35:45,375
+Be careful! Quickly! Quickly!
+
+1756
+01:35:45,875 --> 01:35:47,916
+Move this way.
+
+1757
+01:35:48,041 --> 01:35:50,333
+That exit is shut,
+go this way!
+
+1758
+01:35:50,750 --> 01:35:52,250
+Run, quick!
+
+1759
+01:35:53,750 --> 01:35:54,791
+Come on, hurry!
+
+1760
+01:36:36,958 --> 01:36:38,958
+He didn't care for his employees.
+
+1761
+01:36:39,666 --> 01:36:41,291
+Nor did he care for his customers.
+
+1762
+01:36:41,416 --> 01:36:45,000
+All Vikram Bajral cared about
+was profit.
+
+1763
+01:36:46,625 --> 01:36:49,208
+So you framed all of them
+in false cases.
+
+1764
+01:36:49,333 --> 01:36:51,750
+They framed my brother!
+
+1765
+01:36:54,833 --> 01:36:57,000
+He killed himself in jail!
+
+1766
+01:36:59,333 --> 01:37:01,833
+You think any of them
+gave a damn?
+
+1767
+01:37:04,958 --> 01:37:06,291
+It took me years...
+
+1768
+01:37:07,250 --> 01:37:08,958
+I followed every one of them.
+
+1769
+01:37:09,583 --> 01:37:11,750
+Figured out their weaknesses...
+
+1770
+01:37:12,333 --> 01:37:13,958
+And then made a plan
+
+1771
+01:37:14,250 --> 01:37:15,875
+to trap and frame them.
+
+1772
+01:37:17,166 --> 01:37:19,666
+I'll make sure they rot in jail.
+
+1773
+01:37:20,458 --> 01:37:22,708
+How many are these,
+can you count?
+
+1774
+01:37:22,833 --> 01:37:24,333
+Sorry sir, I'll change it.
+
+1775
+01:37:26,208 --> 01:37:27,916
+Sarika, your work is done.
+
+1776
+01:37:48,666 --> 01:37:50,500
+You killed Inaaya!
+
+1777
+01:37:51,291 --> 01:37:52,625
+What was her crime?
+
+1778
+01:37:53,416 --> 01:37:55,041
+What was her crime, you ask?
+
+1779
+01:37:59,916 --> 01:38:02,750
+Vikram Bajral had bought off
+all the other witnesses.
+
+1780
+01:38:04,000 --> 01:38:05,500
+All our hopes,
+
+1781
+01:38:05,833 --> 01:38:07,708
+the prosecution's entire case
+
+1782
+01:38:08,791 --> 01:38:10,750
+depended on Inaaya's testimony.
+
+1783
+01:38:11,500 --> 01:38:13,166
+Sarika was pregnant with Kusum...
+
+1784
+01:38:13,958 --> 01:38:15,958
+Inaaya swore on our unborn child.
+
+1785
+01:38:17,458 --> 01:38:19,708
+That she would tell
+the truth in the court.
+
+1786
+01:38:23,375 --> 01:38:24,375
+So, Ms. Inaaya Kothari
+
+1787
+01:38:24,500 --> 01:38:25,666
+what did you see?
+
+1788
+01:38:26,875 --> 01:38:29,666
+I saw Mr. Jagdish Singh scolding Ramnath.
+
+1789
+01:38:30,000 --> 01:38:31,833
+The club was completely packed
+
+1790
+01:38:31,958 --> 01:38:34,500
+and he had set up tables
+blocking the fire exit.
+
+1791
+01:38:35,041 --> 01:38:37,041
+Mr. Jagdish told him
+to remove the tables.
+
+1792
+01:38:37,208 --> 01:38:38,625
+And did he remove them?
+
+1793
+01:38:38,750 --> 01:38:39,750
+Or not?
+
+1794
+01:38:47,416 --> 01:38:49,750
+Jagdish Singh left the club minutes later.
+
+1795
+01:38:50,041 --> 01:38:51,916
+Ramnath didn't remove the tables.
+
+1796
+01:38:56,000 --> 01:38:57,000
+This is wrong.
+
+1797
+01:38:58,458 --> 01:38:59,666
+This is wrong.
+
+1798
+01:39:25,833 --> 01:39:27,750
+Our home was destroyed.
+
+1799
+01:39:29,750 --> 01:39:31,875
+And Inaaya got
+
+1800
+01:39:33,208 --> 01:39:34,958
+a fancy apartment
+from Vikram Bajral.
+
+1801
+01:39:41,875 --> 01:39:43,916
+Ramnath saved her life,
+
+1802
+01:39:46,000 --> 01:39:47,041
+and in return...
+
+1803
+01:39:48,500 --> 01:39:49,958
+Then why did you let Bajral go?
+
+1804
+01:39:50,791 --> 01:39:52,000
+Why not murder him too?
+
+1805
+01:39:53,625 --> 01:39:54,666
+No.
+
+1806
+01:39:56,750 --> 01:39:59,750
+He framed my brother
+to save his reputation.
+
+1807
+01:40:00,500 --> 01:40:02,625
+I have to ensure his downfall.
+
+1808
+01:40:03,958 --> 01:40:06,416
+His family deserves to suffer too.
+
+1809
+01:40:07,500 --> 01:40:09,416
+The way we have been suffering.
+
+1810
+01:40:10,291 --> 01:40:12,458
+So you framed him in a murder case?
+
+1811
+01:40:13,916 --> 01:40:16,916
+Working in the court for many years
+one thing is clear to me
+
+1812
+01:40:18,000 --> 01:40:20,291
+that only serious crimes
+of the rich matter.
+
+1813
+01:40:20,833 --> 01:40:22,833
+So to frame Vikram Bajral
+
+1814
+01:40:22,958 --> 01:40:26,166
+you killed Inaaya Kothari
+with your bare hands.
+
+1815
+01:40:26,500 --> 01:40:30,041
+It doesn't matter
+if I committed the crime or not.
+
+1816
+01:40:31,000 --> 01:40:34,291
+It only matters
+if the crime can be proven.
+
+1817
+01:40:36,000 --> 01:40:37,333
+And if not
+
+1818
+01:40:38,291 --> 01:40:40,041
+then I haven't committed any crime.
+
+1819
+01:40:42,375 --> 01:40:44,916
+You were blackmailing Bajral, not Inaaya.
+
+1820
+01:40:45,666 --> 01:40:48,916
+You planted the photographs
+of his affair at Inaaya's house.
+
+1821
+01:40:49,291 --> 01:40:51,583
+You planted the motive
+for the murder.
+
+1822
+01:40:51,916 --> 01:40:53,625
+You asked Vikram Bajral
+
+1823
+01:40:53,750 --> 01:40:56,000
+to come to Inaaya's terrace.
+
+1824
+01:40:56,916 --> 01:40:58,250
+Full marks for the planning.
+
+1825
+01:40:58,458 --> 01:41:00,291
+You work in the building as a tutor.
+
+1826
+01:41:00,416 --> 01:41:02,916
+So no one would've paid
+much attention to you.
+
+1827
+01:41:03,500 --> 01:41:04,666
+Reyaan.
+
+1828
+01:41:05,833 --> 01:41:08,333
+Ms. Sarika,
+you're here early today.
+
+1829
+01:41:08,458 --> 01:41:10,458
+Now that I'm here,
+let's start the class.
+
+1830
+01:41:10,625 --> 01:41:12,875
+And today, we can end
+ten minutes early.
+
+1831
+01:41:13,041 --> 01:41:14,041
+Okay.
+
+1832
+01:41:15,166 --> 01:41:17,291
+Then you went straight
+to the 13th floor
+
+1833
+01:41:17,416 --> 01:41:18,750
+to Reyaan's house.
+
+1834
+01:41:21,500 --> 01:41:22,583
+After the class, you went
+
+1835
+01:41:22,708 --> 01:41:25,666
+to the 8th floor through the
+fire exit, to Inaaya's home.
+
+1836
+01:41:29,291 --> 01:41:31,000
+Yeah, the lunch was really good.
+
+1837
+01:41:31,041 --> 01:41:32,375
+I met Medha and I'm...
+
+1838
+01:41:43,750 --> 01:41:46,625
+You knew the CCTV cameras
+were out of order.
+
+1839
+01:41:46,833 --> 01:41:48,750
+So there would be no recording
+
+1840
+01:41:49,958 --> 01:41:52,875
+But you entering
+and exiting the building
+
+1841
+01:41:53,416 --> 01:41:55,166
+I have that footage.
+
+1842
+01:41:59,041 --> 01:42:02,333
+And you have a motive for murder.
+
+1843
+01:42:07,375 --> 01:42:08,625
+I'll get some water.
+
+1844
+01:42:10,500 --> 01:42:11,916
+Are you okay?
+
+1845
+01:42:18,000 --> 01:42:22,208
+All the evidence is circumstantial.
+How will you prove that I murdered her?
+
+1846
+01:42:31,875 --> 01:42:34,041
+So to frame Vikram Bajral
+
+1847
+01:42:34,166 --> 01:42:37,291
+you killed Inaaya Kothari
+with your bare hands.
+
+1848
+01:42:37,833 --> 01:42:41,000
+It doesn't matter if I committed
+the crime or not.
+
+1849
+01:42:41,291 --> 01:42:44,500
+It only cares if the crime
+can be proven.
+
+1850
+01:42:45,041 --> 01:42:46,375
+And if it cannot
+
+1851
+01:42:46,500 --> 01:42:48,166
+then I haven't committed a crime.
+
+1852
+01:42:55,958 --> 01:42:56,958
+Neha...
+
+1853
+01:42:59,166 --> 01:43:01,458
+Giving you these cases was risky.
+
+1854
+01:43:02,458 --> 01:43:03,875
+I made a mistake.
+
+1855
+01:43:04,583 --> 01:43:05,958
+I underestimated you.
+
+1856
+01:43:07,041 --> 01:43:08,916
+You are your father's daughter.
+
+1857
+01:43:10,500 --> 01:43:13,583
+You used me to take
+revenge on my father.
+
+1858
+01:43:14,833 --> 01:43:15,958
+I'll remember that.
+
+1859
+01:43:16,250 --> 01:43:17,458
+Honestly speaking,
+
+1860
+01:43:17,625 --> 01:43:19,166
+you were never a part of the plan.
+
+1861
+01:43:19,958 --> 01:43:21,583
+All the pieces were in place
+
+1862
+01:43:21,708 --> 01:43:22,666
+but when I found out
+
+1863
+01:43:22,791 --> 01:43:25,333
+that Rajvansh's daughter
+has joined the prosecution,
+
+1864
+01:43:26,041 --> 01:43:27,666
+it felt like a sign from God.
+
+1865
+01:43:38,500 --> 01:43:41,125
+And when you approached me
+for help in Mishra's case,
+
+1866
+01:43:41,833 --> 01:43:42,958
+I became sure
+
+1867
+01:43:43,875 --> 01:43:45,500
+that this wasn't
+just a sign,
+
+1868
+01:43:45,791 --> 01:43:47,208
+but an opportunity...
+
+1869
+01:43:47,958 --> 01:43:50,250
+To settle scores with Rajvansh.
+
+1870
+01:43:54,083 --> 01:43:55,833
+I don't understand one thing...
+
+1871
+01:43:56,625 --> 01:43:59,000
+How did you ensure that
+all the cases came to me?
+
+1872
+01:44:00,291 --> 01:44:03,125
+Along with Rathi, were you sleeping
+with Ahlawat as well?
+
+1873
+01:44:05,583 --> 01:44:07,708
+I don't have the money
+to bribe people.
+
+1874
+01:44:09,500 --> 01:44:12,375
+I use what I have.
+
+1875
+01:44:20,166 --> 01:44:21,958
+Aren't you disgusted by yourself?
+
+1876
+01:44:22,875 --> 01:44:24,166
+How do you sleep at night?
+
+1877
+01:44:24,333 --> 01:44:26,458
+Why don't you ask
+Vikram Bajral this?
+
+1878
+01:44:28,000 --> 01:44:29,291
+And why just Bajral...
+
+1879
+01:44:30,791 --> 01:44:32,666
+Why don't you ask your father?
+
+1880
+01:44:40,125 --> 01:44:42,333
+I agree, I used you.
+
+1881
+01:44:43,416 --> 01:44:46,291
+But I have nothing
+against you, Neha.
+
+1882
+01:44:47,958 --> 01:44:49,041
+Please, Sarika...
+
+1883
+01:44:49,250 --> 01:44:50,458
+No more lies.
+
+1884
+01:44:52,458 --> 01:44:53,625
+It is the truth.
+
+1885
+01:44:55,333 --> 01:44:57,375
+What you do now is up to you.
+
+1886
+01:45:00,708 --> 01:45:02,708
+You know everything now.
+
+1887
+01:45:04,458 --> 01:45:05,708
+What's your plan?
+
+1888
+01:45:53,083 --> 01:45:55,041
+I thought you would only come home.
+
+1889
+01:45:55,125 --> 01:45:57,041
+When the case was closed.
+
+1890
+01:45:57,708 --> 01:45:58,708
+Well...
+
+1891
+01:45:59,166 --> 01:46:00,291
+Welcome home.
+
+1892
+01:46:00,916 --> 01:46:02,333
+This isn't me returning home.
+
+1893
+01:46:03,875 --> 01:46:05,375
+I just had a question for you.
+
+1894
+01:46:06,458 --> 01:46:08,000
+Who's asking the question...
+
+1895
+01:46:09,000 --> 01:46:12,000
+My daughter,
+or a public prosecutor?
+
+1896
+01:46:12,583 --> 01:46:13,583
+Both.
+
+1897
+01:46:16,000 --> 01:46:17,000
+Sit.
+
+1898
+01:46:27,375 --> 01:46:29,250
+Do you remember the Twisted Bar case?
+
+1899
+01:46:30,166 --> 01:46:31,375
+What about it?
+
+1900
+01:46:31,916 --> 01:46:33,041
+Was he guilty?
+
+1901
+01:46:33,500 --> 01:46:35,000
+Who? Vikram Bajral?
+
+1902
+01:46:36,041 --> 01:46:37,375
+You know he was acquitted.
+
+1903
+01:46:38,791 --> 01:46:40,291
+I know what the court said.
+
+1904
+01:46:41,583 --> 01:46:43,791
+But was he responsible
+for the accident?
+
+1905
+01:46:44,833 --> 01:46:47,250
+I don't get paid
+to judge my clients.
+
+1906
+01:46:48,083 --> 01:46:51,291
+I get paid to prove them innocent.
+
+1907
+01:46:52,000 --> 01:46:53,291
+To win their cases.
+
+1908
+01:46:54,583 --> 01:46:56,000
+As a lawyer,
+
+1909
+01:46:57,083 --> 01:46:58,500
+fairness, justice
+
+1910
+01:46:59,750 --> 01:47:01,375
+don't you have any duty towards it?
+
+1911
+01:47:03,708 --> 01:47:05,208
+Don't be so naive, Neha.
+
+1912
+01:47:06,208 --> 01:47:08,333
+Real life isn't a moral science class.
+
+1913
+01:47:08,708 --> 01:47:10,958
+Where right and wrong
+are all that matter.
+
+1914
+01:47:12,000 --> 01:47:14,000
+Whether or not someone
+has committed a crime...
+
+1915
+01:47:14,125 --> 01:47:16,083
+that is immaterial.
+
+1916
+01:47:16,791 --> 01:47:18,791
+If the crime can be proved,
+
+1917
+01:47:18,916 --> 01:47:20,208
+then the person is guilty...
+
+1918
+01:47:20,333 --> 01:47:21,458
+Or else they aren't.
+
+1919
+01:48:20,708 --> 01:48:22,000
+All rise.
+
+1920
+01:48:22,625 --> 01:48:24,208
+Honourable Judge presiding.
+
+1921
+01:48:33,000 --> 01:48:34,666
+Prosecution may please continue
+
+1922
+01:48:34,791 --> 01:48:37,000
+with the questioning
+of the accused.
+
+1923
+01:48:56,625 --> 01:48:57,958
+How are you, Neha?
+
+1924
+01:49:01,250 --> 01:49:02,416
+Mr. Vikram Bajral,
+
+1925
+01:49:03,416 --> 01:49:05,375
+Bajral Builders' project
+
+1926
+01:49:05,500 --> 01:49:07,000
+Surya Niwas Towers
+
+1927
+01:49:07,125 --> 01:49:11,333
+is one of the largest housing societies
+in the real estate sector. Am I correct?
+
+1928
+01:49:12,500 --> 01:49:13,500
+Correct.
+
+1929
+01:49:14,000 --> 01:49:16,000
+And I'm very, very proud of it.
+
+1930
+01:49:16,250 --> 01:49:17,708
+As you should be.
+
+1931
+01:49:18,000 --> 01:49:20,708
+It's so hard to get to the top,
+in any field.
+
+1932
+01:49:21,250 --> 01:49:23,250
+You must have faced
+many hardships too.
+
+1933
+01:49:23,375 --> 01:49:25,083
+I mean, if I'm not wrong,
+
+1934
+01:49:25,208 --> 01:49:28,375
+there are some 12 civil cases
+against you.
+
+1935
+01:49:29,041 --> 01:49:30,666
+Well, as they say,
+
+1936
+01:49:31,375 --> 01:49:33,041
+the success of a business
+
+1937
+01:49:33,166 --> 01:49:35,625
+is judged not by the number
+of its well wishers,
+
+1938
+01:49:36,375 --> 01:49:38,500
+but the number of its rivals.
+
+1939
+01:49:39,458 --> 01:49:41,708
+By the way,
+in all of these cases,
+
+1940
+01:49:42,250 --> 01:49:43,625
+the charges against me
+
+1941
+01:49:43,750 --> 01:49:45,583
+have not been proven.
+
+1942
+01:49:46,666 --> 01:49:49,000
+So you mean all those
+accusations were false,
+
+1943
+01:49:49,083 --> 01:49:50,500
+and according to the defence,
+
+1944
+01:49:50,666 --> 01:49:54,208
+the murder charges in this case
+are false too.
+
+1945
+01:49:54,583 --> 01:49:55,500
+Absolutely.
+
+1946
+01:49:55,666 --> 01:49:57,041
+As I have stated earlier,
+
+1947
+01:49:57,166 --> 01:49:59,291
+I didn't even know the deceased...
+
+1948
+01:49:59,416 --> 01:50:01,458
+To claim I murdered her
+is outrageous.
+
+1949
+01:50:03,000 --> 01:50:05,375
+By deceased,
+do you mean Inaaya Kothari?
+
+1950
+01:50:07,125 --> 01:50:09,291
+Yes. Inaaya Kothari.
+
+1951
+01:50:23,500 --> 01:50:27,291
+Your Honour, these are Mr. Vikram Bajral's
+phone records
+
+1952
+01:50:27,416 --> 01:50:29,041
+from 2016 and 2017,
+
+1953
+01:50:29,166 --> 01:50:32,125
+which prove that for many days
+after the Twisted Bar case,
+
+1954
+01:50:32,250 --> 01:50:34,458
+he was in touch with Inaaya Kothari.
+
+1955
+01:50:47,000 --> 01:50:50,000
+These, Your Honour, are
+Inaaya Kothari's bank statements.
+
+1956
+01:50:50,083 --> 01:50:53,666
+They show that she only had about
+3 lakh rupees in her account.
+
+1957
+01:50:53,791 --> 01:50:55,958
+There was no way
+she could afford this flat.
+
+1958
+01:50:56,041 --> 01:50:58,708
+Just two weeks
+after the Twisted Bar case,
+
+1959
+01:50:58,833 --> 01:51:00,333
+she moved into her new flat.
+
+1960
+01:51:02,916 --> 01:51:04,958
+Your Honour,
+these are the property papers
+
+1961
+01:51:05,041 --> 01:51:07,125
+which prove that the owner
+of Bajral builders,
+
+1962
+01:51:07,250 --> 01:51:08,916
+Mr. Vikram Bajral,
+
+1963
+01:51:09,041 --> 01:51:12,875
+personally gifted Inaaya Kothari
+the Surya Niwas flat.
+
+1964
+01:51:13,333 --> 01:51:15,041
+This proves without a doubt
+
+1965
+01:51:15,416 --> 01:51:18,041
+that Mr. Vikram Bajral
+knew Inaaya Kothari.
+
+1966
+01:51:19,041 --> 01:51:22,041
+Mr. Rajvansh, does the defence
+have any questions?
+
+1967
+01:51:26,041 --> 01:51:27,625
+No, Your Honour.
+
+1968
+01:51:31,041 --> 01:51:32,791
+No further questions,
+Your Honour.
+
+1969
+01:51:51,291 --> 01:51:54,250
+Considering all the evidence
+presented to this court,
+
+1970
+01:51:54,500 --> 01:51:57,333
+this court finds defendant Vikram Bajral
+
+1971
+01:51:57,458 --> 01:52:00,000
+guilty of the murder of Inaaya Kothari,
+
+1972
+01:52:00,375 --> 01:52:03,625
+and under the Indian Penal Code
+Section 302,
+
+1973
+01:52:03,750 --> 01:52:06,041
+he is awarded life imprisonment.
+
+1974
+01:52:07,041 --> 01:52:10,833
+And in light of
+the new evidence presented,
+
+1975
+01:52:11,333 --> 01:52:14,666
+this court orders that
+the Twisted Bar case be re-opened
+
+1976
+01:52:14,958 --> 01:52:18,250
+and reinvestigated, afresh.
+
+1977
+01:52:30,958 --> 01:52:33,250
+It's all your fault
+if I go down,
+
+1978
+01:52:33,375 --> 01:52:34,416
+I'll take you with me.
+
+1979
+01:52:34,583 --> 01:52:35,875
+You're all hand-in-glove.
+
+1980
+01:52:38,000 --> 01:52:39,041
+Leave me!
+
+1981
+01:52:39,416 --> 01:52:41,000
+My name is Vikram Bajral!
+
+1982
+01:52:53,000 --> 01:52:54,000
+Neha...
+
+1983
+01:52:56,666 --> 01:52:58,000
+Hello, sir.
+
+1984
+01:52:58,083 --> 01:52:59,083
+Bye, Neha.
+
+1985
+01:53:01,041 --> 01:53:02,583
+Dad, I'll see you in the car.
+
+1986
+01:53:02,708 --> 01:53:03,708
+Yeah.
+
+1987
+01:53:08,791 --> 01:53:09,833
+Smile!
+
+1988
+01:53:10,625 --> 01:53:12,125
+You just won your 10th case!
+
+1989
+01:53:12,916 --> 01:53:16,000
+If you hadn't saved Bajral
+in the Twisted Bar case,
+
+1990
+01:53:16,625 --> 01:53:18,250
+we wouldn't be on opposing sides.
+
+1991
+01:53:19,291 --> 01:53:20,291
+I'm actually glad...
+
+1992
+01:53:21,125 --> 01:53:22,750
+That I lost my first ever case
+
+1993
+01:53:23,041 --> 01:53:24,208
+to my daughter.
+
+1994
+01:53:26,750 --> 01:53:28,125
+I want to thank you.
+
+1995
+01:53:28,291 --> 01:53:30,833
+You've unburdened me
+of the mistake I made.
+
+1996
+01:53:30,958 --> 01:53:32,208
+All thanks to you.
+
+1997
+01:53:33,250 --> 01:53:35,375
+Some burdens cannot be eased, Dad.
+
+1998
+01:53:36,166 --> 01:53:37,750
+They are someone else's now.
+
+1999
+01:53:41,791 --> 01:53:43,791
+Was Bajral threatening you in the court?
+
+2000
+01:53:44,250 --> 01:53:45,625
+Let him try.
+
+2001
+01:53:45,750 --> 01:53:47,875
+What will he do?
+File a case against me?
+
+2002
+01:53:48,666 --> 01:53:51,250
+I now have a better lawyer to defend me!
+
+2003
+01:53:51,708 --> 01:53:54,250
+I have a new partner at Rajvansh Legal.
+
+2004
+01:53:57,083 --> 01:53:58,291
+I don't know, Dad...
+
+2005
+01:53:59,250 --> 01:54:02,208
+I don't know where I'll go
+from here. I'm just not sure.
+
+2006
+01:54:03,000 --> 01:54:04,125
+Whatever path you choose,
+
+2007
+01:54:04,250 --> 01:54:05,583
+I will be proud of you.
+
+2008
+01:54:10,333 --> 01:54:11,333
+Go.
+
+2009
+01:54:11,500 --> 01:54:13,041
+The reporters are
+waiting for you.
+
+2010
+01:54:14,125 --> 01:54:16,083
+Ms. Neha, one question!
+
+2011
+01:54:17,708 --> 01:54:19,458
+Go! Enjoy your win.
+
+2012
+01:54:22,208 --> 01:54:25,041
+Ms. Neha, one question!
+
+2013
+01:54:47,166 --> 01:54:49,625
+I don't know if I should
+thank you or apologise...
+
+2014
+01:54:53,125 --> 01:54:54,625
+No need to say anything.
+
+2015
+01:54:56,250 --> 01:54:58,291
+You got the revenge you wanted.
+
+2016
+01:55:00,708 --> 01:55:02,708
+The court may have ruled
+in my favour
+
+2017
+01:55:04,583 --> 01:55:06,375
+but you got me justice, Neha.
+
+2018
+01:55:09,333 --> 01:55:11,250
+This isn't justice, Sarika.
+
+2019
+01:55:12,291 --> 01:55:14,166
+You, my father, and Vikram Bajral...
+
+2020
+01:55:14,291 --> 01:55:15,666
+You all are similar.
+
+2021
+01:55:16,625 --> 01:55:18,750
+Just like them,
+you too exploited the law.
+
+2022
+01:55:21,291 --> 01:55:22,666
+Perhaps you are right.
+
+2023
+01:55:24,000 --> 01:55:25,375
+Why did you let me off?
+
+2024
+01:55:29,000 --> 01:55:33,250
+The way my father's crimes
+have shamed me...
+
+2025
+01:55:35,333 --> 01:55:37,333
+I don't want Kusum
+to go through the same.
+
+2026
+01:55:38,916 --> 01:55:40,875
+It should stop somewhere.
+
+2027
+01:55:42,833 --> 01:55:44,208
+So, congratulations.
+
+2028
+01:55:45,083 --> 01:55:46,750
+You got what you wanted.
+
+2029
+01:55:48,000 --> 01:55:49,500
+I've lost so much.
+
+2030
+01:55:50,458 --> 01:55:51,833
+First my brother...
+
+2031
+01:55:53,041 --> 01:55:54,625
+And now a friend.
+
+2032
+01:55:56,291 --> 01:55:57,583
+You're a Rajvansh.
+
+2033
+01:55:57,958 --> 01:55:59,791
+I thought that,
+just like your father
+
+2034
+01:56:00,250 --> 01:56:02,833
+winning was more important
+than justice for you...
+
+2035
+01:56:04,000 --> 01:56:05,708
+But what you've done today...
+
+2036
+01:56:06,291 --> 01:56:08,125
+You've made a name for yourself.
+
+2037
+01:56:09,333 --> 01:56:11,208
+Independent of your hallowed surname.
+
+2038
+01:56:13,125 --> 01:56:14,125
+Neha.
+
+2039
+01:56:23,083 --> 01:56:24,250
+Thank you.
+
+2040
+01:56:44,583 --> 01:56:46,416
+Ma'am, I can't believe it...
+
+2041
+01:56:46,875 --> 01:56:49,291
+You want to fight for
+a poor woman like me?
+
+2042
+01:56:51,625 --> 01:56:52,625
+Why not?
+
+2043
+01:56:52,958 --> 01:56:54,333
+Rich or poor,
+
+2044
+01:56:55,041 --> 01:56:57,208
+everyone deserves justice.
+
+
+
